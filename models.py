@@ -13,6 +13,7 @@ from sklearn.preprocessing import OneHotEncoder, OrdinalEncoder
 from sklearn.metrics import balanced_accuracy_score
 from sklearn.metrics import classification_report
 
+# 'format is: model = models.many_models(X_train, y_train, X_test, y_test)'
 
 # run processed data through various models to determine which is best
 def many_models(x,y,xt,yt):
