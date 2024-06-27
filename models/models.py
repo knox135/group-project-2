@@ -29,8 +29,8 @@ def many_models(x,y,xt,yt):
     rf.fit(x,y)
     rf_predict = rf.predict(x)
     rf_test = rf.predict(xt)
-    print(f'Random Forest \nbalanced test score: {balanced_accuracy_score(yt,rf_test)}')
-    print(f'classification report: \n {classification_report(yt,rf_test)}')
+    print(f'\nRandom Forest \nTest Accuracy: {rf.score(xt,yt)}\nbalanced test score: {balanced_accuracy_score(yt,rf_test)}')
+    #print(f'classification report: \n {classification_report(yt,rf_test)}')
     
     # Gradient Boosting Classifier model
     gr = GradientBoostingClassifier()
@@ -38,24 +38,24 @@ def many_models(x,y,xt,yt):
     
     gr_predict = gr.predict(x)
     gr_test = gr.predict(xt)
-    print(f'Gradient Boost \nbalanced test score: {balanced_accuracy_score(yt,gr_test)}')
-    print(f'\n classification report: \n {classification_report(yt,gr_test)}')
+    print(f'\nGradient Boost \nTest Accuracy: {gr.score(xt,yt)}\nbalanced test score: {balanced_accuracy_score(yt,gr_test)}')
+    #print(f'\n classification report: \n {classification_report(yt,gr_test)}')
     
     # Logistic Regression model
     lr = LogisticRegression(max_iter=120)
     lr.fit(x_scale,y)
     lr_predict = lr.predict(x_scale)
     lr_test = lr.predict(xt_scale)
-    print(f'Logistic Regression \nbalanced test score: {balanced_accuracy_score(yt,lr_test)}')
-    print(f'classification report: \n {classification_report(yt,lr_test)}')
+    print(f'\nLogistic Regression \nTest Accuracy: {lr.score(xt_scale,yt)}\nbalanced test score: {balanced_accuracy_score(yt,lr_test)}')
+    #print(f'classification report: \n {classification_report(yt,lr_test)}')
     
     # Poly Support Vector Classifier model
     svc = SVC(kernel='poly')
     svc.fit(x_scale,y)
     svc_predict = svc.predict(x_scale)
     svc_test = svc.predict(xt_scale)
-    print(f'Poly Support Vector \nbalanced test score: {balanced_accuracy_score(yt,svc_test)}')
-    print(f'classification report: \n {classification_report(yt,svc_test)}')
+    print(f'\nPoly Support Vector \nTest Accuracy: {svc.score(xt_scale,yt)}\nBalanced test score: {balanced_accuracy_score(yt,svc_test)}')
+    #print(f'classification report: \n {classification_report(yt,svc_test)}')
 
     
     # ADA Boost model(slows the function down quite a lot, comment out or delete if need to speed up for rest)
@@ -63,15 +63,15 @@ def many_models(x,y,xt,yt):
     ada_low.fit(x_scale,y)
     ada_low_predict = ada_low.predict(x_scale)
     ada_low_test = ada_low.predict(xt_scale)
-    print(f'ADA low estimators \nbalanced test score: {balanced_accuracy_score(yt,ada_low_test)}')
-    print(f'classification report: \n {classification_report(yt,ada_low_test)}')
+    print(f'\nADA low estimators \nTest Accuracy: {ada_low.score(xt_scale,yt)}\nbalanced test score: {balanced_accuracy_score(yt,ada_low_test)}')
+    #print(f'classification report: \n {classification_report(yt,ada_low_test)}')
     
     ada = AdaBoostClassifier(n_estimators=2000)    
     ada.fit(x_scale,y)
     ada_predict = ada.predict(x_scale)
     ada_test = ada.predict(xt_scale)
-    print(f'ADA \nbalanced test score: {balanced_accuracy_score(yt,ada_test)}')
-    print(f'classification report: \n {classification_report(yt,ada_test)}')
+    print(f'\nADA \nTest Accuracy: {ada.score(xt_scale,yt)}\nbalanced test score: {balanced_accuracy_score(yt,ada_test)}')
+    #print(f'classification report: \n {classification_report(yt,ada_test)}')
     
     # Linear Support Vector Classifier model
     svc_sigmoid = SVC(kernel='sigmoid')
@@ -79,8 +79,8 @@ def many_models(x,y,xt,yt):
     svc_sigmoid_predict = svc_sigmoid.predict(x_scale)
     svc_sigmoid_test = svc_sigmoid.predict(xt_scale)
     
-    print(f'SVC Sigmoid \nbalanced test score: {balanced_accuracy_score(yt,svc_sigmoid_test)}')
-    print(f'classification report: \n {classification_report(yt,svc_sigmoid_test)}')
+    print(f'\nSVC Sigmoid \nTest Accuracy: {svc_sigmoid.score(xt_scale,yt)}\nbalanced test score: {balanced_accuracy_score(yt,svc_sigmoid_test)}')
+    #print(f'classification report: \n {classification_report(yt,svc_sigmoid_test)}')
     
     # comparison dataframe of the models
     comparison = pd.DataFrame(
@@ -95,14 +95,14 @@ def many_models(x,y,xt,yt):
         ],
         columns=['Model Name','Trained Score', 'Test Score','Balanced Trained Score','Balanced Test Score']
     ).set_index('Model Name')
-    
+    comparison
     # make new column calculating difference between training and test scores
     comparison['Balanced Difference'] = (comparison['Balanced Trained Score'] - comparison['Balanced Test Score'])
     
     # sort by difference column
     comparison = comparison.sort_values(by='Balanced Test Score', ascending=False)
     #comparison = comparison[['Trained Score','Test Score','Difference','Balanced Test Score']]
-    comparison # type: ignore
+    comparison.head(7) # type: ignore
     
     # plot the comparison dataframe on a bar graph for visualizations
     comparison.plot(kind='bar').tick_params(axis='x',rotation=45)
@@ -120,7 +120,8 @@ def many_models(x,y,xt,yt):
         models['train_score'].append(balanced_accuracy_score(y, y_train_pred))
         models['test_score'].append(balanced_accuracy_score(yt, y_test_pred))
     models_df = pd.DataFrame(models)
-    
+    models_df
     # show graph of for loop
+    print(comparison)
     models_df.plot(title='Random forest max depth', x='max_depth')
     return comparison,models_df
