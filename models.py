@@ -35,6 +35,7 @@ def many_models(x,y,xt,yt):
     # Gradient Boosting Classifier model
     gr = GradientBoostingClassifier()
     gr.fit(x,y)
+    
     gr_predict = gr.predict(x)
     gr_test = gr.predict(xt)
     print(f'Gradient Boost \nbalanced test score: {balanced_accuracy_score(yt,gr_test)}')
@@ -104,7 +105,7 @@ def many_models(x,y,xt,yt):
     comparison # type: ignore
     
     # plot the comparison dataframe on a bar graph for visualizations
-    comparison.plot(kind='bar').tick_params(axis='x',labelrotation=45)
+    comparison.plot(kind='bar').tick_params(axis='x',rotation=45)
     
     # check best depth for random forest
     models = {'train_score': [], 'test_score': [], 'max_depth': []}
