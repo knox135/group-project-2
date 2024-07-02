@@ -1,0 +1,5970 @@
+Entity,Year,Wine | 00000564 || Production | 005510 || tonnes
+Ethiopia,1997,1183.07
+Kyrgyzstan,2011,1377.4
+Kyrgyzstan,2009,1410.3
+Kyrgyzstan,2010,1640.4
+Israel,2020,1823.05
+Paraguay,2019,1846.8
+Paraguay,2018,1896.2
+Antigua and Barbuda,2010,0
+Antigua and Barbuda,2011,0
+Antigua and Barbuda,2012,0
+Antigua and Barbuda,2013,0
+Botswana,2010,0
+Botswana,2011,0
+Botswana,2012,0
+Botswana,2013,0
+Brunei,2020,0
+Brunei,2021,0
+Cape Verde,2010,0
+Cape Verde,2011,0
+Cape Verde,2012,0
+Cape Verde,2013,0
+Caribbean (FAO),2010,0
+Caribbean (FAO),2011,0
+Caribbean (FAO),2012,0
+Caribbean (FAO),2013,0
+China,1961,0
+China,1962,0
+China,1963,0
+China,1964,0
+China,1965,0
+China,1966,0
+China,1967,0
+China,1968,0
+China,1969,0
+China,1970,0
+China,1971,0
+China,1972,0
+China,1973,0
+China,1974,0
+China,1975,0
+China,1976,0
+China,1977,0
+China (FAO),1961,0
+China (FAO),1962,0
+China (FAO),1963,0
+China (FAO),1964,0
+China (FAO),1965,0
+China (FAO),1966,0
+China (FAO),1967,0
+China (FAO),1968,0
+China (FAO),1969,0
+China (FAO),1970,0
+China (FAO),1971,0
+China (FAO),1972,0
+China (FAO),1973,0
+China (FAO),1974,0
+China (FAO),1975,0
+China (FAO),1976,0
+China (FAO),1977,0
+Colombia,1961,0
+Colombia,1962,0
+Colombia,1963,0
+Colombia,1964,0
+Colombia,1965,0
+Colombia,1966,0
+Colombia,1967,0
+Colombia,1968,0
+Colombia,1969,0
+Colombia,1970,0
+Colombia,1971,0
+Colombia,1972,0
+Colombia,1973,0
+Colombia,1974,0
+Colombia,1975,0
+Colombia,1976,0
+Colombia,1977,0
+Colombia,1978,0
+Colombia,1979,0
+Colombia,1980,0
+Colombia,1981,0
+Colombia,1982,0
+Colombia,1983,0
+Colombia,1984,0
+Colombia,1985,0
+Colombia,1986,0
+Colombia,1987,0
+Colombia,1988,0
+Colombia,1989,0
+Cuba,1961,0
+Cuba,1962,0
+Cuba,1963,0
+Cuba,1964,0
+Cuba,1965,0
+Cuba,1966,0
+Cuba,1967,0
+Cuba,1968,0
+Cuba,1969,0
+Cuba,1970,0
+Cuba,1971,0
+Cuba,1972,0
+Cuba,1973,0
+Cuba,1974,0
+Cuba,1975,0
+Cuba,1976,0
+Cuba,1977,0
+Cuba,1978,0
+Cuba,1979,0
+Cuba,1980,0
+Cuba,1981,0
+Cuba,1982,0
+Cuba,1983,0
+Cuba,1984,0
+Cuba,1985,0
+Cuba,1986,0
+Cuba,1987,0
+Cuba,1988,0
+Cuba,1989,0
+Cuba,1990,0
+Democratic Republic of Congo,2010,0
+Democratic Republic of Congo,2011,0
+Democratic Republic of Congo,2012,0
+Democratic Republic of Congo,2013,0
+Djibouti,2010,0
+Djibouti,2011,0
+Djibouti,2012,0
+Djibouti,2013,0
+Dominica,2010,0
+Dominica,2011,0
+Dominica,2012,0
+Dominica,2013,0
+Estonia,2002,0
+Estonia,2003,0
+Estonia,2004,0
+Estonia,2005,0
+Estonia,2006,0
+Estonia,2007,0
+Estonia,2008,0
+Estonia,2009,0
+Ethiopia (former),1961,0
+Ethiopia (former),1962,0
+Ethiopia (former),1963,0
+Ethiopia (former),1964,0
+Ethiopia (former),1965,0
+Ethiopia (former),1966,0
+Fiji,2010,0
+Fiji,2011,0
+Fiji,2012,0
+Fiji,2013,0
+Gabon,2010,0
+Gabon,2011,0
+Gabon,2012,0
+Gabon,2013,0
+Gambia,2010,0
+Gambia,2011,0
+Gambia,2012,0
+Gambia,2013,0
+Grenada,2010,0
+Grenada,2011,0
+Grenada,2012,0
+Grenada,2013,0
+Iceland,2016,0
+Iceland,2017,0
+Iceland,2019,0
+Iceland,2020,0
+Iceland,2021,0
+Jordan,1961,0
+Jordan,1962,0
+Jordan,1963,0
+Jordan,1964,0
+Jordan,1965,0
+Jordan,1966,0
+Jordan,1967,0
+Jordan,1968,0
+Jordan,1969,0
+Jordan,1970,0
+Jordan,1971,0
+Jordan,1972,0
+Jordan,1973,0
+Jordan,1974,0
+Jordan,1975,0
+Jordan,1976,0
+Jordan,1977,0
+Jordan,1978,0
+Jordan,1979,0
+Jordan,1980,0
+Jordan,1981,0
+Jordan,1982,0
+Jordan,1983,0
+Jordan,1984,0
+Jordan,1985,0
+Jordan,1986,0
+Jordan,1987,0
+Jordan,1988,0
+Jordan,1989,0
+Jordan,1990,0
+Latvia,1999,0
+Latvia,2000,0
+Latvia,2001,0
+Latvia,2002,0
+Latvia,2003,0
+Latvia,2004,0
+Libya,1970,0
+Libya,1971,0
+Libya,1972,0
+Libya,1973,0
+Libya,1974,0
+Libya,1975,0
+Libya,1976,0
+Libya,1977,0
+Libya,1978,0
+Libya,1979,0
+Libya,1980,0
+Libya,1981,0
+Libya,1982,0
+Libya,1983,0
+Libya,1984,0
+Libya,1985,0
+Libya,1986,0
+Libya,1987,0
+Libya,1988,0
+Libya,1989,0
+Libya,1990,0
+Libya,1991,0
+Libya,1992,0
+Libya,2010,0
+Libya,2011,0
+Libya,2012,0
+Libya,2013,0
+Libya,2014,0
+Madagascar,2010,0
+Madagascar,2011,0
+Madagascar,2012,0
+Madagascar,2013,0
+Melanesia,2010,0
+Melanesia,2011,0
+Melanesia,2012,0
+Melanesia,2013,0
+Middle Africa (FAO),2010,0
+Middle Africa (FAO),2011,0
+Middle Africa (FAO),2012,0
+Middle Africa (FAO),2013,0
+Mozambique,2010,0
+Mozambique,2011,0
+Mozambique,2012,0
+Mozambique,2013,0
+Northern Europe (FAO),1961,0
+Northern Europe (FAO),1962,0
+Northern Europe (FAO),1963,0
+Northern Europe (FAO),1964,0
+Northern Europe (FAO),1965,0
+Northern Europe (FAO),1966,0
+Northern Europe (FAO),1967,0
+Northern Europe (FAO),1968,0
+Northern Europe (FAO),1969,0
+Northern Europe (FAO),1970,0
+Northern Europe (FAO),1971,0
+Northern Europe (FAO),1972,0
+Northern Europe (FAO),1973,0
+Northern Europe (FAO),1974,0
+Northern Europe (FAO),1975,0
+Northern Europe (FAO),1976,0
+Northern Europe (FAO),1977,0
+Northern Europe (FAO),1978,0
+Northern Europe (FAO),1979,0
+Northern Europe (FAO),1980,0
+Norway,1961,0
+Norway,1962,0
+Norway,1963,0
+Norway,1964,0
+Norway,1965,0
+Norway,1966,0
+Norway,1967,0
+Norway,1968,0
+Norway,1969,0
+Norway,1970,0
+Norway,1971,0
+Norway,1972,0
+Norway,1973,0
+Norway,1974,0
+Norway,1975,0
+Norway,1976,0
+Norway,1977,0
+Norway,1978,0
+Norway,1979,0
+Norway,1980,0
+Norway,1981,0
+Norway,1982,0
+Norway,1983,0
+Norway,1984,0
+Norway,1985,0
+Norway,1986,0
+Norway,1987,0
+Norway,1988,0
+Norway,1989,0
+Norway,1990,0
+Norway,2010,0
+Norway,2011,0
+Norway,2012,0
+Norway,2013,0
+Norway,2014,0
+Norway,2015,0
+Norway,2016,0
+Norway,2017,0
+Norway,2018,0
+Palestine,2010,0
+Palestine,2011,0
+Palestine,2012,0
+Palestine,2013,0
+Small Island Developing States (FAO),2010,0
+Small Island Developing States (FAO),2011,0
+Small Island Developing States (FAO),2012,0
+Small Island Developing States (FAO),2013,0
+Southern Asia (FAO),2010,0
+Southern Asia (FAO),2011,0
+Southern Asia (FAO),2012,0
+Southern Asia (FAO),2013,0
+Sri Lanka,2010,0
+Sri Lanka,2011,0
+Sri Lanka,2012,0
+Sri Lanka,2013,0
+Syria,1961,0
+Syria,1962,0
+Syria,1963,0
+Syria,1964,0
+Syria,1965,0
+Syria,1966,0
+Syria,1967,0
+Trinidad and Tobago,2010,0
+Trinidad and Tobago,2011,0
+Trinidad and Tobago,2012,0
+Trinidad and Tobago,2013,0
+United Kingdom,1961,0
+United Kingdom,1962,0
+United Kingdom,1963,0
+United Kingdom,1964,0
+United Kingdom,1965,0
+United Kingdom,1966,0
+United Kingdom,1967,0
+United Kingdom,1968,0
+United Kingdom,1969,0
+United Kingdom,1970,0
+United Kingdom,1971,0
+United Kingdom,1972,0
+United Kingdom,1973,0
+United Kingdom,1974,0
+United Kingdom,1975,0
+United Kingdom,1976,0
+United Kingdom,1977,0
+United Kingdom,1978,0
+United Kingdom,1979,0
+United Kingdom,1980,0
+Vietnam,1961,0
+Vietnam,1962,0
+Vietnam,1963,0
+Vietnam,1964,0
+Vietnam,1965,0
+Vietnam,1966,0
+Vietnam,1967,0
+Vietnam,1968,0
+Vietnam,1969,0
+Vietnam,1970,0
+Vietnam,1971,0
+Vietnam,1972,0
+Vietnam,1973,0
+Vietnam,1974,0
+Vietnam,1975,0
+Vietnam,1976,0
+Vietnam,1977,0
+Vietnam,1978,0
+Vietnam,1979,0
+Vietnam,1980,0
+Vietnam,1981,0
+Vietnam,1982,0
+Vietnam,1983,0
+Vietnam,1984,0
+Vietnam,1985,0
+Vietnam,1986,0
+Vietnam,1987,0
+Vietnam,1988,0
+Vietnam,1989,0
+Vietnam,1990,0
+Western Africa (FAO),2010,0
+Western Africa (FAO),2011,0
+Western Africa (FAO),2012,0
+Western Africa (FAO),2013,0
+Zimbabwe,1961,0
+Zimbabwe,1962,0
+Zimbabwe,1963,0
+Zimbabwe,1964,0
+Zimbabwe,1965,0
+Zimbabwe,1966,0
+Zimbabwe,1967,0
+Zimbabwe,1968,0
+Zimbabwe,1969,0
+Zimbabwe,1970,0
+Zimbabwe,1971,0
+Zimbabwe,1972,0
+Zimbabwe,1973,0
+Reunion,1989,8
+Reunion,1990,8
+Reunion,1987,9
+Reunion,1993,11
+Reunion,1988,13
+Reunion,1992,13
+Reunion,1994,13
+Reunion,1995,14
+Reunion,1997,15
+Reunion,1999,15
+Reunion,2001,15
+Reunion,1986,16
+Reunion,1996,16
+Reunion,1998,16
+Reunion,2000,16
+Reunion,2002,16
+Reunion,1991,17
+Reunion,2003,17
+Reunion,2004,18
+Reunion,2005,20
+Reunion,1980,23
+Reunion,2006,23
+Reunion,1975,26
+Reunion,1976,28
+Reunion,1982,28
+Reunion,1977,31
+Reunion,1984,39
+Reunion,1973,43
+Reunion,1978,46
+Syria,2019,50
+Syria,2020,50
+Reunion,1974,51
+Reunion,1979,53
+Reunion,1983,54
+Zimbabwe,1974,55
+Reunion,1985,58
+Reunion,1961,60
+Reunion,1962,60
+Reunion,1963,60
+Reunion,1964,60
+Reunion,1965,60
+Reunion,1966,60
+Reunion,1967,60
+Reunion,1968,60
+Reunion,1969,65
+Reunion,1970,65
+Panama,2008,66
+Reunion,1981,70
+Syria,2013,70
+Syria,2010,72
+Panama,2015,73
+Mongolia,2015,75
+Reunion,1972,75
+Panama,2020,79
+Reunion,1971,80
+Panama,2018,83
+Syria,2012,85
+Panama,2013,88
+Syria,1970,90
+Tajikistan,2015,90
+Syria,1971,93
+Panama,2019,95
+Syria,1968,95
+Panama,2001,99
+Panama,2016,101
+Panama,2021,108
+Panama,2009,115
+Zimbabwe,1975,115
+Jordan,2015,116
+Panama,1989,117
+Panama,2011,118
+Panama,2012,118
+Panama,1967,120
+Panama,1968,120
+Panama,1988,120
+Panama,2017,120
+Panama,2005,121
+Syria,1969,125
+Syria,2011,129
+Panama,2002,134
+Panama,2000,135
+Panama,2006,136
+Panama,2003,139
+Panama,1961,140
+Panama,1963,140
+Panama,1964,140
+Panama,1966,140
+Panama,2007,149
+Panama,1962,150
+Panama,1965,150
+Panama,1969,150
+Panama,1985,151
+Tajikistan,2012,151
+Panama,1997,153
+Jordan,2014,155
+Panama,1987,156
+Panama,2004,157
+Jordan,2013,158
+Panama,1986,159
+Panama,1991,159
+Panama,2014,159
+Tajikistan,2014,160
+Tajikistan,2013,164
+Panama,1998,168
+Panama,1995,176
+Tajikistan,2011,176
+Panama,1992,177
+Syria,2008,179
+Panama,1990,180
+Panama,2010,184
+Syria,2009,185
+Panama,1999,193
+Panama,1994,198
+Syria,1999,201
+Syria,2007,210
+Syria,2006,213
+Panama,1984,214
+Panama,1996,214
+Tajikistan,2010,215
+Panama,1970,216
+Syria,1998,218
+Panama,1983,220
+Syria,2005,225
+Zimbabwe,1976,230
+Syria,1972,235
+Syria,1981,235
+Syria,1973,240
+Tajikistan,2007,240
+Panama,1993,244
+Syria,1980,245
+Syria,1992,245
+Panama,1979,246
+Syria,1995,249
+Panama,1972,254
+Panama,1980,256
+Syria,1994,256
+Syria,2004,257
+Syria,1997,265
+Panama,1971,266
+Panama,1981,273
+Syria,1996,276
+Panama,1982,277
+Syria,1991,280
+Tajikistan,2008,280
+Tajikistan,2009,280
+Syria,1976,288
+Panama,1973,290
+Panama,1977,291
+Syria,1978,295
+Syria,2002,296
+Panama,1974,300
+Syria,1975,300
+Syria,1977,300
+Syria,1979,300
+Syria,1993,300
+Syria,2001,303
+Panama,1976,305
+Jordan,2018,307
+Panama,1978,309
+Panama,1975,311
+Syria,1974,315
+Syria,2003,315
+Syria,1987,322
+Syria,1983,323
+Syria,2000,326
+Jordan,2011,334
+Syria,1984,341
+Syria,1988,347
+Syria,1990,349
+Zimbabwe,1977,350
+Mongolia,2021,371
+Syria,1982,372
+Jordan,2016,400
+Jordan,2017,400
+Syria,1985,402
+Tajikistan,2006,410
+Syria,1986,423
+United Kingdom,2013,425
+Syria,1989,426
+Jordan,2010,438
+United Kingdom,2019,486
+Northern Europe (FAO),1987,500
+United Kingdom,1987,500
+Jordan,2004,501
+Tajikistan,2005,536
+Jordan,2002,583
+Northern Europe (FAO),1985,600
+Northern Europe (FAO),1988,600
+United Kingdom,1985,600
+United Kingdom,1988,600
+Zimbabwe,1978,600
+Bolivia,1961,640
+Bolivia,1962,640
+Bolivia,1963,640
+Bolivia,1964,640
+Bolivia,1965,640
+Bolivia,1966,640
+Bolivia,1967,640
+Bolivia,1968,640
+Bolivia,1969,640
+Bolivia,1970,640
+Bolivia,1971,640
+Northern Europe (FAO),1981,700
+Northern Europe (FAO),1982,700
+Northern Europe (FAO),1983,700
+Northern Europe (FAO),1984,700
+United Kingdom,1981,700
+United Kingdom,1982,700
+United Kingdom,1983,700
+United Kingdom,1984,700
+Jordan,2003,706
+Jordan,2012,731
+Jordan,2005,764
+Northern Europe (FAO),1986,800
+United Kingdom,1986,800
+Zimbabwe,1979,800
+Lithuania,1994,922
+United Kingdom,2002,955
+Bolivia,1972,960
+Zimbabwe,1992,960
+Ethiopia,1994,999
+Ethiopia (former),1989,999
+Zimbabwe,1989,1000
+Latvia,1998,1030
+Zimbabwe,1988,1040
+Zimbabwe,1990,1040
+Zimbabwe,1980,1050
+Zimbabwe,1991,1050
+Least Developed Countries (FAO),1961,1060
+Low Income Food Deficit Countries (FAO),1961,1060
+Low-income countries,1961,1060
+Madagascar,1961,1060
+Egypt,1976,1089
+Least Developed Countries (FAO),1962,1100
+Lithuania,1995,1100
+Low Income Food Deficit Countries (FAO),1962,1100
+Low-income countries,1962,1100
+Madagascar,1962,1100
+Eastern Africa (FAO),1961,1120
+Kyrgyzstan,2007,1127
+Bolivia,1973,1152
+Eastern Africa (FAO),1962,1160
+Zimbabwe,1986,1180
+Zimbabwe,1987,1190
+Zimbabwe,1994,1191
+Least Developed Countries (FAO),1963,1200
+Least Developed Countries (FAO),1964,1200
+Low Income Food Deficit Countries (FAO),1963,1200
+Low Income Food Deficit Countries (FAO),1964,1200
+Low-income countries,1963,1200
+Low-income countries,1964,1200
+Madagascar,1963,1200
+Madagascar,1964,1200
+Zimbabwe,1993,1200
+Kyrgyzstan,2005,1212
+United Kingdom,2012,1219
+Jordan,2020,1226
+Eastern Africa (FAO),1963,1260
+Eastern Africa (FAO),1964,1260
+United Kingdom,2006,1267
+United Kingdom,2009,1268
+Kyrgyzstan,2008,1270
+United Kingdom,2004,1274
+Bolivia,1974,1280
+Egypt,1977,1283
+United Kingdom,2010,1290
+United Kingdom,1999,1295
+Paraguay,2010,1300
+United Kingdom,1996,1300
+Jordan,2009,1304
+Kyrgyzstan,2012,1312
+United Kingdom,2005,1314
+United Kingdom,2000,1319
+Zimbabwe,1985,1320
+United Kingdom,2008,1348
+Least Developed Countries (FAO),1965,1350
+Low Income Food Deficit Countries (FAO),1965,1350
+Low-income countries,1965,1350
+Madagascar,1965,1350
+Jordan,2008,1365
+United Kingdom,2007,1370
+Paraguay,2011,1380
+Paraguay,2012,1380
+Least Developed Countries (FAO),1966,1385
+Low Income Food Deficit Countries (FAO),1966,1385
+Low-income countries,1966,1385
+Madagascar,1966,1385
+Malta,1990,1400
+Northern Europe (FAO),1990,1400
+Paraguay,2008,1400
+United Kingdom,1990,1400
+Bolivia,1975,1408
+Eastern Africa (FAO),1965,1410
+Zimbabwe,1983,1410
+Egypt,1974,1427
+Eastern Africa (FAO),1966,1445
+Jordan,2006,1450
+Paraguay,2009,1450
+Paraguay,2013,1450
+Paraguay,2014,1450
+United Kingdom,2003,1450
+Low-income countries,1967,1455
+Madagascar,1967,1455
+Egypt,1979,1459
+Zimbabwe,1996,1461
+Latvia,1997,1470
+United Kingdom,2001,1484
+Paraguay,2015,1491
+Northern Europe (FAO),1991,1500
+United Kingdom,1991,1500
+Zimbabwe,1995,1500
+Egypt,1982,1524
+Zimbabwe,1982,1530
+Tajikistan,2004,1535
+Egypt,1983,1564
+Zimbabwe,1984,1580
+Egypt,1981,1587
+United Kingdom,2011,1590
+Bolivia,1976,1600
+Bolivia,1977,1600
+Madagascar,1970,1600
+Madagascar,1971,1600
+Paraguay,2006,1600
+Paraguay,2007,1600
+Zimbabwe,1998,1600
+Zimbabwe,2000,1600
+Zimbabwe,2001,1600
+Zimbabwe,2002,1600
+Zimbabwe,2003,1600
+Zimbabwe,2004,1600
+Zimbabwe,2005,1600
+Zimbabwe,2006,1600
+Paraguay,2005,1610
+Zimbabwe,1981,1610
+Egypt,1980,1650
+Zimbabwe,1997,1650
+Zimbabwe,1999,1650
+Madagascar,1968,1653
+Egypt,1978,1662
+Malta,1962,1680
+Low-income countries,1970,1690
+Low-income countries,1971,1693
+Kyrgyzstan,2014,1700
+Madagascar,1972,1700
+Madagascar,1973,1700
+Egypt,1984,1708
+Latvia,1993,1710
+Kyrgyzstan,2004,1715
+United Kingdom,1998,1724
+Low-income countries,1968,1748
+Malta,1991,1750
+United Kingdom,1993,1750
+Zimbabwe,2007,1750
+Zimbabwe,2008,1750
+Zimbabwe,2009,1750
+Zimbabwe,2010,1750
+Zimbabwe,2011,1750
+Zimbabwe,2012,1750
+Zimbabwe,2013,1750
+Kyrgyzstan,2013,1752
+Kyrgyzstan,2003,1760
+Madagascar,1969,1760
+Kyrgyzstan,2006,1768
+Ethiopia,1999,1791
+Latvia,2009,1800
+United Kingdom,1997,1800
+United Kingdom,1994,1833
+United Kingdom,1995,1833
+Egypt,1985,1850
+Madagascar,1974,1850
+Low-income countries,1969,1885
+Malta,1964,1890
+Low-income countries,1972,1935
+Low-income countries,1973,1940
+Egypt,1975,1955
+Paraguay,2004,1960
+Kyrgyzstan,2001,1963
+Libya,1965,1980
+Bolivia,1978,1984
+Bolivia,1979,1984
+Bolivia,1980,1984
+Bolivia,1981,1984
+Belgium,2000,2000
+Belgium,2001,2000
+Belgium,2002,2000
+Belgium,2003,2000
+Belgium,2004,2000
+Egypt,1986,2000
+Kyrgyzstan,1998,2000
+Malta,1987,2030
+Bolivia,1982,2048
+Bolivia,1983,2048
+Bolivia,1984,2048
+Bolivia,1985,2048
+Bolivia,1986,2048
+Bolivia,1987,2048
+Bolivia,1988,2048
+Bolivia,1989,2048
+Bolivia,1990,2048
+Bolivia,1991,2048
+Bolivia,1992,2048
+Bolivia,1993,2048
+Bolivia,1994,2048
+Bolivia,1995,2048
+Bolivia,1996,2048
+Bolivia,1997,2048
+Bolivia,1998,2048
+Bolivia,1999,2048
+Bolivia,2000,2048
+Bolivia,2001,2048
+Bolivia,2002,2048
+Egypt,1987,2050
+Colombia,2016,2071
+Egypt,1988,2100
+Kyrgyzstan,1997,2100
+Kyrgyzstan,1999,2100
+Malta,1984,2100
+Malta,1985,2100
+Malta,1998,2100
+Malta,2006,2100
+Northern Europe (FAO),1989,2100
+United Kingdom,1989,2100
+Colombia,2017,2150
+Lithuania,1997,2150
+Low-income countries,1974,2165
+Kyrgyzstan,2002,2197
+Egypt,1961,2200
+Egypt,1989,2200
+Latvia,2011,2200
+Latvia,2012,2200
+Latvia,2013,2200
+Malta,1966,2240
+Malta,1970,2240
+Malta,1981,2240
+Malta,1982,2240
+Malta,1986,2240
+Paraguay,2003,2240
+Kyrgyzstan,2000,2244
+Egypt,1990,2250
+Egypt,1965,2254
+Albania,1963,2291
+Egypt,1991,2300
+Malta,1989,2310
+Kyrgyzstan,1996,2340
+Ethiopia,2000,2344
+Egypt,1964,2356
+Armenia,1998,2380
+Egypt,1992,2400
+United Kingdom,1992,2400
+Kyrgyzstan,2016,2408
+Egypt,1963,2418
+Colombia,2015,2426
+Egypt,1993,2450
+Latvia,2014,2450
+Malta,1963,2450
+Malta,1968,2450
+Malta,1983,2450
+Malta,2002,2450
+Malta,2003,2450
+Malta,2004,2450
+Malta,2005,2450
+Malta,2007,2450
+Malta,2008,2450
+Malta,2009,2450
+Egypt,1994,2480
+Ethiopia,2001,2483
+Tajikistan,2003,2484
+Latvia,2008,2500
+Latvia,2010,2500
+Malta,1988,2520
+Latvia,2016,2534
+Egypt,1995,2550
+Ethiopia,2002,2550
+Latvia,1994,2550
+Malta,1978,2590
+Malta,1980,2590
+Malta,1992,2590
+Egypt,1996,2600
+Ethiopia,2003,2604
+Kyrgyzstan,1995,2640
+Libya,1963,2640
+Libya,1964,2640
+Libya,1966,2640
+Libya,1967,2640
+Libya,1968,2640
+Libya,1969,2640
+Latvia,2007,2645
+Egypt,1997,2665
+Bosnia and Herzegovina,2006,2695
+Egypt,1998,2700
+Armenia,2003,2716
+Egypt,1999,2730
+Jordan,2007,2785
+Malta,1965,2800
+Malta,1967,2800
+Malta,1969,2800
+Malta,1993,2800
+Malta,2000,2800
+Malta,2001,2800
+Belgium,2012,2864
+Azerbaijan,1996,2900
+Belgium,2013,2900
+Malta,1976,2940
+Malta,1979,2940
+Egypt,2000,2950
+Lithuania,1996,2950
+Belgium,2006,3000
+Belgium,2007,3000
+Belgium,2008,3000
+Belgium,2009,3000
+Belgium,2010,3000
+Bosnia and Herzegovina,2012,3061
+Albania,1964,3069
+Jordan,2019,3077
+Azerbaijan,2004,3092
+Malta,1994,3150
+Malta,1995,3150
+Malta,1996,3150
+Malta,1997,3150
+Mauritius,2020,3166
+Mauritius,2021,3166
+Egypt,1966,3227
+Malta,1971,3290
+Malta,1972,3290
+Malta,1973,3290
+Malta,1974,3290
+Libya,1961,3300
+Libya,1962,3300
+Egypt,1967,3347
+Bosnia and Herzegovina,2011,3354
+Malta,1961,3360
+Bosnia and Herzegovina,1995,3400
+Egypt,1973,3413
+Bosnia and Herzegovina,1994,3500
+Latvia,1996,3540
+Mauritius,2018,3548
+Small Island Developing States (FAO),2018,3548
+Lithuania,2003,3550
+Albania,1961,3560
+Malta,1977,3640
+Bosnia and Herzegovina,2009,3655
+Paraguay,1961,3700
+Egypt,1962,3741
+Lebanon,1961,3750
+Lebanon,1962,3750
+Lebanon,1963,3750
+Lebanon,1964,3750
+Lebanon,1965,3750
+Lebanon,1966,3750
+Lebanon,1967,3750
+Lebanon,1968,3750
+Azerbaijan,2003,3790
+Lebanon,1969,3800
+Lebanon,1970,3800
+Lebanon,1971,3800
+Lebanon,1972,3800
+Armenia,2008,3807
+Tajikistan,2000,3930
+Malta,1975,3990
+Belgium,2005,4000
+Albania,1965,4016
+Lithuania,2000,4030
+Kyrgyzstan,1994,4080
+Mauritius,2019,4115
+Small Island Developing States (FAO),2019,4115
+Bosnia and Herzegovina,2013,4163
+Bosnia and Herzegovina,2002,4190
+Egypt,2001,4200
+Egypt,2002,4200
+Armenia,2000,4220
+Armenia,2007,4250
+Lithuania,2001,4290
+Egypt,2011,4300
+Lebanon,1973,4300
+Lebanon,1974,4300
+Lebanon,1975,4300
+Lebanon,1976,4300
+Lebanon,1977,4300
+Lebanon,1978,4300
+Lebanon,1979,4300
+Lebanon,1980,4300
+New Zealand,1961,4319
+Land Locked Developing Countries (FAO),1961,4340
+Armenia,2006,4374
+Lithuania,2015,4377
+Azerbaijan,2005,4378
+Egypt,2010,4400
+Bolivia,2003,4434
+Egypt,2012,4500
+Egypt,2013,4500
+Lebanon,1981,4500
+Lebanon,1982,4500
+Lithuania,1998,4500
+Bosnia and Herzegovina,2010,4504
+Lithuania,2019,4529
+Bosnia and Herzegovina,2007,4558
+Albania,1962,4570
+Armenia,2002,4630
+Lithuania,2018,4695
+Bosnia and Herzegovina,1996,4697
+Belgium,2011,4700
+Latvia,1995,4700
+Azerbaijan,1999,4704
+Armenia,2009,4713
+Lithuania,2002,4720
+Albania,1966,4767
+Bosnia and Herzegovina,2000,4769
+Israel,2008,4800
+Israel,2009,4800
+Paraguay,1975,4800
+Lithuania,2016,4812
+Armenia,1997,4890
+Egypt,2014,5000
+Israel,2001,5000
+Israel,2007,5000
+Israel,2010,5000
+Israel,2011,5000
+Israel,2012,5000
+Israel,2013,5000
+Israel,2014,5000
+Lebanon,1983,5000
+Northern Europe (FAO),2003,5000
+Bosnia and Herzegovina,2005,5042
+Egypt,1968,5102
+Lithuania,2004,5160
+Tajikistan,1999,5170
+Azerbaijan,2006,5195
+New Zealand,1962,5201
+Paraguay,2002,5224
+Bosnia and Herzegovina,2001,5284
+Bosnia and Herzegovina,1997,5300
+Israel,2006,5300
+Latvia,2006,5300
+Northern Europe (FAO),1994,5305
+Egypt,2020,5346
+Northern Europe (FAO),2000,5349
+Bosnia and Herzegovina,2015,5369
+Paraguay,1962,5400
+Paraguay,1963,5400
+Northern Europe (FAO),1997,5420
+Egypt,1971,5424
+Egypt,2019,5427
+Bolivia,2014,5452
+Tajikistan,2001,5570
+Egypt,1972,5592
+Egypt,2003,5600
+Paraguay,2000,5600
+Armenia,1999,5640
+Northern Europe (FAO),2002,5675
+Kyrgyzstan,1993,5680
+Belgium-Luxembourg (FAO),1980,5688
+Israel,2002,5700
+Israel,2003,5700
+Israel,2004,5700
+Israel,2005,5700
+Azerbaijan,2002,5719
+Lithuania,2013,5743
+Paraguay,1964,5760
+Northern Europe (FAO),2001,5774
+Bosnia and Herzegovina,1999,5800
+Lithuania,1993,5800
+Armenia,2012,5808
+Armenia,2010,5865
+Egypt,1969,5872
+Egypt,1970,5899
+Madagascar,1979,5900
+Madagascar,1981,5900
+Madagascar,1994,5900
+Armenia,2015,5932
+Paraguay,2001,5950
+Belarus,1992,5988
+Lebanon,1984,6000
+Madagascar,1990,6000
+Madagascar,1991,6000
+Madagascar,1993,6000
+Madagascar,1995,6000
+Madagascar,1996,6000
+Paraguay,1965,6000
+Paraguay,1966,6000
+Paraguay,1968,6000
+Paraguay,1969,6000
+Paraguay,1970,6000
+New Zealand,1963,6003
+Land Locked Developing Countries (FAO),1962,6040
+Land Locked Developing Countries (FAO),1963,6040
+Bosnia and Herzegovina,2004,6045
+Madagascar,1992,6100
+Madagascar,1997,6100
+Lithuania,2011,6123
+Low-income countries,1981,6135
+Albania,1967,6174
+Armenia,2014,6174
+Belarus,1993,6174
+Armenia,2011,6192
+Low-income countries,1979,6200
+Madagascar,1998,6200
+Madagascar,2000,6200
+Lithuania,1992,6240
+Low-income countries,1991,6280
+Madagascar,1982,6300
+Madagascar,1999,6300
+Madagascar,2001,6300
+Madagascar,2002,6300
+Land Locked Developing Countries (FAO),1975,6323
+Tajikistan,2002,6325
+Low-income countries,1992,6345
+Low-income countries,1990,6349
+Azerbaijan,2007,6368
+Land Locked Developing Countries (FAO),1964,6400
+Madagascar,2003,6400
+Madagascar,2004,6400
+Armenia,2013,6422
+Northern Europe (FAO),2004,6434
+Lithuania,1999,6460
+Lithuania,2012,6479
+Eastern Asia (FAO),1964,6491
+Japan,1964,6491
+Madagascar,2005,6500
+Tajikistan,1998,6510
+Madagascar,1980,6600
+Paraguay,1977,6600
+Albania,2002,6625
+Land Locked Developing Countries (FAO),1965,6640
+Land Locked Developing Countries (FAO),1966,6640
+Land Locked Developing Countries (FAO),1968,6640
+Land Locked Developing Countries (FAO),1969,6640
+Land Locked Developing Countries (FAO),1970,6640
+Peru,1993,6670
+Peru,1994,6670
+Low-income countries,1982,6672
+Madagascar,2006,6700
+Paraguay,1976,6700
+Peru,1992,6700
+Belarus,1994,6726
+Belgium-Luxembourg (FAO),1979,6767
+New Zealand,1964,6778
+Armenia,2004,6793
+Egypt,2004,6800
+Egypt,2005,6800
+Egypt,2006,6800
+Paraguay,1978,6800
+Armenia,2016,6810
+Low-income countries,1980,6845
+Least Developed Countries (FAO),1994,6899
+Madagascar,1983,6900
+Paraguay,1987,6900
+Bosnia and Herzegovina,1998,6944
+Azerbaijan,2009,6949
+Armenia,2001,6970
+Bolivia,2009,6979
+Belarus,1999,7000
+Lebanon,1985,7000
+Paraguay,1967,7000
+Paraguay,1971,7000
+Paraguay,1972,7000
+Paraguay,1974,7000
+Azerbaijan,1995,7080
+Paraguay,1988,7100
+Bolivia,2004,7120
+Latvia,1992,7150
+Low-income countries,1994,7155
+Lithuania,2006,7170
+Albania,1968,7190
+Madagascar,1975,7212
+Bolivia,2005,7223
+Low-income countries,1983,7223
+Northern Europe (FAO),1998,7254
+Paraguay,1986,7300
+Paraguay,1991,7300
+Armenia,2005,7305
+Bolivia,2006,7328
+Bolivia,2007,7350
+Paraguay,1999,7350
+Madagascar,2007,7400
+Paraguay,1992,7400
+Albania,2000,7413
+Paraguay,1993,7445
+Belgium-Luxembourg (FAO),1997,7471
+Madagascar,2008,7499
+Israel,2000,7500
+Madagascar,1984,7500
+Paraguay,1973,7500
+Paraguay,1984,7500
+Paraguay,1990,7500
+Low-income countries,1975,7512
+Latvia,2005,7517
+Bosnia and Herzegovina,2014,7524
+Azerbaijan,2011,7547
+Azerbaijan,2001,7576
+Luxembourg,2019,7600
+Paraguay,1979,7600
+Paraguay,1981,7600
+Paraguay,1989,7600
+Northern Europe (FAO),1995,7633
+Land Locked Developing Countries (FAO),1967,7640
+Land Locked Developing Countries (FAO),1971,7640
+Madagascar,1985,7700
+Paraguay,1982,7700
+Paraguay,1983,7700
+Paraguay,1985,7700
+Paraguay,1994,7700
+Azerbaijan,2000,7736
+Bolivia,2008,7747
+Northern Europe (FAO),1999,7755
+Northern Europe (FAO),1996,7790
+Belarus,2000,7794
+Armenia,1996,7800
+Madagascar,1986,7800
+Belgium-Luxembourg (FAO),1978,7809
+New Zealand,1965,7820
+Low-income countries,1984,7841
+Lithuania,2005,7850
+Bosnia and Herzegovina,1993,7900
+Cyprus,2016,7900
+Madagascar,1987,7900
+Land Locked Developing Countries (FAO),1972,7960
+Israel,1999,8000
+Lebanon,1986,8000
+Madagascar,1988,8000
+Paraguay,1996,8000
+Peru,1961,8000
+Peru,1969,8000
+Peru,1970,8000
+Peru,1971,8000
+Peru,1972,8000
+Peru,1973,8000
+Peru,1974,8000
+Peru,1975,8000
+Peru,1976,8000
+Least Developed Countries (FAO),1999,8091
+Cyprus,2017,8100
+Low-income countries,1985,8102
+Eastern Africa (FAO),1994,8103
+Azerbaijan,2008,8169
+Tajikistan,1997,8220
+Low-income countries,1987,8222
+Low-income countries,1986,8223
+Madagascar,2009,8281
+Low-income countries,1999,8292
+Land Locked Developing Countries (FAO),1974,8335
+Lithuania,2008,8343
+Low-income countries,1988,8347
+Azerbaijan,2013,8355
+Northern Europe (FAO),2013,8368
+Madagascar,1976,8394
+Bolivia,2019,8400
+Bolivia,2020,8400
+Bolivia,2021,8400
+Madagascar,1989,8500
+Luxembourg,2012,8504
+Land Locked Developing Countries (FAO),1976,8530
+Least Developed Countries (FAO),2000,8544
+Land Locked Developing Countries (FAO),1977,8550
+Paraguay,1998,8630
+Land Locked Developing Countries (FAO),1973,8652
+Paraguay,1995,8678
+Low-income countries,1976,8682
+New Zealand,1966,8770
+Azerbaijan,2019,8773
+Least Developed Countries (FAO),2001,8783
+Paraguay,1997,8826
+Least Developed Countries (FAO),2002,8850
+Lithuania,2007,8858
+Low-income countries,2000,8870
+Cyprus,2021,8900
+Albania,1993,8906
+Low-income countries,1989,8926
+Cyprus,2015,8945
+Azerbaijan,2020,8950
+Belgium-Luxembourg (FAO),1991,8969
+Albania,1971,9000
+Israel,1996,9000
+Israel,1997,9000
+Israel,1998,9000
+Madagascar,1978,9000
+Peru,1964,9000
+Peru,1977,9000
+Peru,1978,9000
+Peru,1979,9000
+Peru,1980,9000
+Peru,1981,9000
+Peru,1982,9000
+Peru,1983,9000
+Least Developed Countries (FAO),2003,9004
+Low-income countries,2001,9086
+Paraguay,1980,9100
+Bosnia and Herzegovina,2003,9125
+Kyrgyzstan,1992,9140
+Low-income countries,2002,9146
+Albania,2003,9164
+Northern Europe (FAO),1993,9260
+Low-income countries,1978,9295
+Low-income countries,2003,9319
+Lebanon,1987,9320
+Land Locked Developing Countries (FAO),1978,9384
+Caribbean (FAO),2006,9390
+Cuba,2006,9390
+Small Island Developing States (FAO),2006,9390
+Least Developed Countries (FAO),1989,9499
+Caribbean (FAO),2005,9500
+Cuba,2005,9500
+Peru,1984,9500
+Small Island Developing States (FAO),2005,9500
+Madagascar,1977,9594
+Albania,1994,9640
+Armenia,2018,9672
+Luxembourg,2020,9700
+Eastern Africa (FAO),1999,9756
+Luxembourg,2021,9800
+Turkey,1976,9871
+Belarus,2001,9894
+Low-income countries,1977,9894
+Northern Europe (FAO),2012,9898
+Caribbean (FAO),2004,9900
+Cuba,2004,9900
+Small Island Developing States (FAO),2004,9900
+Northern Europe (FAO),2011,9913
+Cyprus,2020,10000
+Peru,1962,10000
+Peru,1963,10000
+Peru,1985,10000
+Peru,1986,10000
+Peru,1987,10000
+Peru,1988,10000
+Peru,1989,10000
+Peru,1990,10000
+Peru,1991,10000
+Azerbaijan,2014,10030
+Eastern Asia (FAO),1965,10084
+Japan,1965,10084
+Luxembourg,2013,10089
+Azerbaijan,2021,10116
+Albania,1969,10120
+Land Locked Developing Countries (FAO),1987,10138
+Caribbean (FAO),2007,10150
+Cuba,2007,10150
+Small Island Developing States (FAO),2007,10150
+Eastern Africa (FAO),2000,10160
+Land Locked Developing Countries (FAO),1988,10188
+Belarus,1995,10210
+Belgium-Luxembourg (FAO),1981,10274
+Eastern Asia (FAO),1966,10291
+Japan,1966,10291
+New Zealand,1967,10340
+Azerbaijan,2015,10350
+Land Locked Developing Countries (FAO),1979,10384
+Eastern Africa (FAO),2001,10398
+Land Locked Developing Countries (FAO),1991,10398
+Armenia,1995,10400
+Caribbean (FAO),2009,10400
+Cuba,2009,10400
+Small Island Developing States (FAO),2009,10400
+Eastern Africa (FAO),2002,10466
+Azerbaijan,2016,10493
+Lebanon,1988,10493
+Egypt,2007,10500
+Albania,1998,10503
+Eastern Africa (FAO),1989,10507
+Land Locked Developing Countries (FAO),1986,10528
+Peru,1995,10584
+Land Locked Developing Countries (FAO),1990,10588
+Eastern Africa (FAO),2003,10621
+Azerbaijan,2012,10630
+Land Locked Developing Countries (FAO),1989,10648
+Caribbean (FAO),2008,10650
+Cuba,2008,10650
+Small Island Developing States (FAO),2008,10650
+Armenia,2020,10656
+Cyprus,2012,10752
+Caribbean (FAO),2002,10800
+Cuba,2002,10800
+Eastern Asia (FAO),1961,10800
+Japan,1961,10800
+Small Island Developing States (FAO),2002,10800
+Lebanon,1989,10865
+Cyprus,2019,10900
+Cyprus,2010,10923
+Low Income Food Deficit Countries (FAO),1989,10925
+Cyprus,2014,10958
+Caribbean (FAO),2003,11000
+Cuba,2003,11000
+Cyprus,2018,11000
+Israel,1961,11000
+Peru,1965,11000
+Peru,1966,11000
+Peru,1967,11000
+Small Island Developing States (FAO),2003,11000
+Luxembourg,2010,11025
+Land Locked Developing Countries (FAO),1985,11068
+Luxembourg,2015,11069
+Kazakhstan,1997,11100
+Belgium-Luxembourg (FAO),1985,11104
+Israel,1962,11114
+Peru,1996,11117
+Land Locked Developing Countries (FAO),1984,11128
+Lebanon,2007,11138
+Land Locked Developing Countries (FAO),1983,11158
+Land Locked Developing Countries (FAO),1981,11194
+Albania,1991,11200
+Kazakhstan,2007,11250
+Land Locked Developing Countries (FAO),1982,11278
+Albania,1970,11300
+Azerbaijan,2017,11305
+Kazakhstan,1996,11420
+Cyprus,2013,11432
+Belgium-Luxembourg (FAO),1971,11450
+Azerbaijan,2010,11697
+Belarus,2003,11730
+Egypt,2009,11771
+Montenegro,2011,11790
+Belgium-Luxembourg (FAO),1965,11799
+Albania,1992,11800
+Colombia,2012,11925
+Israel,1991,11972
+Albania,1973,12000
+Colombia,2014,12000
+Israel,1994,12000
+Peru,1968,12000
+Peru,1997,12000
+Peru,1998,12000
+Turkmenistan,1993,12000
+Belgium-Luxembourg (FAO),1961,12086
+Colombia,2013,12122
+Land Locked Developing Countries (FAO),1980,12134
+Montenegro,2019,12150
+Kazakhstan,1995,12190
+Northern Europe (FAO),2008,12191
+Israel,1995,12200
+Cyprus,2009,12238
+Luxembourg,2003,12310
+Luxembourg,2006,12365
+Israel,1992,12373
+Belarus,2006,12390
+Tajikistan,1995,12390
+Belgium-Luxembourg (FAO),1968,12423
+South-eastern Asia (FAO),2019,12474
+Vietnam,2019,12474
+Luxembourg,2014,12494
+Lebanon,2009,12603
+Peru,1999,12700
+Albania,1999,12708
+Israel,1993,12733
+Belgium-Luxembourg (FAO),1996,12762
+Israel,1990,12795
+Israel,1966,12844
+Northern Europe (FAO),2007,12873
+Kazakhstan,2001,12890
+Luxembourg,2008,12967
+Israel,1967,12978
+Montenegro,2007,12991
+Albania,1972,13000
+Albania,1975,13000
+Azerbaijan,1994,13000
+Belgium-Luxembourg (FAO),1967,13079
+Belgium-Luxembourg (FAO),1962,13107
+Tajikistan,1996,13110
+Belgium-Luxembourg (FAO),1969,13147
+Luxembourg,2000,13190
+Luxembourg,2011,13199
+Belgium-Luxembourg (FAO),1976,13200
+Turkmenistan,1992,13200
+Israel,1968,13226
+Slovenia,2014,13229
+Israel,1970,13234
+Israel,1964,13242
+Kazakhstan,2008,13285
+Eastern Asia (FAO),1963,13300
+Japan,1963,13300
+Israel,1963,13424
+Luxembourg,2009,13479
+Luxembourg,2001,13480
+Albania,1976,13500
+Luxembourg,2005,13537
+Israel,1969,13549
+Belgium-Luxembourg (FAO),1966,13572
+Eastern Asia (FAO),1962,13700
+Japan,1962,13700
+New Zealand,1968,13700
+Northern Europe (FAO),2006,13737
+Cyprus,1963,13861
+Bosnia and Herzegovina,1992,14000
+Israel,1971,14011
+Albania,2004,14024
+Israel,1965,14037
+Cyprus,2011,14076
+Caribbean (FAO),2001,14080
+Cuba,2001,14080
+Small Island Developing States (FAO),2001,14080
+Luxembourg,2007,14197
+Kazakhstan,1994,14210
+Albania,2001,14228
+Egypt,2008,14268
+Turkey,1983,14281
+Belgium-Luxembourg (FAO),1974,14300
+Belgium,2019,14499
+Lebanon,1990,14500
+Lebanon,2003,14585
+Israel,1972,14642
+Belgium-Luxembourg (FAO),1987,14644
+Azerbaijan,1998,14660
+Belgium-Luxembourg (FAO),1988,14673
+Tajikistan,1994,14680
+Israel,1973,14807
+Belarus,2002,14850
+Caribbean (FAO),1999,14850
+Cuba,1999,14850
+Small Island Developing States (FAO),1999,14850
+Israel,1989,14944
+Lebanon,2008,14954
+Albania,1974,15000
+Albania,1977,15000
+Belgium-Luxembourg (FAO),1972,15000
+China,1978,15000
+China (FAO),1978,15000
+Lebanon,2002,15000
+Lebanon,2004,15000
+Lebanon,2005,15000
+Lebanon,2006,15000
+Turkmenistan,1996,15000
+Belgium-Luxembourg (FAO),1995,15065
+Turkey,1980,15120
+Eastern Asia (FAO),1970,15200
+Japan,1970,15200
+Luxembourg,2002,15387
+Belgium-Luxembourg (FAO),1990,15477
+Kazakhstan,2012,15505
+Luxembourg,2004,15583
+Caribbean (FAO),2000,15590
+Cuba,2000,15590
+Small Island Developing States (FAO),2000,15590
+Eastern Asia (FAO),1971,15600
+Japan,1971,15600
+Tajikistan,1993,15620
+Belgium-Luxembourg (FAO),1984,15647
+Israel,1988,15670
+Cyprus,2008,15697
+Belarus,2005,15720
+Azerbaijan,2018,15743
+Lebanon,1996,15750
+Northern Europe (FAO),1992,15790
+Israel,1975,15869
+Belgium-Luxembourg (FAO),1998,15971
+Belarus,2004,15990
+Lebanon,2001,16000
+Montenegro,2013,16000
+Israel,1982,16026
+Albania,2008,16120
+Belgium-Luxembourg (FAO),1963,16139
+Belgium-Luxembourg (FAO),1977,16140
+Slovakia,2019,16200
+Turkey,1981,16247
+Belgium-Luxembourg (FAO),1986,16376
+Israel,1974,16391
+Albania,2015,16400
+New Zealand,1969,16400
+Turkey,1978,16448
+Belgium-Luxembourg (FAO),1975,16509
+Israel,1983,16509
+Montenegro,2006,16556
+Israel,1981,16643
+Northern Europe (FAO),2005,16681
+Belgium,2020,16767
+Israel,1976,16775
+Albania,1997,16777
+Belgium-Luxembourg (FAO),1964,16793
+Kazakhstan,1998,16850
+Eastern Asia (FAO),1969,16920
+Japan,1969,16920
+Albania,1995,16922
+Montenegro,2008,16980
+Israel,1987,16995
+Albania,1979,17000
+Albania,2006,17000
+Lebanon,2000,17000
+Montenegro,2009,17094
+Albania,2005,17144
+Kazakhstan,2009,17193
+Turkey,1985,17212
+Morocco,1995,17250
+Belgium-Luxembourg (FAO),1993,17282
+Israel,1986,17381
+Eastern Asia (FAO),1972,17400
+Japan,1972,17400
+Montenegro,2012,17420
+Belgium,2021,17496
+Albania,2009,17500
+Albania,2014,17500
+Belgium-Luxembourg (FAO),1994,17557
+Israel,1984,17584
+Turkey,1982,17597
+Turkey,1975,17636
+Belgium,2014,17721
+Albania,2016,17800
+Albania,2007,17830
+Montenegro,2010,17986
+Albania,1978,18000
+Albania,2011,18000
+Albania,2013,18000
+Israel,1977,18000
+Lebanon,1999,18000
+Belgium,2015,18061
+Kazakhstan,2004,18061
+Albania,2010,18100
+Czechoslovakia,1985,18100
+Israel,1985,18348
+Belgium,2017,18424
+Belgium-Luxembourg (FAO),1999,18428
+Turkey,1984,18456
+Israel,1979,18479
+Belgium,2016,18492
+New Zealand,1970,18500
+Lebanon,1998,18558
+Belarus,1996,18660
+Israel,1980,18896
+Belgium-Luxembourg (FAO),1983,18926
+Belarus,1998,18980
+Albania,1986,19000
+Albania,2012,19000
+Cyprus,2007,19084
+Turkey,1986,19215
+Turkey,1979,19305
+Eastern Asia (FAO),1967,19414
+Japan,1967,19414
+Lebanon,2015,19440
+Lebanon,1991,19500
+Kazakhstan,2006,19588
+Belgium-Luxembourg (FAO),1973,19600
+Turkey,1991,20005
+Belarus,2007,20020
+Belarus,1997,20040
+Turkey,1977,20122
+Tunisia,1988,20383
+New Zealand,1971,20500
+Tajikistan,1992,20740
+Turkey,1990,20865
+Kazakhstan,2013,20902
+Israel,1978,20939
+Belarus,2009,20990
+Albania,1980,21000
+Albania,1982,21000
+Uzbekistan,2009,21070
+Uzbekistan,2010,21280
+Turkey,2007,21302
+Uzbekistan,2019,21567
+Tunisia,2007,21575
+Kazakhstan,2003,21704
+Eastern Asia (FAO),1973,21800
+Japan,1973,21800
+Kazakhstan,2014,21993
+Albania,1987,22000
+Slovenia,2013,22000
+Tunisia,1996,22086
+Tunisia,2010,22150
+Tunisia,1989,22500
+Turkey,1988,22524
+Turkey,2003,22548
+Eastern Asia (FAO),1968,22560
+Japan,1968,22560
+Kazakhstan,1999,22670
+Slovenia,2010,22680
+Albania,1985,22700
+Albania,1981,22900
+Turkey,1989,22992
+Albania,1984,23000
+Lebanon,1992,23000
+Tunisia,2011,23010
+Serbia,2013,23058
+Uzbekistan,2006,23090
+Turkey,2009,23250
+Cyprus,1964,23412
+Tunisia,2003,23474
+Albania,1983,23500
+Kazakhstan,2002,23560
+Armenia,1994,23580
+Belgium-Luxembourg (FAO),1989,23647
+Kazakhstan,1993,23780
+Cyprus,2002,24000
+Serbia,2016,24087
+Uzbekistan,2005,24100
+Kazakhstan,2015,24205
+Uzbekistan,2008,24460
+Tunisia,2009,24500
+New Zealand,1972,24516
+Turkey,2008,24531
+Kazakhstan,2005,24730
+Belgium-Luxembourg (FAO),1970,24735
+Lebanon,1997,24750
+Turkey,2000,24766
+New Zealand,1975,24772
+Slovenia,2011,24944
+Canada,1993,24948
+Uzbekistan,2007,24960
+Eastern Asia (FAO),1974,25000
+Japan,1974,25000
+Slovenia,2012,25000
+Belarus,2010,25110
+Turkey,2006,25215
+Albania,1988,25300
+Turkey,1987,25300
+Uzbekistan,2014,25300
+Turkey,1974,25404
+Slovenia,2006,25503
+Uzbekistan,2017,25592
+Albania,1989,25600
+Belarus,2008,25730
+Slovenia,2009,25750
+Armenia,1992,25760
+Tunisia,1990,25800
+Slovenia,2008,25974
+Turkey,2005,25982
+Cyprus,2006,26086
+Turkey,2002,26162
+Belgium-Luxembourg (FAO),1982,26179
+Tunisia,2002,26372
+Turkey,1999,26400
+Belarus,2021,26430
+Lebanon,1993,26500
+Serbia,2021,26550
+Turkey,2019,26627
+Turkey,2004,26724
+Belarus,2011,26790
+Turkey,2001,26829
+Turkey,1992,26969
+Belarus,2012,27160
+Uzbekistan,2016,27180
+Cyprus,2004,27239
+Serbia,2020,27273
+Slovakia,2007,27287
+Kazakhstan,2000,27290
+Armenia,1993,27350
+Belarus,2016,27430
+Morocco,2001,27627
+Belgium-Luxembourg (FAO),1992,27778
+Slovakia,2010,27785
+Morocco,1994,27860
+Turkey,2010,27950
+Tunisia,2021,28000
+Belarus,2013,28150
+Tunisia,1995,28179
+Tunisia,2012,28403
+Tunisia,1994,28414
+Morocco,1996,28450
+Turkey,2011,28490
+Tunisia,2005,28563
+Slovakia,2015,28615
+Belarus,2015,28740
+Turkey,1993,28797
+Cyprus,2005,28885
+Canada,1989,28980
+Tunisia,2008,29070
+Canada,2005,29134
+Turkey,1961,29140
+Albania,1996,29285
+Slovenia,2005,29329
+Slovakia,2008,29441
+Morocco,2009,29498
+Lebanon,1994,29512
+Morocco,1998,29740
+Paraguay,2021,1981.09
+Morocco,2000,29900
+Slovakia,2018,29900
+New Zealand,1976,29952
+Turkey,1994,29960
+Belarus,2014,29980
+China,1979,30000
+China (FAO),1979,30000
+Eastern Asia (FAO),1975,30000
+Japan,1975,30000
+Lebanon,1995,30000
+Morocco,1990,30070
+Canada,1994,30093
+Serbia,2019,30184
+Belarus,2020,30360
+Tunisia,2016,30500
+Tunisia,2017,30500
+Cyprus,1965,30726
+Slovakia,2009,30763
+Cyprus,1973,30816
+New Zealand,1974,30961
+Belarus,2017,30990
+Azerbaijan,1993,31000
+Tunisia,2020,31000
+Tunisia,2001,31008
+Slovenia,2007,31230
+Turkey,2012,31230
+Turkey,2013,31380
+Slovakia,2011,31388
+Slovakia,2017,31500
+Czechoslovakia,1962,31700
+Turkey,1995,31834
+Belarus,2018,31950
+Tunisia,2014,32000
+Tunisia,2018,32000
+Cyprus,1962,32117
+Slovenia,2003,32119
+Slovenia,2002,32246
+Turkmenistan,1994,32400
+New Zealand,1993,32500
+Tunisia,2015,32500
+Slovakia,2013,32527
+Tunisia,2013,32800
+Czechoslovakia,1961,33000
+Peru,2000,33000
+Tunisia,1992,33000
+Morocco,2002,33066
+Morocco,1993,33200
+New Zealand,1977,33212
+Canada,1990,33229
+Tunisia,1993,33245
+Canada,1996,33285
+Slovakia,2006,33430
+Cyprus,1961,33567
+Uzbekistan,2002,33580
+New Zealand,1973,33613
+Turkey,1997,33613
+Canada,1992,33747
+Turkey,1962,33885
+Belarus,2019,33970
+Morocco,2011,34000
+Tunisia,1998,34000
+Morocco,2003,34293
+Slovakia,2016,34296
+Mexico,2010,34356
+Canada,1997,34447
+Turkey,1998,34463
+Morocco,2012,34500
+Central America (FAO),2010,34540
+Tunisia,2006,34693
+Azerbaijan,1997,34700
+Serbia,2018,34777
+Albania,1990,35000
+Eastern Asia (FAO),1976,35000
+Japan,1976,35000
+Morocco,1982,35000
+Morocco,1984,35000
+Morocco,2004,35000
+Morocco,2008,35000
+Uzbekistan,2004,35000
+Turkey,1963,35149
+Moldova,1997,35400
+Morocco,1988,35400
+Turkmenistan,1999,35400
+Cyprus,1966,35440
+Canada,1995,35483
+Mexico,2017,35516
+Central America (FAO),2017,35636
+Algeria,1997,35700
+Tunisia,2004,35839
+Uzbekistan,2013,35840
+Canada,2003,35889
+Algeria,1998,36000
+Turkmenistan,1997,36000
+Turkmenistan,1998,36000
+Turkmenistan,2000,36000
+Serbia,2017,36004
+Slovenia,2004,36138
+Uzbekistan,2011,36140
+Morocco,2006,36159
+Turkey,1996,36320
+Mexico,2019,36640
+Slovenia,1999,36652
+Central America (FAO),2019,36735
+Slovakia,2012,36929
+North Macedonia,2017,36934
+Morocco,1985,37000
+Morocco,2007,37000
+Morocco,2013,37000
+Tunisia,2019,37000
+Slovakia,2002,37127
+Tunisia,1997,37221
+Croatia,2012,37312
+Peru,2001,37320
+Slovakia,2014,37349
+Tunisia,1986,37480
+Uzbekistan,2012,37510
+Morocco,2005,37560
+Morocco,1997,37610
+New Zealand,1987,37738
+Canada,1991,37786
+Canada,1977,37926
+Eastern Asia (FAO),1977,38060
+Japan,1977,38060
+Mexico,2011,38212
+Turkey,1973,38277
+Central America (FAO),2011,38330
+Mexico,2018,38490
+Cyprus,2003,38500
+Turkey,1964,38540
+Central America (FAO),2018,38573
+Cyprus,1985,38700
+Morocco,1991,38950
+Turkmenistan,2008,39000
+Mexico,2012,39056
+Central America (FAO),2012,39174
+New Zealand,1988,39192
+Algeria,1996,39200
+Tunisia,1987,39220
+Mexico,2014,39360
+Turkey,2016,39402
+Mexico,2020,39405
+Central America (FAO),2020,39484
+Central America (FAO),2014,39519
+Slovakia,2004,39519
+Canada,1998,39592
+Turkmenistan,2001,39600
+Turkey,1967,39645
+Tunisia,2000,39703
+Cyprus,1970,39868
+Turkey,1972,40141
+Turkmenistan,2002,40200
+Turkmenistan,2009,40200
+Turkey,1968,40408
+Czechia,1997,40500
+New Zealand,1978,40510
+Turkmenistan,2003,40800
+Peru,2002,40830
+Algeria,1992,40957
+Slovakia,2005,40958
+Kyrgyzstan,2020,2012.4
+Uzbekistan,2000,41000
+New Zealand,1994,41100
+Slovenia,2000,41248
+Tunisia,1991,41400
+Cyprus,1991,41500
+Mexico,2013,41502
+Central America (FAO),2013,41590
+Cyprus,1981,41600
+New Zealand,1992,41600
+New Zealand,1984,41684
+Cyprus,1967,41868
+Canada,1972,41909
+Algeria,2001,42000
+Morocco,1983,42000
+Turkmenistan,2004,42000
+Turkey,1971,42094
+Algeria,1999,42156
+Slovakia,1999,42190
+New Zealand,1979,42341
+Algeria,2000,42362
+New Zealand,1986,42392
+Mexico,2015,42466
+Central America (FAO),2015,42539
+Canada,2000,42791
+Croatia,2011,42885
+Turkey,1970,43030
+Canada,1973,43183
+Turkmenistan,2005,43200
+Mexico,2021,43268
+Japan,1981,43270
+Central America (FAO),2021,43376
+Morocco,1992,43480
+Uzbekistan,2001,43500
+Cyprus,1968,43596
+Latvia,2020,2019.07
+Turkmenistan,2006,43800
+Canada,1979,43918
+Israel,2021,2020.06
+Mexico,2016,44140
+Cyprus,1984,44200
+Central America (FAO),2016,44241
+New Zealand,1981,44353
+Turkey,1966,44389
+Turkmenistan,2007,44400
+Canada,2001,44534
+Japan,1986,44580
+Cyprus,1969,44641
+North Macedonia,2002,44700
+Turkey,2014,44707
+Slovakia,2001,44713
+Czechoslovakia,1963,44800
+Cyprus,1983,45000
+Japan,1984,45070
+Japan,1979,45250
+Croatia,2014,45272
+Tunisia,1999,45305
+Canada,2009,45388
+Morocco,1986,45400
+Morocco,1987,45400
+Canada,1981,45402
+Czechia,1993,45490
+Canada,1980,45493
+Japan,1980,45620
+New Zealand,1989,45647
+Uzbekistan,2003,45750
+Peru,2003,45760
+Czechia,2011,45800
+New Zealand,1997,45800
+Canada,1982,45871
+Czechia,1995,45922
+Cyprus,1977,45957
+Algeria,1991,46000
+Croatia,2013,46088
+Croatia,2017,46089
+Slovakia,2003,46103
+Czechia,2010,46276
+New Zealand,1980,46647
+Canada,2002,46886
+Uruguay,1977,47000
+Uruguay,1978,47000
+New Zealand,1982,47001
+Kazakhstan,1992,47230
+Turkey,1965,47281
+Cyprus,1976,47342
+Croatia,2015,47407
+Slovakia,2000,47640
+Tunisia,1982,47910
+Czechia,2009,47995
+Algeria,2011,48000
+Peru,2004,48000
+Czechia,2020,48100
+Canada,1985,48209
+Cyprus,1982,48300
+Turkey,1969,48388
+Slovenia,1998,48397
+Croatia,2016,48489
+Algeria,1990,48500
+Cyprus,1994,48500
+Czechia,2013,48700
+Slovakia,1997,48964
+Slovakia,1998,49036
+Tunisia,1978,49100
+Cyprus,1975,49197
+Algeria,2012,49200
+Turkmenistan,1995,49200
+Morocco,1999,49337
+Cyprus,1971,49460
+Czechia,1994,49679
+Czechia,2008,49725
+Algeria,2013,49800
+New Zealand,1991,49925
+Algeria,1994,50000
+Algeria,2002,50000
+Algeria,2008,50000
+Canada,2007,50155
+Morocco,1989,50210
+Slovenia,2001,50235
+Cyprus,2001,50300
+Japan,1992,50315
+Algeria,1989,50373
+Canada,2010,50743
+Croatia,2008,50869
+North Macedonia,2014,51013
+Japan,1993,51020
+North Macedonia,1993,51151
+Canada,1999,51170
+Japan,1985,51420
+Cyprus,1972,51483
+Peru,2009,51500
+Czechia,1996,51561
+Algeria,2007,52000
+Czechia,2014,52000
+Peru,2010,52000
+Canada,1978,52003
+Japan,1994,52050
+Canada,2004,52220
+Croatia,2020,52500
+Canada,2006,52668
+Japan,1987,52730
+Canada,1983,52822
+Low Income Food Deficit Countries (FAO),2002,52848
+Tunisia,1985,52940
+Georgia,2004,53000
+Uzbekistan,1994,53000
+New Zealand,2001,53300
+Croatia,2018,53400
+Cyprus,1997,53400
+Czechia,2015,53600
+Tunisia,1983,53710
+Czechia,2000,53815
+Slovenia,1996,53926
+Canada,1988,54229
+Canada,2008,54320
+New Zealand,1990,54445
+Latvia,2019,2049.3
+Czechia,2012,54600
+Asia,1961,54690
+Canada,1987,54761
+Tunisia,1970,54900
+Czechia,2005,55000
+Morocco,1978,55000
+New Zealand,2003,55000
+Uruguay,1979,55000
+Uzbekistan,1996,55000
+Japan,1989,55410
+Cyprus,1995,55500
+Cyprus,1999,55500
+Cyprus,1996,55900
+Czechia,2004,56000
+Turkey,2015,56017
+Czechia,1998,56047
+Slovakia,1993,56050
+Czechia,1999,56279
+New Zealand,1995,56400
+Cyprus,1978,56500
+Japan,1978,56690
+Tunisia,1981,56800
+Japan,1991,56944
+Cyprus,2000,57000
+Uruguay,1980,57078
+Canada,1986,57099
+Algeria,1995,57100
+New Zealand,1996,57300
+Cyprus,1974,57506
+Georgia,2002,57600
+Low Income Food Deficit Countries (FAO),2000,57644
+New Zealand,1983,57743
+Slovenia,1997,57989
+Japan,1990,58283
+Tunisia,1976,58300
+Algeria,2009,58840
+Japan,1983,58890
+Czechoslovakia,1964,58900
+Czechia,2021,59000
+Peru,2005,59000
+Uzbekistan,1999,59000
+Japan,1982,59220
+Cyprus,1979,59400
+Georgia,2001,59500
+New Zealand,1985,59626
+Czechia,2007,59819
+Algeria,2003,60000
+Cyprus,1980,60000
+Cyprus,1990,60000
+Peru,2006,60000
+Uzbekistan,1993,60000
+New Zealand,1999,60200
+New Zealand,2000,60200
+Uruguay,2019,60486
+Czechia,2001,60516
+New Zealand,1998,60600
+Canada,1984,60620
+Switzerland,2021,60904
+Low Income Food Deficit Countries (FAO),2003,60913
+Japan,1988,60940
+Peru,2007,61000
+Canada,2011,61418
+North Macedonia,2006,61549
+Low Income Food Deficit Countries (FAO),2001,61719
+Uruguay,2009,61784
+Tunisia,1980,61900
+Peru,2008,62000
+Uzbekistan,1998,62000
+Asia,1964,62023
+Canada,2012,62041
+Algeria,1988,62100
+Asia,1962,62449
+Japan,2007,63000
+Peru,2011,63000
+Czechia,2017,63100
+Slovakia,1996,63189
+Tunisia,1979,63800
+Cyprus,1992,64500
+Czechia,2018,64500
+Algeria,1993,65000
+Croatia,2007,65000
+Peru,2012,65000
+Uzbekistan,1997,65000
+Japan,1995,65210
+Georgia,2003,65300
+Czechia,2006,65561
+Asia,1963,65623
+Tunisia,1984,65700
+Croatia,2021,66000
+Japan,2008,66000
+Slovakia,1995,66180
+Western Asia (FAO),1963,66184
+Asia,1976,66234
+Uruguay,2015,66450
+Cyprus,1986,66500
+North Macedonia,2011,66530
+Uruguay,1984,66602
+Uruguay,2013,66656
+Azerbaijan,1992,67000
+Ukraine,2020,67120
+Uruguay,2017,67278
+Japan,1996,67513
+Czechia,2019,68000
+Czechia,2002,68029
+Asia,1975,68105
+Ukraine,2021,68470
+Slovakia,1994,68579
+Uruguay,2014,68736
+Estonia,2021,2088.07
+Uruguay,2020,69482
+Canada,2019,69660
+Canada,2013,69720
+Czechoslovakia,1965,69900
+Croatia,2006,70000
+Morocco,1969,70000
+Peru,2013,70000
+Switzerland,1974,70150
+Uruguay,1962,70252
+Uruguay,1985,70600
+Uruguay,1994,70892
+Cyprus,1998,71000
+Uruguay,1986,71000
+Asia,1966,71274
+Asia,1974,71410
+Uruguay,2002,71434
+Eastern Asia (FAO),1978,71690
+Georgia,1998,71700
+Georgia,1999,71700
+Georgia,2000,71700
+Switzerland,1962,71817
+Cyprus,1987,72000
+Uzbekistan,1992,72000
+Net Food Importing Developing Countries (FAO),1994,72323
+Czechoslovakia,1966,72600
+Switzerland,1966,72723
+Switzerland,1969,72850
+Switzerland,1978,72900
+Tunisia,1977,72900
+Japan,2009,73000
+Peru,2014,73000
+Croatia,2019,73300
+Uruguay,1987,73500
+Czechoslovakia,1987,73600
+Switzerland,1961,73658
+Moldova,1999,73750
+Czechia,2003,73978
+North Macedonia,2020,74412
+Uruguay,2018,74500
+Czechoslovakia,1967,74600
+Peru,2015,74700
+Uruguay,2021,74865
+Japan,2010,75000
+Peru,2016,75000
+Uruguay,1961,75066
+Uruguay,1983,75131
+Asia,1965,75152
+Eastern Asia (FAO),1979,75250
+Asia,1970,75354
+Asia,1971,75598
+Asia,1967,75787
+Uruguay,1969,76000
+Low Income Food Deficit Countries (FAO),1999,76212
+Asia,1972,76218
+Uruguay,2016,76255
+Peru,2017,76500
+Switzerland,1975,76720
+Uruguay,2010,76863
+Morocco,1976,77000
+Ukraine,2016,77250
+Croatia,2005,77300
+Western Asia (FAO),1961,77457
+Slovenia,1995,78061
+North Macedonia,2012,78077
+Georgia,1996,78100
+Georgia,1997,78100
+Uruguay,1964,78200
+Central Asia (FAO),2008,78295
+North Macedonia,2016,78501
+Western Asia (FAO),1976,78576
+Western Asia (FAO),1964,78944
+Switzerland,1980,78988
+Georgia,1995,79000
+Japan,2011,79000
+Switzerland,2017,79179
+Western Asia (FAO),1981,79225
+Asia,1973,79424
+Asia (FAO),1963,79484
+Uruguay,1991,79556
+Ukraine,2017,79650
+Switzerland,1965,79673
+North Macedonia,2015,79708
+Uruguay,2008,79903
+China,1980,80000
+China (FAO),1980,80000
+Japan,2012,80000
+Japan,2013,80000
+Asia,1968,80039
+Switzerland,1981,80098
+Low Income Food Deficit Countries (FAO),1994,80106
+Uruguay,1992,80404
+Ukraine,2018,80630
+Ukraine,2019,80650
+Asia,1977,80782
+Western Asia (FAO),1962,80866
+Switzerland,1971,80920
+Morocco,1977,81000
+Peru,2020,81000
+Peru,2021,81000
+Western Asia (FAO),1983,81113
+Switzerland,1963,81128
+Western Asia (FAO),1985,81662
+Tunisia,1969,81800
+Uruguay,2003,81814
+Czechia,2016,81900
+Central Asia (FAO),2007,81977
+Peru,2018,82000
+Peru,2019,82000
+Uruguay,1976,82000
+Bulgaria,2021,82300
+Czechoslovakia,1968,82500
+Asia,1969,82782
+Slovenia,1994,82945
+North Macedonia,2001,83000
+Uzbekistan,1995,83000
+Switzerland,2020,83424
+Uruguay,1982,83575
+North Macedonia,2005,83604
+Uruguay,1966,83700
+Uruguay,1967,83700
+Uruguay,1968,83700
+Switzerland,2013,83863
+Morocco,1981,84000
+Uruguay,1963,84221
+Switzerland,1964,84353
+Uruguay,1989,84695
+Algeria,2004,85000
+Cyprus,1988,85000
+Cyprus,1993,85000
+Georgia,2006,85000
+Japan,2014,85000
+Switzerland,1967,85019
+Switzerland,2015,85045
+Uruguay,1995,85182
+Asia (FAO),1964,85435
+Western Asia (FAO),1984,86581
+Uruguay,1965,86742
+Western Asia (FAO),1982,86795
+Ukraine,2014,86904
+Georgia,2005,87000
+Georgia,2017,87018
+Western Asia (FAO),1975,87302
+Uruguay,2001,87310
+North Macedonia,1994,88024
+Bulgaria,2014,88100
+Asia (FAO),1961,88257
+Western Asia (FAO),1973,88440
+Slovenia,1992,88500
+Central Asia (FAO),2006,88656
+Western Asia (FAO),1977,88679
+New Zealand,2002,89000
+Uruguay,2005,89201
+Slovenia,1993,89250
+Japan,2006,89960
+Algeria,2005,90000
+Uruguay,1972,90000
+Uruguay,1973,90000
+Uruguay,1974,90000
+Uruguay,1975,90000
+Uruguay,2011,90125
+Georgia,2008,90200
+Uruguay,2000,90412
+Switzerland,1968,90483
+Austria,1962,90600
+North Macedonia,2019,90624
+Algeria,1986,90630
+Morocco,1980,91000
+Uruguay,1970,91000
+Uruguay,1971,91000
+Ukraine,2015,91040
+North Macedonia,1995,91053
+North Macedonia,1999,91187
+Colombia,2020,2149.11
+Bulgaria,2020,91700
+Algeria,1987,91780
+Northern Africa (FAO),1996,92336
+North Macedonia,2008,92435
+Switzerland,1972,92830
+North Macedonia,2003,93038
+Western Asia (FAO),1991,93257
+Switzerland,2014,93365
+Japan,1997,93400
+Uruguay,2006,93581
+Cyprus,1989,93600
+North Macedonia,2021,93600
+Central Asia (FAO),2005,93778
+Algeria,1985,93810
+Japan,2004,93819
+Japan,2003,93840
+Georgia,2020,94010
+Uruguay,1990,94015
+Uruguay,2007,94041
+Net Food Importing Developing Countries (FAO),1989,94409
+Tunisia,1967,94500
+Asia (FAO),1962,94566
+Tunisia,1968,95200
+Uruguay,1996,95394
+Tunisia,1975,95500
+North Macedonia,2009,95506
+Japan,2005,95511
+Western Asia (FAO),1965,95794
+North Macedonia,2000,96142
+Western Asia (FAO),1966,96423
+Central Asia (FAO),1996,96870
+Uruguay,1981,97148
+Japan,2000,97400
+Switzerland,2019,97945
+Western Asia (FAO),1967,98241
+Central Asia (FAO),2004,98311
+Western Asia (FAO),1978,98482
+Western Asia (FAO),1980,98561
+Czechoslovakia,1969,98700
+Uruguay,2012,99012
+Czechoslovakia,1970,99100
+Georgia,2013,99700
+Brazil,1964,99905
+Morocco,1975,100000
+Western Asia (FAO),1970,100022
+Switzerland,2005,100096
+Japan,1999,100250
+Switzerland,2012,100387
+North Macedonia,1996,101030
+Western Asia (FAO),1968,101075
+Switzerland,2006,101112
+Tunisia,1971,101400
+Western Asia (FAO),1979,101784
+Tunisia,1972,101800
+New Zealand,2005,102000
+Uruguay,1999,102000
+North Macedonia,2013,102363
+Northern Africa (FAO),1998,102440
+Czechoslovakia,1971,102500
+North Macedonia,2018,102633
+Uruguay,1997,102845
+Switzerland,1984,102959
+Uruguay,1998,103000
+Switzerland,2010,103094
+Georgia,2010,103400
+Central Asia (FAO),2001,103523
+Switzerland,1979,103800
+Western Asia (FAO),1974,103916
+Switzerland,2007,104094
+Georgia,2009,104300
+Switzerland,1997,104300
+Switzerland,1988,104588
+Northern Africa (FAO),2001,104835
+Algeria,2006,105000
+Northern Africa (FAO),1995,105079
+Tunisia,1973,105800
+North Macedonia,2004,105850
+Central Asia (FAO),2002,105862
+Asia (FAO),1965,105878
+Uruguay,1988,106197
+Northern Africa (FAO),1990,106620
+Asia (FAO),1966,106714
+Serbia and Montenegro,2005,106839
+Switzerland,1976,106900
+Uruguay,1993,106970
+Georgia,2007,107000
+Switzerland,2008,107447
+North Macedonia,2007,107470
+Switzerland,2003,107660
+Switzerland,2016,107674
+Bulgaria,2019,108400
+Western Asia (FAO),1990,108509
+Georgia,2014,108692
+Northern Africa (FAO),1994,108754
+Czechoslovakia,1972,108977
+Northern Africa (FAO),2011,109310
+Switzerland,1985,109395
+Western Asia (FAO),1971,109458
+Morocco,1979,110000
+Switzerland,1987,110023
+Asia (FAO),1973,110240
+Western Asia (FAO),1972,110301
+Central Asia (FAO),2000,110464
+Western Asia (FAO),1969,110503
+Japan,2001,110510
+Georgia,2011,110800
+Japan,2002,110990
+China,1981,111000
+China (FAO),1981,111000
+Switzerland,2018,111153
+Moldova,2000,111200
+Switzerland,2002,111240
+Switzerland,2009,111354
+Western Asia (FAO),1986,111519
+Czechoslovakia,1973,111537
+Tunisia,1974,111600
+Switzerland,2011,112006
+Central Asia (FAO),2003,112498
+Uruguay,2004,112559
+Austria,1985,112566
+Northern Africa (FAO),1997,113196
+Asia (FAO),1976,113576
+North Macedonia,1997,113593
+Northern Africa (FAO),2002,113638
+Asia,1978,113672
+Georgia,2018,113969
+Bulgaria,2002,114509
+Morocco,1972,114618
+Northern Africa (FAO),2000,114915
+Morocco,1971,115000
+Czechoslovakia,1974,115110
+Asia (FAO),1970,115222
+Switzerland,1977,115400
+Switzerland,1993,115603
+Switzerland,1970,115850
+Switzerland,2004,115866
+Japan,1998,115910
+Ukraine,1994,116320
+Northern Africa (FAO),2012,116603
+Bulgaria,2018,117018
+Central Asia (FAO),1993,117080
+Switzerland,1998,117224
+Asia (FAO),1975,117302
+Switzerland,2001,117389
+Asia,1979,117634
+Asia (FAO),1967,117655
+Brazil,1963,118000
+China,1982,118000
+China (FAO),1982,118000
+Switzerland,1986,118004
+Switzerland,1995,118140
+Central Asia (FAO),1994,118370
+Switzerland,1994,118869
+New Zealand,2004,119200
+Bulgaria,2017,119309
+Austria,1961,119500
+Georgia,2021,119617
+Northern Africa (FAO),1992,119837
+Northern Africa (FAO),1988,119983
+Switzerland,1973,120400
+Northern Africa (FAO),2007,121075
+Tunisia,1966,122200
+Central Asia (FAO),1997,122420
+Switzerland,1996,122477
+Bulgaria,2011,122687
+North Macedonia,1998,122710
+Bulgaria,2001,123015
+Net Food Importing Developing Countries (FAO),2001,123018
+Central Asia (FAO),1998,123360
+Northern Africa (FAO),2003,123367
+Switzerland,1990,123465
+Asia (FAO),1968,123635
+Czechoslovakia,1975,123770
+Switzerland,1992,123888
+Western Asia (FAO),1987,123937
+Northern Africa (FAO),2013,124100
+Lower-middle-income countries,1990,124208
+Central Asia (FAO),1999,124340
+Switzerland,1991,124578
+Northern Africa (FAO),2009,124609
+Net Food Importing Developing Countries (FAO),2002,124701
+Ukraine,1999,125000
+Asia (FAO),1971,125058
+Moldova,1998,125200
+Morocco,1970,125260
+Northern Africa (FAO),1989,125283
+Eastern Asia (FAO),1980,125620
+Romania,2018,125743
+Morocco,1973,126000
+Ukraine,1998,126000
+Brazil,1966,126200
+Asia (FAO),1977,126739
+Morocco,1974,127000
+Asia (FAO),1969,127423
+Switzerland,2000,127572
+Asia (FAO),1972,127701
+Northern Africa (FAO),2008,128338
+Moldova,2007,128490
+Northern Africa (FAO),1991,128650
+Asia (FAO),1974,128916
+China,1983,129000
+China (FAO),1983,129000
+Ukraine,2000,129000
+Serbia,2006,129184
+Net Food Importing Developing Countries (FAO),2000,129687
+Net Food Importing Developing Countries (FAO),2003,129837
+Brazil,2016,130000
+Moldova,2009,130000
+Czechoslovakia,1982,130345
+Bulgaria,2013,130500
+Switzerland,1999,130966
+Czechoslovakia,1979,131710
+Moldova,2011,131860
+Czechoslovakia,1976,132458
+Moldova,2010,132560
+Net Food Importing Developing Countries (FAO),1999,133013
+New Zealand,2006,133200
+Bulgaria,2016,133398
+Lower-middle-income countries,1988,133564
+Bulgaria,2012,133700
+Northern Africa (FAO),1993,133895
+Czechoslovakia,1992,134000
+Western Asia (FAO),1988,134034
+Australia,1963,135894
+North Macedonia,1992,136456
+Serbia and Montenegro,1999,136575
+Morocco,1967,136880
+Bulgaria,2007,136953
+Czechoslovakia,1983,137761
+Georgia,2019,138060
+Western Asia (FAO),2004,138306
+Czechoslovakia,1977,138640
+Austria,1965,138737
+Brazil,1962,139000
+Czechoslovakia,1989,139164
+Lower-middle-income countries,1989,139196
+Algeria,1984,139380
+Moldova,2015,139506
+Northern Africa (FAO),1999,139528
+Western Asia (FAO),2002,139690
+Czechoslovakia,1986,140291
+Moldova,2016,141460
+Czechoslovakia,1978,141705
+Oceania,1963,141897
+Oceania (FAO),1963,141897
+Czechoslovakia,1980,142082
+Czechoslovakia,1990,142135
+Czechoslovakia,1988,142236
+Czechoslovakia,1981,142304
+Western Asia (FAO),1989,142827
+Tunisia,1961,143740
+Bulgaria,2003,143835
+Austria,1966,145359
+Serbia,2007,145838
+Moldova,2012,147540
+New Zealand,2007,147600
+Moldova,2014,149850
+Bulgaria,2010,150083
+Lower-middle-income countries,1991,151248
+Switzerland,1983,151333
+Algeria,1982,151400
+Kyrgyzstan,2021,2316.2
+Australia,1961,153481
+Western Asia (FAO),2003,154160
+Moldova,2002,154200
+Serbia,2008,154224
+Eastern Asia (FAO),1981,154270
+Czechoslovakia,1991,155000
+Ukraine,1997,155000
+Australia,1966,155132
+Czechoslovakia,1984,156309
+Bulgaria,2015,156800
+Oceania,1961,157800
+Oceania (FAO),1961,157800
+Brazil,1961,158000
+Brazil,1969,158000
+Moldova,2013,158960
+Central Asia (FAO),1995,159420
+Moldova,2008,159700
+Switzerland,1989,159805
+China,1984,160000
+China (FAO),1984,160000
+Georgia,1994,160000
+Moldova,2001,160400
+Serbia and Montenegro,2002,161963
+Georgia,1993,162000
+Central Asia (FAO),1992,162310
+Northern Africa (FAO),2004,162639
+Northern Africa (FAO),2005,162923
+Western Asia (FAO),2008,163702
+Oceania,1966,163902
+Oceania (FAO),1966,163902
+Asia,1980,164181
+Austria,1963,164400
+Bulgaria,2009,164525
+Least Developed Countries (FAO),1970,2351.5
+Austria,1974,166492
+Serbia and Montenegro,2001,166613
+Moldova,2021,167500
+Western Asia (FAO),2006,167833
+Ukraine,2013,168250
+Bulgaria,1993,168300
+Asia (FAO),1978,170172
+Western Asia (FAO),2009,170342
+Colombia,2018,2366.8
+Australia,1964,170639
+Moldova,2017,171430
+Bulgaria,1999,171451
+Ukraine,1996,172000
+Switzerland,1982,172440
+Western Asia (FAO),2001,172478
+Serbia and Montenegro,2003,173441
+Austria,2010,173745
+Serbia and Montenegro,2004,174546
+Morocco,1968,175000
+Ukraine,1993,175000
+Western Asia (FAO),2005,175239
+Northern Africa (FAO),1986,175510
+Croatia,2003,176800
+Australia,1965,176900
+Asia (FAO),1979,177034
+Western Asia (FAO),2007,177137
+Eastern Asia (FAO),1982,177220
+Oceania,1964,177417
+Oceania (FAO),1964,177417
+Ukraine,2001,178000
+Northern Africa (FAO),1987,178450
+Moldova,2018,178490
+Croatia,1995,178492
+Moldova,2020,178700
+Western Asia (FAO),2015,179063
+Georgia,1992,179700
+Ukraine,2012,179700
+Austria,1997,180193
+Austria,1971,181279
+Hungary,2010,181279
+Northern Africa (FAO),2006,182652
+Moldova,2019,182700
+Bulgaria,2000,183372
+Tunisia,1964,183600
+Algeria,1978,184000
+Oceania,1965,184720
+Oceania (FAO),1965,184720
+Tunisia,1965,184800
+Tunisia,1962,185400
+Northern Africa (FAO),1985,185600
+Ukraine,1995,186000
+Austria,1993,186548
+Lower-middle-income countries,1986,186738
+Algeria,1983,187567
+Eastern Asia (FAO),1983,187890
+Brazil,1983,188193
+Bulgaria,1994,188500
+Eastern Africa (FAO),1970,2416.5
+Australia,1967,188723
+Croatia,2000,189100
+Croatia,1994,189253
+Morocco,1962,189600
+Australia,1962,189732
+Brazil,1970,190000
+Brazil,1971,190000
+New Zealand,2010,190000
+Western Asia (FAO),1999,190145
+Western Asia (FAO),2000,190248
+Lower-middle-income countries,1987,191008
+Asia,1981,191895
+Brazil,1965,192800
+Moldova,2006,193812
+New Zealand,2012,194000
+Oceania,1962,194933
+Oceania (FAO),1962,194933
+Croatia,2001,195200
+Austria,2016,195253
+Bulgaria,1998,195544
+Croatia,1996,195801
+Lower-middle-income countries,1985,195968
+Brazil,1967,196000
+Serbia and Montenegro,2000,197271
+Low Income Food Deficit Countries (FAO),1970,2441.5
+Croatia,2004,197900
+Moldova,2003,197900
+Tunisia,1963,198600
+Brazil,1968,198800
+Oceania,1967,199063
+Oceania (FAO),1967,199063
+Brazil,1980,199602
+Austria,2014,199869
+Australia,1968,201074
+Ukraine,2004,201212
+Serbia,2009,202368
+Brazil,1974,203600
+Brazil,1975,203600
+Serbia and Montenegro,1993,203802
+New Zealand,2009,205000
+Russia,1996,205000
+Eastern Asia (FAO),1984,205070
+New Zealand,2008,205200
+Croatia,1992,205915
+Western Asia (FAO),1996,206046
+Bulgaria,1961,208000
+Croatia,1993,208105
+Austria,1981,208517
+Croatia,1999,209404
+Croatia,2002,209500
+Morocco,1966,211000
+Austria,1996,211033
+Ukraine,2011,212400
+Bulgaria,1997,212800
+Ukraine,2005,212970
+Oceania,1968,214774
+Oceania (FAO),1968,214774
+Austria,2012,215475
+Asia,1982,215715
+Ukraine,2006,216000
+Russia,1998,218000
+Brazil,1987,218143
+Brazil,1998,218189
+Austria,1987,218362
+Ukraine,1992,219000
+Brazil,1976,219500
+Bulgaria,1992,221000
+Western Asia (FAO),1998,221979
+Austria,1995,222897
+Austria,1986,222985
+Russia,1997,223000
+Morocco,1961,223200
+Asia,1983,224003
+Asia (FAO),1980,224181
+Hungary,2012,224330
+Brazil,1986,225370
+Austria,2006,225630
+Croatia,1997,225962
+Western Asia (FAO),1995,226263
+Austria,2005,226402
+Austria,1969,226528
+Austria,2015,226840
+Croatia,1998,227727
+Brazil,1972,230000
+Lower-middle-income countries,2017,230032
+Bulgaria,2008,230046
+Brazil,1996,232017
+Austria,2019,232400
+China,1985,233000
+China (FAO),1985,233000
+Asia (FAO),1981,233495
+Austria,2000,233841
+Russia,1995,234000
+New Zealand,2015,234700
+New Zealand,2011,235000
+Austria,2009,235188
+Australia,1969,235372
+Northern Africa (FAO),1982,235834
+Brazil,1973,236200
+Brazil,2006,237200
+Bulgaria,1996,237400
+Ukraine,2003,238000
+Western Asia (FAO),1997,238718
+Austria,2013,239195
+Austria,2020,239800
+Ukraine,2007,240000
+Austria,1973,240431
+Northern Africa (FAO),1984,241788
+Hungary,1965,242500
+Ukraine,2002,243000
+Brazil,1984,243301
+Lower-middle-income countries,1982,243912
+Morocco,1964,245862
+Brazil,2010,245900
+Austria,2021,246000
+Moldova,1996,247000
+Asia,1984,247451
+Austria,1968,247724
+Bulgaria,1990,248046
+New Zealand,2013,248400
+Ukraine,2008,250000
+Lower-middle-income countries,1984,251416
+Oceania,1969,251772
+Oceania (FAO),1969,251772
+Austria,1984,251892
+Austria,2003,252989
+China,1986,253000
+China (FAO),1986,253000
+Austria,2001,253058
+China,1990,254000
+China (FAO),1990,254000
+Algeria,1977,254876
+Australia,1971,254965
+Bulgaria,1991,254989
+Least Developed Countries (FAO),1974,2599.5
+Serbia and Montenegro,1992,255911
+Russia,1999,256000
+Serbia and Montenegro,1998,257734
+Morocco,1963,257900
+Austria,1989,258086
+Hungary,2014,258518
+Austria,1992,258822
+Bulgaria,1995,259300
+Austria,1977,259402
+Austria,1967,259438
+Austria,1972,259562
+Austria,2002,259908
+Brazil,2014,260000
+Romania,2005,260220
+Brazil,2003,262000
+Austria,2007,262803
+Asia (FAO),1982,264015
+Brazil,1977,264100
+Austria,1994,264664
+Bulgaria,1989,265686
+New Zealand,2021,266400
+Algeria,1981,266888
+Brazil,1993,268923
+Asia (FAO),1983,269003
+Brazil,2015,270000
+Austria,1998,270317
+Austria,1975,270447
+Algeria,1979,270976
+Brazil,2009,272000
+China,1989,272000
+China (FAO),1989,272000
+Kyrgyzstan,2015,2644.12
+Ukraine,2009,273000
+Brazil,2013,273100
+Austria,2004,273456
+Brazil,1989,273542
+Brazil,1997,274320
+Austria,2018,275300
+Oceania,1971,275465
+Oceania (FAO),1971,275465
+Austria,1979,277301
+China,1987,279000
+China (FAO),1987,279000
+Greece,1963,279326
+Australia,1973,279943
+Greece,2019,280336
+Austria,1999,280338
+Serbia and Montenegro,1995,280448
+Austria,2011,281476
+Hungary,2011,282206
+Algeria,1980,283751
+Austria,1964,284017
+Eastern Asia (FAO),1985,284420
+Northern Africa (FAO),1983,284841
+Brazil,1978,285000
+Brazil,1979,285000
+New Zealand,2017,285100
+Australia,1970,286900
+Brazil,1981,288008
+Hungary,1985,289020
+Chile,1991,289500
+Northern Africa (FAO),1978,289762
+Greece,2020,290000
+Greece,2021,290000
+Austria,1976,290104
+Australia,1972,290239
+Asia (FAO),1984,291651
+Lower-middle-income countries,1983,293299
+Eastern Africa (FAO),1974,2705.5
+Hungary,2013,294416
+Australia,1974,294700
+Russia,1994,296000
+Lower-middle-income countries,1978,296646
+Brazil,2012,296700
+Brazil,2001,296800
+New Zealand,2019,297400
+Greece,2017,297556
+Eastern Asia (FAO),1986,297580
+Austria,2008,299372
+Greece,2015,299558
+Brazil,2000,300000
+China,1991,300000
+China (FAO),1991,300000
+Greece,2018,300031
+Ukraine,2010,300200
+Hungary,2015,300813
+New Zealand,2018,301700
+Brazil,1994,301977
+Hungary,2016,302379
+Greece,2016,302493
+Greece,1994,305100
+South Africa,1961,305172
+Southern Africa (FAO),1961,305172
+Oceania,1970,305400
+Oceania (FAO),1970,305400
+Brazil,1991,305548
+Serbia and Montenegro,1994,305804
+Hungary,2019,306200
+Hungary,2020,307321
+Austria,1980,308642
+China,1988,309000
+China (FAO),1988,309000
+Russia,2000,309000
+Austria,1991,309326
+Austria,1970,309613
+Hungary,2021,310000
+Hungary,2005,310328
+Brazil,1990,310832
+Brazil,2002,312200
+Eastern Asia (FAO),1990,312283
+Land Locked Developing Countries (FAO),1999,312460
+Brazil,1995,312832
+Hungary,1962,313134
+Oceania,1973,313556
+Oceania (FAO),1973,313556
+New Zealand,2016,313900
+Hungary,2006,314432
+Oceania,1972,314755
+Oceania (FAO),1972,314755
+Ethiopia,2004,2764.5
+Chile,1992,316500
+Austria,1990,316629
+Chile,1995,316700
+Western Asia (FAO),1994,316808
+Russia,2005,317440
+Brazil,1999,319029
+Brazil,2005,319900
+Moldova,1995,320000
+New Zealand,2014,320400
+Hungary,2007,322000
+Bulgaria,1964,325100
+Oceania,1974,325661
+Oceania (FAO),1974,325661
+Hungary,1987,326280
+Land Locked Developing Countries (FAO),2002,326533
+Brazil,2020,326646
+Asia,1985,327382
+Eastern Asia (FAO),1989,327410
+Romania,2010,328724
+Hungary,1995,328938
+New Zealand,2020,329000
+Brazil,1982,329715
+Romania,2016,330012
+Romania,2012,331061
+Eastern Asia (FAO),1987,331730
+Hungary,2002,333297
+Hungary,1999,333878
+Hungary,2009,334368
+Chile,1986,335000
+Russia,1993,335000
+Australia,1979,335092
+Austria,1978,336628
+Hungary,1966,336700
+Greece,1993,337800
+Australia,1978,339577
+Bulgaria,1988,339900
+Australia,1983,340100
+Moldova,2004,340200
+Kyrgyzstan,2017,2833.9
+Land Locked Developing Countries (FAO),2000,341354
+Asia,1986,342599
+Russia,2002,343000
+Hungary,2008,344876
+Morocco,1965,344878
+Brazil,2011,346000
+Moldova,1992,347400
+Greece,2002,347700
+Brazil,2021,348449
+Brazil,1988,348583
+Net Food Importing Developing Countries (FAO),1966,348812
+Serbia and Montenegro,1996,348870
+South Africa,1962,348988
+Southern Africa (FAO),1962,348988
+Greece,2007,350028
+Brazil,2007,350200
+Austria,1988,350246
+South Africa,1963,350429
+Southern Africa (FAO),1963,350429
+Hungary,1961,350759
+Bulgaria,1967,351000
+Russia,2001,351000
+Bulgaria,1962,352000
+Hungary,2018,355184
+Greece,2001,355800
+Australia,1976,356245
+Eastern Asia (FAO),1991,356944
+Portugal,1998,358000
+Hungary,2017,358132
+Brazil,1992,358378
+Germany,1961,358700
+Bulgaria,1987,359200
+Greece,1964,359267
+Chile,1994,359800
+Bulgaria,1975,360000
+Asia,1990,360792
+Australia,1975,361177
+Greece,1961,363512
+Hungary,1993,364410
+Romania,2015,364573
+Chile,1965,364800
+Russia,2003,365280
+Asia (FAO),1985,366082
+Brazil,1985,366342
+Greece,2000,368000
+Brazil,2008,368300
+Hungary,1994,369413
+Austria,1983,369793
+Eastern Asia (FAO),1988,369940
+Portugal,1988,370000
+Bulgaria,1977,370800
+Hungary,1989,371140
+Brazil,2017,371237
+South Africa,1964,373124
+Southern Africa (FAO),1964,373124
+Moldova,2005,373400
+Land Locked Developing Countries (FAO),2001,373550
+Western Asia (FAO),1993,373680
+Australia,1981,374273
+Asia,1989,376637
+Greece,2005,376866
+Oceania,1979,377433
+Oceania (FAO),1979,377433
+Net Food Importing Developing Countries (FAO),1961,378200
+Algeria,1976,378273
+Romania,2014,378283
+Brazil,2019,378772
+Bulgaria,1972,378800
+Lebanon,2020,2940.3
+Oceania,1978,380087
+Oceania (FAO),1978,380087
+Chile,1993,380600
+Romania,2019,380800
+Romania,2020,380800
+Chile,1996,382369
+Australia,1977,383058
+Greece,1967,383143
+Asia,1987,383667
+Bulgaria,1963,384000
+Chile,1984,385000
+Bulgaria,1985,385900
+Oceania,1975,385949
+Oceania (FAO),1975,385949
+Oceania,1976,386197
+Oceania (FAO),1976,386197
+Moldova,1994,386700
+Greece,2009,386910
+Greece,2003,387046
+Hungary,1992,387800
+Hungary,2003,388002
+Hungary,1981,389120
+Australia,1986,389200
+Bulgaria,1986,389800
+Net Food Importing Developing Countries (FAO),1962,389841
+Chile,1987,390000
+Chile,1989,390000
+Greece,1995,390000
+Low Income Food Deficit Countries (FAO),1974,2969.5
+Brazil,2018,390806
+Russia,2004,391230
+Brazil,2004,392500
+Greece,1990,392900
+Greece,1973,393000
+Germany,1962,394200
+Australia,1991,394289
+Greece,1966,394787
+Australia,1984,396244
+Bulgaria,1965,396300
+Chile,1990,397800
+Oceania,1983,397843
+Oceania (FAO),1983,397843
+Greece,1991,398450
+Western Asia (FAO),1992,399547
+Russia,2015,400150
+Greece,1977,400200
+Greece,2008,400409
+Chile,1970,400500
+Australia,1987,401060
+Chile,1969,402300
+Serbia and Montenegro,1997,402500
+Australia,1982,402700
+Greece,1992,404100
+Greece,1965,405746
+Romania,2011,405817
+Greece,1997,406650
+Greece,1962,406770
+Greece,1976,407000
+Australia,1988,407772
+Bulgaria,1970,408500
+Greece,1996,408500
+Bulgaria,1971,408700
+Asia,1991,408701
+Ethiopia,2007,3019.5
+Greece,1975,409000
+Asia (FAO),1986,409099
+Bulgaria,1980,409200
+Northern Africa (FAO),1981,409275
+Northern Africa (FAO),1977,410059
+Lower-middle-income countries,2007,410425
+Greece,1968,410596
+Greece,1979,412200
+Australia,1980,414237
+Bulgaria,1966,414300
+Oceania,1977,416270
+Oceania (FAO),1977,416270
+Lower-middle-income countries,1977,416309
+South Africa,1966,416420
+Southern Africa (FAO),1966,416420
+Lower-middle-income countries,1981,417369
+Oceania,1981,418626
+Oceania (FAO),1981,418626
+Hungary,1996,418828
+Asia,1988,418974
+Greece,1971,420000
+Asia (FAO),1990,420792
+Land Locked Developing Countries (FAO),2003,420820
+Chile,1988,422700
+South Africa,1970,423584
+Southern Africa (FAO),1970,423584
+Hungary,1963,424346
+Greece,1988,425776
+Hungary,1974,425800
+Yugoslavia,1961,426000
+Greece,1987,427650
+Russia,2018,428000
+Hungary,1971,428900
+Greece,1978,429600
+Hungary,2000,429900
+Lower-middle-income countries,2008,430164
+Romania,2017,430504
+Oceania,1986,431592
+Oceania (FAO),1986,431592
+Algeria,1975,431900
+South Africa,1967,432137
+Southern Africa (FAO),1967,432137
+Greece,1999,433320
+Hungary,1998,433980
+Western Asia (FAO),2020,436967
+Hungary,1970,437900
+Oceania,1984,437928
+Oceania (FAO),1984,437928
+Chile,1985,438000
+Northern Africa (FAO),1980,438301
+Oceania,1987,438798
+Oceania (FAO),1987,438798
+Russia,2020,441000
+Hungary,1986,441730
+Net Food Importing Developing Countries (FAO),1964,442018
+Romania,1961,442100
+Greece,1972,443000
+Greece,2004,443305
+Bulgaria,1974,444200
+Oceania,1991,444214
+Oceania (FAO),1991,444214
+Australia,1990,444584
+Lower-middle-income countries,1980,445635
+Northern Africa (FAO),1979,446235
+Oceania,1988,446964
+Oceania (FAO),1988,446964
+Hungary,1997,447209
+Russia,2017,448000
+Lower-middle-income countries,2006,449298
+Romania,1970,449300
+Oceania,1982,449701
+Oceania (FAO),1982,449701
+Greece,1980,449900
+Greece,1985,449900
+China,1992,450000
+China (FAO),1992,450000
+Russia,2021,450000
+Asia (FAO),1991,450201
+Greece,1974,451000
+Hungary,1976,451100
+Australia,1985,451211
+South Africa,1965,451947
+Southern Africa (FAO),1965,451947
+Greece,1986,452102
+Bulgaria,1978,452400
+Greece,1970,453227
+Lower-middle-income countries,1979,453319
+Greece,1998,453560
+Greece,2006,454051
+Bulgaria,1983,454900
+Chile,1997,454918
+Asia (FAO),1987,455667
+Australia,1992,458501
+Russia,2019,460000
+Chile,1963,460600
+Hungary,1991,460711
+Oceania,1980,460884
+Oceania (FAO),1980,460884
+Yugoslavia,1985,461407
+Australia,1993,461836
+Greece,1982,461840
+Greece,1989,462760
+Romania,1989,463200
+Chile,1975,464900
+Bulgaria,1979,468100
+Portugal,1993,470000
+Net Food Importing Developing Countries (FAO),1963,470118
+Asia (FAO),1989,470237
+Romania,1990,470500
+Romania,1992,470700
+Hungary,1988,470711
+Chile,1966,473600
+Russia,2006,473770
+Russia,1992,474000
+Hungary,1978,475200
+Hungary,1967,478900
+Greece,1981,479300
+Chile,1999,480650
+South Africa,1977,482340
+Southern Africa (FAO),1977,482340
+Chile,1964,483700
+Hungary,1968,484300
+Chile,1961,485300
+Bulgaria,1981,486400
+Yugoslavia,1989,486467
+Germany,1980,486723
+Chile,1967,488800
+Lower-middle-income countries,1999,489071
+Greece,1969,489479
+South Africa,1969,489843
+Southern Africa (FAO),1969,489843
+Chile,1983,490000
+Austria,1982,490565
+Bulgaria,1969,491300
+South Africa,1968,492232
+Southern Africa (FAO),1968,492232
+Oceania,1993,494336
+Oceania (FAO),1993,494336
+Hungary,1975,495100
+Romania,2009,495732
+Bulgaria,1968,497100
+Oceania,1990,499029
+Oceania (FAO),1990,499029
+Chile,1974,499700
+Australia,1989,499933
+China,1993,500000
+China (FAO),1993,500000
+Oceania,1992,500101
+Oceania (FAO),1992,500101
+Eastern Asia (FAO),1992,500315
+Greece,1984,500700
+Romania,1991,500800
+Russia,2009,501000
+Greece,1983,501400
+Romania,2006,501401
+Australia,1995,502796
+Hungary,1972,503400
+Russia,2008,503483
+Asia (FAO),1988,503974
+South Africa,1974,504655
+Southern Africa (FAO),1974,504655
+Romania,1998,507100
+Hungary,1984,507276
+Lower-middle-income countries,2000,509008
+Oceania,1985,510837
+Oceania (FAO),1985,510837
+Russia,2014,511000
+Russia,2007,513130
+Hungary,1979,513200
+Chile,1976,514000
+Northern Africa (FAO),1976,514662
+Yugoslavia,1962,515000
+Yugoslavia,1965,515000
+Romania,2013,515428
+Bulgaria,1984,515500
+Russia,2016,516000
+Yugoslavia,1990,516994
+Chile,1968,518200
+Germany,1965,520000
+Romania,1964,520000
+Lower-middle-income countries,2001,520129
+Bulgaria,1973,520500
+Lower-middle-income countries,1976,520792
+Romania,1965,521100
+Yugoslavia,1967,523000
+Germany,1966,523500
+Romania,1967,524000
+Chile,1971,525100
+Hungary,2004,527183
+Romania,2021,530000
+Lower-middle-income countries,2005,533167
+Romania,1985,534900
+South Africa,1972,535171
+Southern Africa (FAO),1972,535171
+Romania,2007,535514
+Romania,1963,536100
+Romania,1994,537000
+Bulgaria,1976,537200
+South Africa,1973,538752
+Southern Africa (FAO),1973,538752
+Yugoslavia,1975,541900
+Net Food Importing Developing Countries (FAO),1965,544282
+Romania,2000,545300
+Oceania,1989,545580
+Oceania (FAO),1989,545580
+Romania,2003,545700
+Romania,2002,546100
+Romania,2001,546300
+Hungary,1990,547210
+Chile,1998,547477
+Yugoslavia,1970,547840
+Portugal,2008,547962
+Moldova,1993,549000
+Eastern Asia (FAO),1993,551020
+Hungary,2001,551400
+South Africa,1971,552859
+Southern Africa (FAO),1971,552859
+Chile,1962,553300
+Romania,2008,554182
+Hungary,1964,554516
+Yugoslavia,1971,554550
+Romania,1966,556600
+Hungary,1977,558800
+Oceania,1995,559196
+Oceania (FAO),1995,559196
+Chile,1978,561000
+Hungary,1969,561400
+Portugal,2011,562236
+Chile,2002,562323
+Chile,2001,565180
+Romania,1999,566100
+Chile,1973,569000
+Yugoslavia,1966,569000
+Hungary,1980,569440
+Portugal,2009,571072
+Germany,2015,571794
+Russia,2013,573200
+Bulgaria,1982,574000
+Algeria,1972,575338
+Malta,1999,3477.6
+Yugoslavia,1988,576190
+Germany,2016,578692
+Lower-middle-income countries,1998,578890
+Chile,1977,579000
+Lower-middle-income countries,2002,579934
+Yugoslavia,1974,581060
+Romania,1993,583855
+Yugoslavia,1964,585000
+Chile,1980,586000
+Portugal,2007,586676
+Australia,1994,587377
+Yugoslavia,1978,588000
+Portugal,2018,588372
+South Africa,1975,589633
+Southern Africa (FAO),1975,589633
+Yugoslavia,1963,590000
+Algeria,1973,590984
+Portugal,1997,591415
+Chile,1979,592500
+Romania,1962,592500
+Chile,1981,594300
+South Africa,1976,597476
+Southern Africa (FAO),1976,597476
+Lower-middle-income countries,2004,600868
+Germany,1963,605600
+Lower-middle-income countries,2003,606127
+South Africa,1978,606277
+Southern Africa (FAO),1978,606277
+Yugoslavia,1968,608000
+Yugoslavia,1991,609653
+Germany,1985,609695
+Chile,1982,610000
+Chile,1972,611200
+Germany,1969,614600
+Australia,1997,617379
+China,1994,620000
+China (FAO),1994,620000
+Portugal,2014,620575
+Hungary,1973,622600
+Russia,2012,623000
+Portugal,2013,623134
+Lower-middle-income countries,1993,623745
+Hungary,1983,626147
+Yugoslavia,1972,626260
+Germany,2017,626532
+Portugal,2020,626700
+Romania,1972,627400
+South Africa,1993,628059
+Southern Africa (FAO),1993,628059
+Algeria,1974,628172
+Romania,1974,628400
+Oceania,1994,628477
+Oceania (FAO),1994,628477
+Germany,1968,628900
+Yugoslavia,1984,629019
+Northern Africa (FAO),1975,629355
+Germany,1967,630000
+Yugoslavia,1977,630000
+Chile,2004,630073
+South Africa,1979,630352
+Southern Africa (FAO),1979,630352
+Portugal,2012,632710
+Germany,2018,633424
+Portugal,2019,634885
+Portugal,1994,635000
+Romania,1971,635000
+Lower-middle-income countries,1975,635178
+Lower-middle-income countries,1994,635389
+Germany,1971,635600
+Yugoslavia,1976,638000
+Land Locked Developing Countries (FAO),1994,641612
+United States,1961,641632
+Yugoslavia,1987,641717
+Romania,1988,642460
+Algeria,1967,644607
+South Africa,1986,646832
+Southern Africa (FAO),1986,646832
+South Africa,2001,647077
+Southern Africa (FAO),2001,647077
+Portugal,2017,655759
+Portugal,1978,659370
+Oceania,1997,663179
+Oceania (FAO),1997,663179
+South Africa,1981,666712
+Southern Africa (FAO),1981,666712
+Chile,2000,667403
+Chile,2003,668222
+Romania,1997,668800
+Portugal,2001,671000
+Romania,1995,672000
+Eastern Asia (FAO),1994,672050
+Australia,1996,673445
+Yugoslavia,1979,674260
+Hungary,1982,676830
+Romania,1968,679200
+Algeria,1966,682229
+Romania,1969,684800
+Yugoslavia,1981,688654
+Germany,2010,690600
+Portugal,1977,690763
+Kyrgyzstan,2019,3796.5
+South Africa,2000,694917
+Southern Africa (FAO),2000,694917
+United States,1962,695115
+Russia,2011,696260
+Germany,1974,696400
+China,1995,700000
+China (FAO),1995,700000
+Lower-middle-income countries,1996,702915
+Lower-middle-income countries,1995,703105
+Portugal,2015,704467
+Yugoslavia,1969,705970
+Portugal,1995,706000
+Portugal,2005,706373
+South Africa,1980,706872
+Southern Africa (FAO),1980,706872
+Romania,2004,707072
+Portugal,2016,708562
+Portugal,2010,714792
+Portugal,2003,714906
+Portugal,2021,718547
+South Africa,2002,718831
+Southern Africa (FAO),2002,718831
+South Africa,1994,719929
+Southern Africa (FAO),1994,719929
+Germany,1964,721100
+Lower-middle-income countries,1992,722636
+Mauritius,2017,3880.9
+Small Island Developing States (FAO),2017,3880.9
+Portugal,2004,725720
+Romania,1975,727000
+United States,1964,730391
+Oceania,1996,730745
+Oceania (FAO),1996,730745
+South Africa,1985,733460
+Southern Africa (FAO),1985,733460
+Portugal,2006,733784
+United States,1966,733994
+United States,1963,734876
+Australia,1998,741547
+Portugal,1961,742000
+Germany,1981,747981
+Land Locked Developing Countries (FAO),1992,749334
+China,1996,750000
+China (FAO),1996,750000
+South Africa,1995,752668
+Southern Africa (FAO),1995,752668
+South Africa,1987,754686
+Southern Africa (FAO),1987,754686
+Yugoslavia,1986,755625
+Portugal,1989,759000
+Romania,1980,759900
+Portugal,1992,760000
+Portugal,1999,760159
+Russia,2010,760530
+Africa,2001,762310
+Africa (FAO),2001,762310
+Romania,1978,763300
+Eastern Asia (FAO),1995,765210
+Romania,1996,766300
+South Africa,1992,770009
+Southern Africa (FAO),1992,770009
+Yugoslavia,1973,770080
+South Africa,1998,770251
+Southern Africa (FAO),1998,770251
+South Africa,1990,771338
+Southern Africa (FAO),1990,771338
+South Africa,1982,772332
+Southern Africa (FAO),1982,772332
+Lower-middle-income countries,1997,774464
+Portugal,1986,776000
+Portugal,2002,778900
+United States,1967,780013
+South Africa,1984,783815
+Southern Africa (FAO),1984,783815
+South Africa,1988,784174
+Southern Africa (FAO),1988,784174
+Germany,1978,784245
+Portugal,2000,784400
+Yugoslavia,1983,787743
+Chile,2005,788551
+South Africa,1983,791723
+Southern Africa (FAO),1983,791723
+Chile,2007,791794
+Germany,1972,793300
+South Africa,1999,796841
+Southern Africa (FAO),1999,796841
+Northern Africa (FAO),1972,797348
+Lithuania,2017,4090.5
+South Africa,1991,801668
+Southern Africa (FAO),1991,801668
+Lower-middle-income countries,1972,802108
+Oceania,1998,802147
+Oceania (FAO),1998,802147
+Chile,2006,802441
+Romania,1987,805500
+Australia,2000,806300
+Portugal,1969,808120
+Germany,2003,811000
+South Africa,1997,811457
+Southern Africa (FAO),1997,811457
+United States,1968,811897
+Yugoslavia,1980,817279
+Eastern Asia (FAO),1996,817513
+South Africa,1989,819275
+Southern Africa (FAO),1989,819275
+Africa,2000,819992
+Africa (FAO),2000,819992
+Northern Africa (FAO),1973,826197
+United States,1965,830899
+Lower-middle-income countries,1973,831649
+Portugal,1972,834480
+Germany,1995,836100
+Africa,1994,836786
+Africa (FAO),1994,836786
+South Africa,2005,840649
+Southern Africa (FAO),2005,840649
+Germany,2013,840900
+Africa,2002,842935
+Africa (FAO),2002,842935
+South Africa,1996,845071
+Southern Africa (FAO),1996,845071
+USSR,1961,847500
+Portugal,1983,848300
+Germany,1997,849481
+Australia,1999,851143
+Portugal,1984,856000
+Yugoslavia,1982,857641
+Germany,1996,864199
+Germany,1979,866178
+Oceania,2000,866500
+Oceania (FAO),2000,866500
+Northern Africa (FAO),1974,868199
+Chile,2008,868297
+Algeria,1970,869200
+Algeria,1969,871050
+Lower-middle-income countries,1974,873834
+Northern Africa (FAO),1967,881974
+Portugal,1971,883490
+Lower-middle-income countries,1967,883724
+Chile,2010,884413
+South Africa,2003,885324
+Southern Africa (FAO),2003,885324
+Eastern Africa (FAO),2018,4326.04
+Romania,1979,886300
+Germany,1984,888242
+Germany,2006,891600
+Germany,1976,892600
+Portugal,1966,892788
+Portugal,1975,897880
+China,1997,900000
+China (FAO),1997,900000
+Germany,2012,901200
+Africa,1978,906443
+Africa (FAO),1978,906443
+Germany,2001,908132
+Portugal,1981,909510
+Germany,1975,910500
+Romania,1977,910800
+Oceania,1999,911343
+Oceania (FAO),1999,911343
+Germany,2011,913200
+Germany,2014,920200
+Romania,1973,922300
+Germany,2009,922800
+Algeria,1971,924700
+South Africa,2004,927920
+Southern Africa (FAO),2004,927920
+South Africa,2010,932695
+Southern Africa (FAO),2010,932695
+South Africa,2006,939779
+Southern Africa (FAO),2006,939779
+Argentina,2016,944650
+Germany,2005,945300
+Africa,1999,946125
+Africa (FAO),1999,946125
+Portugal,1996,948000
+Portugal,1976,948620
+Romania,1983,948700
+South Africa,2018,950300
+Southern Africa (FAO),2018,950300
+Germany,1990,950500
+Africa,1989,955065
+Africa (FAO),1989,955065
+Asia,1993,956780
+Australia,2007,961972
+Romania,1976,966800
+United States,1970,968776
+Germany,1987,970783
+South Africa,2011,972590
+Southern Africa (FAO),2011,972590
+South Africa,2019,973500
+Southern Africa (FAO),2019,973500
+Portugal,1967,973966
+Portugal,1985,975000
+South Africa,2007,978269
+Southern Africa (FAO),2007,978269
+Portugal,1991,983000
+Germany,2002,988500
+Chile,2014,989627
+Germany,1993,992000
+Eastern Asia (FAO),1997,993400
+Algeria,1968,995000
+Romania,1981,995100
+Germany,1988,997560
+Asia,1992,997672
+South Africa,2009,998660
+Southern Africa (FAO),2009,998660
+Germany,2008,999100
+Germany,2004,1000700
+Chile,2009,1000900
+Romania,1984,1003800
+Germany,2000,1008083
+USSR,1962,1009000
+Germany,1970,1011000
+Chile,2016,1014362
+Australia,2001,1016300
+South Africa,2008,1016484
+Southern Africa (FAO),2008,1016484
+Eastern Africa (FAO),2017,4684.6
+Africa,2003,1019312
+Africa (FAO),2003,1019312
+Portugal,1982,1020680
+Northern Africa (FAO),1966,1021296
+United States,1969,1022542
+Lower-middle-income countries,1966,1023046
+Germany,2007,1026100
+China,1999,1026122
+China (FAO),1999,1026122
+Portugal,1980,1029040
+Northern Africa (FAO),1969,1031362
+Lower-middle-income countries,1969,1033162
+Chile,2020,1033723
+South Africa,2020,1040000
+Southern Africa (FAO),2020,1040000
+Germany,1994,1040600
+Asia (FAO),1993,1041780
+Chile,2011,1046381
+Algeria,1964,1047703
+China,2000,1050000
+China (FAO),2000,1050000
+South Africa,2016,1053100
+Southern Africa (FAO),2016,1053100
+Northern Africa (FAO),1970,1055259
+South Africa,2012,1056841
+Southern Africa (FAO),2012,1056841
+Asia,1994,1058728
+Lower-middle-income countries,1970,1059699
+Asia (FAO),1992,1062172
+Asia,1996,1064529
+China,1998,1064534
+China (FAO),1998,1064534
+Oceania,2001,1069600
+Oceania (FAO),2001,1069600
+Germany,1991,1069900
+Germany,1973,1075100
+Argentina,2020,1079615
+China,2001,1080000
+China (FAO),2001,1080000
+South Africa,2017,1082000
+Southern Africa (FAO),2017,1082000
+Germany,1998,1083386
+Portugal,1987,1085000
+Australia,2003,1085985
+Germany,1986,1091607
+Asia,1995,1095393
+South Africa,2013,1098170
+Southern Africa (FAO),2013,1098170
+North America,1969,1105067
+Australia,2020,1107000
+Asia (FAO),1994,1107228
+Oceania,2007,1109572
+Oceania (FAO),2007,1109572
+Portugal,1990,1110000
+Portugal,1973,1117750
+Australia,2011,1117836
+China,2002,1120000
+China (FAO),2002,1120000
+Asia (FAO),1996,1120429
+South Africa,2015,1123100
+Southern Africa (FAO),2015,1123100
+Eastern Asia (FAO),1999,1126372
+Germany,1977,1127779
+Portugal,1970,1132760
+South Africa,2021,1133300
+Southern Africa (FAO),2021,1133300
+Oceania,2003,1140985
+Oceania (FAO),2003,1140985
+Australia,2010,1142297
+South Africa,2014,1146006
+Southern Africa (FAO),2014,1146006
+Northern Africa (FAO),1971,1146524
+Eastern Asia (FAO),2000,1147400
+Asia (FAO),1995,1150893
+Australia,2002,1150900
+Lower-middle-income countries,1971,1150964
+Portugal,1968,1169040
+Eastern Asia (FAO),1998,1180444
+Argentina,2017,1182111
+Australia,2009,1182624
+Romania,1986,1184600
+USSR,1963,1185500
+Australia,2014,1186343
+Eastern Asia (FAO),2001,1190510
+Australia,2015,1191193
+Chile,2019,1193876
+Australia,2019,1197000
+China,2003,1200000
+China (FAO),2003,1200000
+United States,1972,1204091
+Argentina,2009,1213547
+Australia,2012,1225919
+Germany,1999,1228597
+Africa,2014,1229178
+Africa (FAO),2014,1229178
+Eastern Asia (FAO),2002,1230990
+Australia,2013,1231012
+Oceania,2002,1239900
+Oceania (FAO),2002,1239900
+Australia,2008,1244780
+Northern America (FAO),1972,1246000
+Argentina,2021,1248155
+Argentina,2000,1253700
+Chile,2012,1255371
+Algeria,1963,1257523
+Argentina,1998,1267338
+Argentina,1996,1268100
+Argentina,2002,1269500
+USSR,1964,1270800
+Northern Africa (FAO),1968,1272942
+Lower-middle-income countries,1968,1274692
+Lithuania,2009,5399.7
+Chile,2013,1282095
+Australia,2018,1285000
+Chile,2015,1286686
+Chile,2018,1289897
+Eastern Asia (FAO),2003,1293840
+Portugal,1963,1297938
+Australia,2016,1299000
+China,2004,1300000
+China (FAO),2004,1300000
+Asia,1997,1301138
+Argentina,2019,1301947
+Romania,1982,1306900
+Africa,1967,1315634
+Africa (FAO),1967,1315634
+Argentina,2003,1322500
+Oceania,2010,1332297
+Oceania (FAO),2010,1332297
+Argentina,2015,1336196
+USSR,1965,1338810
+Germany,1983,1339180
+Chile,2021,1343729
+Germany,1992,1348240
+China,2005,1350000
+China (FAO),2005,1350000
+Argentina,1997,1350030
+Oceania,2011,1352836
+Oceania (FAO),2011,1352836
+Asia (FAO),1997,1354538
+Portugal,1964,1359450
+Algeria,1961,1363194
+Kyrgyzstan,2018,5640.4
+Australia,2017,1369000
+United States,1971,1369915
+Asia,1999,1385357
+Oceania,2009,1387624
+Oceania (FAO),2009,1387624
+Asia,2000,1391112
+Eastern Asia (FAO),2004,1393819
+Portugal,1974,1399430
+China,2006,1400000
+China (FAO),2006,1400000
+USSR,1991,1400000
+Algeria,1965,1402600
+Argentina,1990,1403630
+USSR,1986,1408000
+Eastern Europe (FAO),2018,1411415
+Asia,2001,1416211
+Oceania,2012,1419919
+Oceania (FAO),2012,1419919
+United States,1974,1424071
+Oceania,2015,1425893
+Oceania (FAO),2015,1425893
+Australia,2006,1429788
+Australia,2005,1433827
+Argentina,1992,1435007
+Oceania,2020,1436000
+Oceania (FAO),2020,1436000
+United States,1976,1436597
+Africa,1966,1439161
+Africa (FAO),1966,1439161
+Asia (FAO),1999,1440857
+Portugal,1979,1441490
+Eastern Asia (FAO),2005,1445511
+Argentina,1993,1447084
+Asia (FAO),2000,1448112
+Germany,1989,1448584
+Oceania,2008,1449980
+Oceania (FAO),2008,1449980
+China,2007,1450000
+China (FAO),2007,1450000
+Argentina,1991,1450027
+Argentina,2018,1452151
+Asia,2002,1452542
+United States,1975,1453457
+Asia,1998,1454783
+Asia (FAO),2001,1466511
+Argentina,2008,1467642
+USSR,1987,1469000
+Australia,2004,1471228
+Portugal,1965,1474900
+United States,1983,1476000
+Asia (FAO),2002,1476542
+Oceania,2013,1479412
+Oceania (FAO),2013,1479412
+Australia,2021,1482000
+Northern Africa (FAO),1964,1482161
+Lower-middle-income countries,1964,1483911
+Eastern Asia (FAO),2006,1489960
+South-eastern Asia (FAO),2010,5982.08
+Vietnam,2010,5982.08
+Oceania,2019,1494400
+Oceania (FAO),2019,1494400
+Argentina,2013,1498380
+Lithuania,2014,6004.7
+Algeria,1962,1500000
+China,2008,1500000
+China (FAO),2008,1500000
+Argentina,2007,1504600
+Oceania,2014,1506743
+Oceania (FAO),2014,1506743
+Eastern Asia (FAO),2007,1513000
+Argentina,2014,1519745
+United States,1992,1521900
+Asia,2003,1521998
+Argentina,2005,1522200
+Asia (FAO),1998,1525783
+Portugal,1962,1526807
+Northern America (FAO),1983,1528822
+Oceania,2005,1535827
+Oceania (FAO),2005,1535827
+Argentina,2006,1539600
+Argentina,2004,1546400
+China,2009,1550000
+China (FAO),2009,1550000
+Eastern Europe (FAO),2020,1554022
+Northern America (FAO),1992,1555647
+Asia (FAO),2003,1560498
+Oceania,2006,1562988
+Oceania (FAO),2006,1562988
+Eastern Europe (FAO),2015,1563837
+Eastern Asia (FAO),2008,1566000
+USSR,1990,1570000
+Argentina,1985,1574083
+United States,1973,1581337
+United States,1977,1582700
+Argentina,2001,1583500
+USSR,1966,1585890
+Oceania,2018,1586700
+Oceania (FAO),2018,1586700
+Argentina,1999,1588770
+Oceania,2004,1590428
+Oceania (FAO),2004,1590428
+Eastern Europe (FAO),2014,1591984
+Asia,2004,1603197
+United States,1979,1605000
+Argentina,2010,1608826
+Germany,1982,1612800
+Oceania,2016,1612900
+Oceania (FAO),2016,1612900
+United States,1978,1616000
+Northern America (FAO),1977,1620626
+Eastern Asia (FAO),2009,1623000
+Northern America (FAO),1973,1624520
+United States,1981,1630000
+Asia (FAO),2004,1630436
+Eastern Europe (FAO),1999,1631648
+Eastern Europe (FAO),2019,1636920
+Eastern Europe (FAO),2016,1644125
+Argentina,1995,1644300
+Northern America (FAO),1979,1648918
+Oceania,2017,1654100
+Oceania (FAO),2017,1654100
+United States,1984,1665600
+Northern America (FAO),1978,1668003
+Argentina,1961,1675000
+Northern America (FAO),1981,1675402
+Asia,2005,1685643
+North America,1973,1709644
+Algeria,2016,6594.01
+Asia (FAO),2005,1714528
+Northern Africa (FAO),1963,1719081
+United States,1985,1720000
+Asia,2006,1720363
+Lower-middle-income countries,1963,1720831
+United States,1991,1721800
+Northern America (FAO),1984,1726220
+Eastern Europe (FAO),1998,1729887
+Eastern Europe (FAO),2017,1732615
+Northern Africa (FAO),1961,1735634
+Lower-middle-income countries,1961,1736724
+Asia (FAO),2006,1746449
+Oceania,2021,1748400
+Oceania (FAO),2021,1748400
+Asia,2007,1753030
+United States,1994,1755000
+Eastern Europe (FAO),2012,1758020
+Northern America (FAO),1991,1759586
+Bolivia,2018,6736.7
+Northern America (FAO),1985,1768209
+Asia (FAO),2007,1772114
+USSR,1988,1780000
+Northern America (FAO),1994,1785093
+Argentina,1969,1791600
+Asia,2008,1792300
+USSR,1967,1799980
+United States,1980,1800000
+Asia (FAO),2008,1807997
+China,2021,1814400
+China (FAO),2021,1814400
+Eastern Europe (FAO),2000,1817021
+Argentina,1994,1817290
+Argentina,1965,1827100
+United States,1989,1829000
+Argentina,1970,1835975
+United States,1990,1844500
+Northern America (FAO),1980,1845493
+Eastern Europe (FAO),1997,1851713
+Eastern Europe (FAO),2002,1854112
+Africa,1964,1856545
+Africa (FAO),1964,1856545
+Argentina,1986,1857060
+Northern America (FAO),1989,1857980
+United States,1995,1866800
+Northern America (FAO),1990,1877729
+Argentina,1984,1880833
+Eastern Europe (FAO),1961,1881359
+Northern Africa (FAO),1962,1882041
+Lower-middle-income countries,1962,1883131
+United States,1996,1887700
+USSR,1972,1900000
+Northern America (FAO),1995,1902283
+United States,1987,1904000
+USSR,1968,1912500
+Argentina,1962,1917200
+Northern America (FAO),1996,1920985
+United States,1986,1927000
+Asia,2013,1929480
+USSR,1989,1930000
+Northern Africa (FAO),1965,1936512
+Lower-middle-income countries,1965,1938922
+United States,1993,1944100
+United States,1982,1950000
+Eastern Europe (FAO),2013,1950131
+Argentina,1968,1951300
+Lithuania,2010,7243.5
+Eastern Europe (FAO),2010,1952547
+Argentina,1964,1953300
+Eastern Europe (FAO),2011,1955208
+Northern America (FAO),1987,1958761
+Least Developed Countries (FAO),1997,7283.07
+Northern America (FAO),1993,1969048
+Eastern Europe (FAO),2007,1983213
+Northern America (FAO),1986,1984099
+Northern America (FAO),1982,1995871
+Eastern Europe (FAO),2009,1998373
+Argentina,1972,1998649
+South America,1996,1999045
+South America (FAO),1996,1999045
+China,2020,2000000
+China (FAO),2020,2000000
+Eastern Europe (FAO),2003,2010528
+United States,1988,2011000
+North America,1980,2016058
+Bolivia,2010,7423.02
+Spain,1961,2018400
+Eastern Europe (FAO),1994,2018917
+Eastern Europe (FAO),2001,2025238
+Argentina,1978,2026665
+Argentina,1989,2031751
+China,2014,2033100
+China (FAO),2014,2033100
+North America,1989,2037243
+Africa,1961,2041926
+Africa (FAO),1961,2041926
+United States,1998,2050000
+United States,2021,2057021
+Argentina,1988,2062947
+Low-income countries,1997,7548.07
+Northern America (FAO),1988,2065229
+China,2016,2065500
+China (FAO),2016,2065500
+China,2019,2065561
+China (FAO),2019,2065561
+Africa,1963,2070770
+Africa (FAO),1963,2070770
+Argentina,1963,2074400
+United States,1999,2075000
+Spain,1994,2078300
+Northern America (FAO),1998,2089592
+Spain,1995,2104000
+Eastern Asia (FAO),2014,2118100
+Eastern Europe (FAO),1995,2122550
+Northern America (FAO),1999,2126170
+China,2015,2130300
+China (FAO),2015,2130300
+North America,1987,2139935
+South America,1991,2143979
+South America (FAO),1991,2143979
+Eastern Asia (FAO),2016,2146131
+Eastern Europe (FAO),2008,2147183
+South America,1998,2158682
+South America (FAO),1998,2158682
+China,2017,2162700
+China (FAO),2017,2162700
+North America,2021,2170253
+Argentina,1971,2178317
+Argentina,1981,2179881
+Eastern Europe (FAO),1996,2179938
+Spain,1977,2182000
+Argentina,1966,2191700
+South America,1997,2204987
+South America (FAO),1997,2204987
+Eastern Asia (FAO),2015,2206244
+South America,1992,2206437
+South America (FAO),1992,2206437
+Argentina,1975,2210306
+Spain,1988,2212900
+Least Developed Countries (FAO),1975,7961.5
+Bolivia,2012,7977.4
+South America,1993,2219740
+South America (FAO),1993,2219740
+South America,1990,2225825
+South America (FAO),1990,2225825
+North America,1998,2225864
+China,2018,2227500
+China (FAO),2018,2227500
+Africa,1962,2232189
+Africa (FAO),1962,2232189
+Eastern Asia (FAO),2017,2241418
+Argentina,1973,2256700
+North America,1988,2258051
+Eastern Europe (FAO),1992,2259888
+South America,2002,2263559
+South America (FAO),2002,2263559
+Eastern Africa (FAO),1975,8102.5
+Luxembourg,2017,8124.8
+Eastern Europe (FAO),1993,2283279
+United States,2002,2286000
+Eastern Europe (FAO),1962,2298334
+Eastern Asia (FAO),2018,2307417
+Spain,1968,2313300
+Spain,1967,2331045
+Argentina,1977,2331870
+Northern America (FAO),2002,2332886
+Luxembourg,2016,8294.7
+Argentina,1980,2348998
+South America,2000,2352163
+South America (FAO),2000,2352163
+United States,2006,2360000
+Bolivia,2017,8376.01
+Low Income Food Deficit Countries (FAO),1975,8376.5
+South America,1995,2380324
+South America (FAO),1995,2380324
+South America,2003,2386970
+South America (FAO),2003,2386970
+Africa,1965,2389869
+Africa (FAO),1965,2389869
+United States,2001,2395000
+Asia,2014,2397217
+Northern Europe (FAO),2009,8467.7
+USSR,1969,2402070
+South America,1961,2405706
+South America (FAO),1961,2405706
+Asia (FAO),2014,2408175
+Northern America (FAO),2006,2412668
+United States,2003,2415000
+Spain,1962,2422200
+Spain,1971,2432500
+Spain,1976,2432700
+Northern America (FAO),2001,2439534
+South America,1969,2442540
+South America (FAO),1969,2442540
+Northern America (FAO),2003,2450889
+Spain,1969,2461900
+United States,2004,2466000
+South America,1985,2468773
+South America (FAO),1985,2468773
+USSR,1978,2470000
+Argentina,1983,2471916
+Eastern Europe (FAO),2004,2473210
+United States,2000,2487000
+United States,2007,2488000
+South America,1965,2489082
+South America (FAO),1965,2489082
+USSR,1973,2500000
+South America,1986,2507778
+South America (FAO),1986,2507778
+South America,1999,2512547
+South America (FAO),1999,2512547
+Argentina,1982,2518070
+Northern America (FAO),2004,2518220
+Northern America (FAO),2000,2529791
+United States,2008,2530000
+South America,1970,2532115
+South America (FAO),1970,2532115
+Northern America (FAO),2007,2538155
+Armenia,2017,8852.5
+Spain,1963,2555400
+Spain,1970,2560500
+Slovakia,2020,8921.01
+South America,1994,2566377
+South America (FAO),1994,2566377
+Eastern Europe (FAO),1965,2568610
+North America,2003,2571661
+Eastern Africa (FAO),1997,8948.07
+Eastern Europe (FAO),1963,2574746
+South America,2001,2578108
+South America (FAO),2001,2578108
+Northern America (FAO),2008,2584320
+South America,1984,2594784
+South America (FAO),1984,2594784
+Argentina,1987,2601780
+South America,2020,2602713
+South America (FAO),2020,2602713
+South America,2009,2608160
+South America (FAO),2009,2608160
+United States,1997,2617600
+Asia,2018,2619346
+Algeria,2010,9094.3
+Asia (FAO),2018,2630346
+South America,1964,2630505
+South America (FAO),1964,2630505
+Argentina,1979,2634705
+United States,2011,2638000
+Spain,1965,2645200
+Least Developed Countries (FAO),1976,9143.5
+North America,2000,2649640
+USSR,1985,2650000
+Spain,1993,2650700
+Northern America (FAO),1997,2652047
+Least Developed Countries (FAO),2004,9164.5
+Spain,1972,2656000
+USSR,1974,2680000
+USSR,1970,2684500
+South America,1962,2695792
+South America (FAO),1962,2695792
+Northern America (FAO),2011,2699418
+United States,2010,2711000
+Argentina,1974,2718321
+Eastern Europe (FAO),1964,2729316
+United States,2009,2730000
+North America,2011,2737748
+South America,2004,2738612
+South America (FAO),2004,2738612
+Eastern Africa (FAO),1976,9401.5
+South America,2006,2741750
+South America (FAO),2006,2741750
+Low-income countries,2004,9421.5
+South America,1963,2753261
+South America (FAO),1963,2753261
+Northern America (FAO),2010,2761743
+South America,1968,2770640
+South America (FAO),1968,2770640
+Eastern Europe (FAO),1991,2771500
+Northern America (FAO),2009,2775388
+South America,2005,2787685
+South America (FAO),2005,2787685
+North America,2010,2796283
+Algeria,2015,9563.01
+South America,1989,2799636
+South America (FAO),1989,2799636
+USSR,1971,2804200
+South America,2007,2810585
+South America (FAO),2007,2810585
+Argentina,1967,2817100
+Argentina,1976,2819747
+North America,2016,2828896
+North America,2009,2830456
+Montenegro,2014,9657.8
+Low Income Food Deficit Countries (FAO),1976,9661.5
+South America,2008,2855289
+South America (FAO),2008,2855289
+South America,2010,2884955
+South America (FAO),2010,2884955
+United States,2005,2888000
+South America,1966,2892840
+South America (FAO),1966,2892840
+Northern America (FAO),2005,2917134
+South America,2014,2930010
+South America (FAO),2014,2930010
+South America,1978,2937449
+South America (FAO),1978,2937449
+USSR,1979,2940000
+South America,1972,2945809
+South America (FAO),1972,2945809
+Spain,1978,2946100
+South America,1988,2959575
+South America (FAO),1988,2959575
+USSR,1975,2965100
+Eastern Europe (FAO),1966,2966090
+Eastern Europe (FAO),1990,2977891
+South America,1975,2983014
+South America (FAO),1975,2983014
+United States,2012,2987000
+South America,1971,3000057
+South America (FAO),1971,3000057
+Spain,1998,3022400
+Eastern Europe (FAO),1987,3033580
+Spain,1996,3040100
+Northern America (FAO),2012,3049041
+USSR,1977,3070000
+Spain,1966,3074900
+North America,2012,3088215
+Spain,1983,3091300
+Spain,2001,3095100
+South America,2021,3109185
+South America (FAO),2021,3109185
+Spain,2012,3112260
+Spain,1989,3113000
+Spain,1991,3139000
+USSR,1976,3150000
+South America,1973,3168552
+South America (FAO),1973,3168552
+Eastern Europe (FAO),1989,3169190
+South America,1981,3177921
+South America (FAO),1981,3177921
+South America,1980,3211762
+South America (FAO),1980,3211762
+United States,2013,3217000
+USSR,1980,3220000
+Eastern Europe (FAO),1967,3228480
+Spain,1985,3238200
+South America,1977,3239170
+South America (FAO),1977,3239170
+South America,1983,3243988
+South America (FAO),1983,3243988
+Spain,1975,3246500
+Spain,2017,3250000
+Spain,2009,3250610
+Northern America (FAO),2013,3286720
+United States,2014,3300000
+South America,1987,3302371
+South America (FAO),1987,3302371
+Spain,1997,3321700
+North America,2013,3328310
+Spain,1999,3338800
+Spain,1981,3366700
+Spain,2019,3370000
+Spain,2011,3370910
+Eastern Europe (FAO),1988,3375307
+Spain,1992,3383200
+Spain,1984,3395800
+USSR,1984,3410000
+Spain,1964,3417500
+USSR,1981,3440000
+Spain,2002,3454000
+USSR,1982,3490000
+Spain,1986,3508200
+USSR,1983,3510000
+Eastern Europe (FAO),1972,3518577
+Spain,2007,3520870
+South America,1974,3527901
+South America (FAO),1974,3527901
+Americas (FAO),1969,3547607
+South America,1982,3560108
+South America (FAO),1982,3560108
+Eastern Europe (FAO),1986,3564421
+South America,1979,3585789
+South America (FAO),1979,3585789
+South America,1967,3604240
+South America (FAO),1967,3604240
+Spain,2010,3610000
+Spain,1974,3619000
+France,2017,3637009
+Spain,2005,3643700
+South America,1976,3651547
+South America (FAO),1976,3651547
+Eastern Europe (FAO),1968,3655600
+Americas (FAO),1968,3660176
+Spain,2021,3700588
+France,2021,3713200
+Spain,2008,3736690
+Spain,1982,3743300
+Italy,2012,3826531
+Eastern Europe (FAO),1985,3877920
+Spain,2006,3890731
+Spain,2016,3930000
+Spain,2014,3950000
+Spain,1990,3969200
+Spain,1987,3997600
+Spain,1973,3999900
+Americas (FAO),1996,4053439
+Italy,2011,4063165
+Spain,2020,4070000
+Eastern Europe (FAO),1970,4079300
+Italy,2007,4094326
+Spain,2000,4117300
+France,2019,4165524
+Italy,2014,4208752
+France,2012,4209724
+Eastern Europe (FAO),1969,4238270
+Spain,1980,4240200
+Upper-middle-income countries,1996,4242112
+Spain,2003,4246241
+France,1991,4266930
+France,2008,4268899
+Spain,2004,4280433
+France,2013,4293455
+Eastern Europe (FAO),1974,4293510
+Eastern Europe (FAO),1978,4302605
+Italy,2009,4342412
+Upper-middle-income countries,2000,4348333
+Upper-middle-income countries,1998,4350980
+Americas (FAO),1993,4355885
+Eastern Europe (FAO),1971,4379300
+Italy,2017,4382936
+Americas (FAO),1998,4384546
+France,2020,4390000
+Italy,2008,4394644
+Upper-middle-income countries,1962,4398281
+Italy,2003,4408611
+Upper-middle-income countries,1993,4436392
+Italy,2002,4460413
+Italy,2010,4469318
+Spain,2018,4490000
+Western Europe (FAO),2021,4500093
+France,2016,4504383
+Italy,2013,4504412
+France,2010,4531671
+Americas (FAO),1994,4555103
+Spain,2013,4607850
+Eastern Europe (FAO),1975,4670970
+Eastern Europe (FAO),1973,4676937
+France,2009,4679170
+France,2007,4711600
+Italy,2006,4711665
+Americas (FAO),1986,4738469
+France,2014,4742300
+France,2003,4749060
+France,2015,4785700
+Spain,1979,4820500
+Upper-middle-income countries,2003,4825387
+Upper-middle-income countries,1963,4835067
+Americas (FAO),1989,4836879
+France,1961,4855300
+Italy,2015,4874273
+Americas (FAO),1973,4878196
+France,2018,4888791
+Upper-middle-income countries,1992,4915381
+Upper-middle-income countries,1994,4929241
+Eastern Europe (FAO),1979,4939310
+Americas (FAO),2003,4958631
+Americas (FAO),1977,4974133
+Italy,2019,4985862
+France,2002,5000000
+Americas (FAO),2000,5001803
+Eastern Europe (FAO),1977,5049040
+Italy,1997,5056313
+Italy,2005,5056648
+Americas (FAO),1974,5083095
+Italy,2021,5088500
+Eastern Europe (FAO),1980,5100622
+France,2011,5106761
+France,1969,5128960
+Italy,2016,5161546
+Italy,2020,5191550
+Americas (FAO),1988,5217626
+Americas (FAO),2006,5220708
+Americas (FAO),1980,5227820
+Italy,2001,5229300
+Eastern Europe (FAO),1976,5237558
+Italy,1961,5248200
+Americas (FAO),2021,5279438
+France,1977,5302000
+Italy,2004,5313517
+Upper-middle-income countries,2005,5318736
+France,1993,5331440
+France,2001,5338800
+France,2005,5344170
+France,2006,5349333
+Upper-middle-income countries,2012,5355358
+Italy,1963,5364000
+Italy,2000,5408752
+Italy,2018,5415000
+Western Europe (FAO),1961,5419244
+France,1998,5427100
+Western Europe (FAO),2012,5438154
+Americas (FAO),2009,5438616
+Americas (FAO),1987,5442306
+Eastern Europe (FAO),1981,5452924
+France,1994,5464000
+Western Europe (FAO),2013,5470402
+Italy,1990,5486610
+Upper-middle-income countries,1966,5486648
+Upper-middle-income countries,2009,5491353
+Upper-middle-income countries,2016,5503128
+Upper-middle-income countries,2006,5508056
+France,1997,5509800
+Western Europe (FAO),2010,5513135
+France,1995,5560100
+Eastern Europe (FAO),1984,5592885
+Italy,1995,5620140
+Eastern Europe (FAO),1983,5677508
+Americas (FAO),2010,5681238
+Western Europe (FAO),2008,5690785
+Western Europe (FAO),2015,5698509
+Italy,1998,5714040
+France,1988,5745500
+France,1963,5752370
+France,2000,5754100
+France,1981,5770000
+Western Europe (FAO),1991,5779703
+Italy,1999,5807280
+Upper-middle-income countries,2008,5864445
+Italy,1996,5877181
+France,1978,5890500
+France,2004,5910694
+Italy,1994,5927974
+Western Europe (FAO),2003,5935019
+Western Europe (FAO),2018,5940372
+France,1972,5946880
+Upper-middle-income countries,2020,5959135
+Western Europe (FAO),2009,5964991
+Upper-middle-income countries,1986,5977926
+Italy,1991,5978800
+Western Europe (FAO),2014,5985949
+Americas (FAO),2012,5991605
+France,1996,6003700
+Upper-middle-income countries,2017,6011153
+Italy,1972,6017000
+Upper-middle-income countries,2021,6030914
+Italy,1989,6032680
+France,1989,6048400
+Upper-middle-income countries,2019,6055090
+Upper-middle-income countries,2015,6055928
+Western Europe (FAO),1969,6056085
+Italy,1988,6101030
+Western Europe (FAO),2007,6121794
+Eastern Europe (FAO),1982,6178075
+France,1967,6202620
+France,1971,6224510
+France,1966,6225340
+Italy,1985,6234000
+France,1964,6243200
+Italy,1993,6267160
+France,1999,6293500
+Upper-middle-income countries,1967,6300563
+Upper-middle-income countries,1970,6328177
+Upper-middle-income countries,2018,6340502
+Western Europe (FAO),2002,6377035
+Italy,1977,6414200
+France,1984,6415000
+Americas (FAO),2015,6415171
+Italy,1971,6421000
+Western Europe (FAO),2011,6431342
+Upper-middle-income countries,1989,6463223
+Italy,1966,6470600
+France,1992,6492850
+Italy,1968,6532300
+Americas (FAO),2013,6540460
+France,1990,6552210
+Western Europe (FAO),2006,6583040
+Italy,1976,6585000
+Upper-middle-income countries,1988,6600656
+Western Europe (FAO),1963,6619637
+Western Europe (FAO),2001,6632859
+Western Europe (FAO),2005,6633505
+Upper-middle-income countries,1987,6642344
+Western Europe (FAO),1993,6642873
+France,1968,6646030
+Western Europe (FAO),1997,6651245
+Italy,1964,6694500
+France,1975,6697410
+Western Europe (FAO),1995,6752302
+Western Europe (FAO),1981,6816870
+Italy,1965,6820600
+Western Europe (FAO),1977,6820721
+France,1965,6841720
+Italy,1992,6868610
+France,1983,6880000
+Italy,1970,6887400
+Western Europe (FAO),1994,6905690
+Western Europe (FAO),1998,6913998
+Upper-middle-income countries,1971,6928933
+France,1987,6944000
+France,1980,6971100
+Western Europe (FAO),1966,6980494
+Italy,1975,6983000
+Italy,1962,6999300
+France,1985,7029000
+Italy,1981,7056000
+Upper-middle-income countries,1973,7084380
+Italy,1984,7090000
+Western Europe (FAO),1978,7092082
+Western Europe (FAO),1972,7107572
+Western Europe (FAO),1971,7133759
+Western Europe (FAO),2000,7138786
+Italy,1969,7165800
+Western Europe (FAO),1967,7190156
+Western Europe (FAO),1988,7212567
+Western Europe (FAO),1996,7214171
+Italy,1978,7244000
+Italy,1982,7264800
+Western Europe (FAO),2004,7318299
+Western Europe (FAO),1964,7349463
+France,1976,7414530
+France,1986,7422000
+Upper-middle-income countries,1977,7452518
+Italy,1967,7472500
+France,1962,7497000
+France,1970,7540180
+Italy,1987,7587490
+Western Europe (FAO),1965,7591929
+Western Europe (FAO),1968,7625560
+France,1974,7643110
+Italy,1973,7672000
+Western Europe (FAO),1984,7673740
+Italy,1974,7687000
+Italy,1986,7709330
+Western Europe (FAO),1980,7851141
+Western Europe (FAO),1985,7871760
+Western Europe (FAO),1989,7938522
+Western Europe (FAO),1999,7951829
+Western Europe (FAO),1990,7958281
+Western Europe (FAO),1975,7971586
+France,1982,7995000
+Western Europe (FAO),1962,8066724
+Southern Europe (FAO),2012,8110460
+Upper-middle-income countries,1980,8148562
+Upper-middle-income countries,1976,8242169
+Western Europe (FAO),1992,8251578
+Western Europe (FAO),1987,8257812
+Italy,1983,8328000
+France,1973,8347210
+France,1979,8437728
+Southern Europe (FAO),2011,8513313
+Italy,1979,8514600
+Western Europe (FAO),1974,8590452
+Italy,1980,8654500
+Western Europe (FAO),1976,8717334
+Upper-middle-income countries,1983,8755313
+Western Europe (FAO),1983,8759232
+Southern Europe (FAO),2017,8766719
+Southern Europe (FAO),1961,8805032
+Western Europe (FAO),1986,8870972
+Southern Europe (FAO),2007,8939267
+Southern Europe (FAO),2009,8970940
+Western Europe (FAO),1970,9001378
+Upper-middle-income countries,1982,9075868
+Southern Europe (FAO),2014,9209524
+Southern Europe (FAO),2010,9343832
+Southern Europe (FAO),2008,9443348
+Southern Europe (FAO),1995,9471666
+Southern Europe (FAO),2002,9502687
+Southern Europe (FAO),2019,9504118
+Southern Europe (FAO),1994,9628690
+Western Europe (FAO),1979,9691774
+Southern Europe (FAO),1988,9713716
+Western Europe (FAO),1973,9802741
+Southern Europe (FAO),2001,9868560
+Southern Europe (FAO),2015,9876935
+Southern Europe (FAO),2021,10012263
+Southern Europe (FAO),1963,10091405
+Southern Europe (FAO),2005,10105295
+Southern Europe (FAO),2006,10114818
+Southern Europe (FAO),1997,10201349
+Southern Europe (FAO),1998,10224115
+Southern Europe (FAO),2003,10252941
+Southern Europe (FAO),2013,10292119
+Western Europe (FAO),1982,10296984
+Southern Europe (FAO),1993,10297574
+Southern Europe (FAO),2016,10321196
+Southern Europe (FAO),1977,10335803
+Southern Europe (FAO),2020,10368302
+Southern Europe (FAO),1972,10593030
+Southern Europe (FAO),1971,10723830
+Southern Europe (FAO),1999,10835363
+Southern Europe (FAO),1989,10881817
+Southern Europe (FAO),1996,11010540
+Southern Europe (FAO),1976,11027760
+Southern Europe (FAO),2018,11037704
+Southern Europe (FAO),1968,11042876
+Southern Europe (FAO),1991,11121853
+Southern Europe (FAO),2000,11217195
+Southern Europe (FAO),2004,11299928
+Southern Europe (FAO),1985,11383307
+Southern Europe (FAO),1966,11409082
+Southern Europe (FAO),1990,11512104
+Southern Europe (FAO),1970,11595267
+Southern Europe (FAO),1969,11644189
+Southern Europe (FAO),1967,11692628
+Southern Europe (FAO),1965,11868262
+Southern Europe (FAO),1962,11876327
+Southern Europe (FAO),1978,11887660
+Southern Europe (FAO),1975,12095270
+Southern Europe (FAO),1992,12131082
+Southern Europe (FAO),1964,12420676
+Southern Europe (FAO),1984,12496619
+Southern Europe (FAO),1981,12525304
+Southern Europe (FAO),1986,13222497
+Southern Europe (FAO),1982,13371501
+Southern Europe (FAO),1983,13582693
+Southern Europe (FAO),1974,13755780
+Southern Europe (FAO),1987,13763487
+Southern Europe (FAO),1973,13968020
+European Union (27),2012,14108970
+European Union (27) (FAO),2012,14108970
+European Union (27),2017,14214712
+European Union (27) (FAO),2017,14214712
+European Union (27),1961,14743398
+European Union (27) (FAO),1961,14755484
+European Union (27),2019,15120158
+European Union (27) (FAO),2019,15120158
+Europe (FAO),2017,15124969
+Europe,2017,15133069
+Southern Europe (FAO),1980,15214509
+Europe (FAO),2012,15316532
+European Union (27),2021,15319728
+European Union (27) (FAO),2021,15319728
+Europe,2012,15327284
+European Union (27),2010,15367064
+European Union (27) (FAO),2010,15367064
+European Union (27),2009,15581275
+European Union (27) (FAO),2009,15581275
+European Union (27),2011,15620829
+European Union (27) (FAO),2011,15620829
+European Union (27),2007,15780440
+European Union (27) (FAO),2007,15780440
+European Union (27),2014,15830257
+European Union (27) (FAO),2014,15830257
+Southern Europe (FAO),1979,15882990
+European Union (27),2008,15977146
+European Union (27) (FAO),2008,15977146
+High-income countries,1961,16012621
+Europe (FAO),1961,16105635
+Europe (FAO),2019,16105923
+Europe,2019,16116823
+Europe,1961,16127116
+Europe (FAO),2021,16222921
+European Union (27) (FAO),2020,16229250
+European Union (27),2020,16229251
+Europe,2021,16231821
+European Union (27),2015,16269561
+European Union (27) (FAO),2015,16269561
+European Union (27),2016,16381330
+European Union (27) (FAO),2016,16381330
+European Union (27),2013,16556020
+European Union (27) (FAO),2013,16556020
+European Union (27),2002,16678786
+European Union (27) (FAO),2002,16678786
+Europe (FAO),2014,16796360
+Europe,2014,16807318
+Europe (FAO),2010,16820548
+Europe,2010,16831470
+Europe (FAO),2011,16909776
+Europe,2011,16923852
+Europe (FAO),2009,16942772
+Europe,2009,16955010
+European Union (27),2003,17035200
+European Union (27) (FAO),2003,17035200
+Europe (FAO),2007,17057148
+Europe,2007,17076232
+European Union (27),1995,17132580
+Europe (FAO),2020,17142300
+Europe (FAO),2015,17146188
+European Union (27) (FAO),1995,17147644
+Europe,2020,17152300
+Europe,2015,17155134
+European Union (27),1994,17256128
+European Union (27) (FAO),1994,17273686
+Europe (FAO),2008,17293506
+European Union (27),2005,17306278
+European Union (27) (FAO),2005,17306278
+Europe,2008,17309204
+European Union (27),1963,17379792
+Europe (FAO),2016,17385922
+Europe,2016,17393822
+European Union (27) (FAO),1963,17395930
+European Union (27),2018,17405018
+European Union (27) (FAO),2018,17405018
+European Union (27),1991,17405156
+European Union (27) (FAO),1991,17414124
+European Union (27),2001,17495440
+European Union (27) (FAO),2001,17495440
+European Union (27),2006,17496736
+European Union (27) (FAO),2006,17496736
+European Union (27),1997,17677946
+European Union (27) (FAO),1997,17685416
+Europe (FAO),2013,17721020
+Europe,2013,17732452
+Europe (FAO),2002,17739508
+European Union (27),1988,17743604
+European Union (27) (FAO),1988,17758276
+Europe,2002,17763508
+European Union (27),1993,17846418
+European Union (27) (FAO),1993,17863700
+European Union (27),1998,17925264
+European Union (27) (FAO),1998,17941236
+Europe (FAO),2003,18203488
+Europe,2003,18241988
+European Union (27),1977,18266340
+European Union (27) (FAO),1977,18282480
+Europe (FAO),1995,18354152
+Europe,1995,18394586
+Europe (FAO),2018,18397334
+Europe,2018,18408334
+Europe (FAO),2005,18510962
+European Union (27),1972,18514596
+European Union (27) (FAO),1972,18529596
+Europe (FAO),2001,18532432
+Europe,2005,18539848
+High-income countries,1963,18551010
+Europe (FAO),1994,18558602
+Europe,2001,18582732
+Europe,1994,18589544
+European Union (27),1969,18680328
+European Union (27) (FAO),1969,18693476
+Europe (FAO),2006,18695986
+Europe (FAO),1997,18709728
+Europe,2006,18722072
+European Union (27),1971,18723728
+European Union (27) (FAO),1971,18735180
+Europe,1997,18755656
+Europe (FAO),1998,18875254
+Europe,1998,18930284
+European Union (27),1966,19072554
+European Union (27) (FAO),1966,19086126
+High-income countries,2017,19168322
+European Union (27),1996,19205258
+European Union (27) (FAO),1996,19218020
+Europe (FAO),1993,19232986
+European Union (27),2000,19243872
+European Union (27) (FAO),2000,19243872
+Europe,1963,19283510
+Europe (FAO),1963,19285788
+Europe,1993,19300704
+European Union (27),1989,19318446
+European Union (27) (FAO),1989,19342092
+European Union (27),1999,19623386
+European Union (27) (FAO),1999,19641814
+European Union (27),1967,19651280
+European Union (27),1968,19654536
+European Union (27) (FAO),1967,19664360
+European Union (27) (FAO),1968,19666960
+Europe (FAO),1991,19674556
+Europe,1991,19707088
+European Union (27),2004,19758874
+European Union (27) (FAO),2004,19758874
+European Union (27),1985,19898980
+European Union (27) (FAO),1985,19910084
+High-income countries,1991,19918176
+High-income countries,1995,19934200
+High-income countries,2012,19985336
+European Union (27),1965,20040328
+European Union (27),1978,20040432
+European Union (27) (FAO),1978,20048242
+European Union (27) (FAO),1965,20052128
+High-income countries,1969,20081308
+High-income countries,1994,20096840
+European Union (27),1990,20105204
+European Union (27) (FAO),1990,20120682
+Europe (FAO),2000,20178352
+Europe,2000,20235352
+High-income countries,1966,20238404
+Europe (FAO),1988,20302190
+High-income countries,2007,20350662
+Europe,1988,20372516
+Europe (FAO),1996,20412440
+Europe (FAO),1999,20426594
+European Union (27),1981,20452468
+Europe,1996,20455576
+High-income countries,2010,20456866
+European Union (27) (FAO),1981,20462742
+Europe,1999,20463666
+European Union (27),1964,20503952
+European Union (27) (FAO),1964,20520744
+High-income countries,1972,20522876
+High-income countries,1988,20626712
+European Union (27),1962,20628308
+High-income countries,2021,20639660
+European Union (27) (FAO),1962,20641416
+High-income countries,2019,20647698
+High-income countries,1977,20730188
+High-income countries,1971,20742554
+High-income countries,1993,20810422
+High-income countries,2009,20832984
+High-income countries,2011,20884616
+High-income countries,2008,20909260
+High-income countries,2020,20914888
+High-income countries,1968,20946688
+European Union (27),1992,20970216
+European Union (27),1976,20975936
+European Union (27) (FAO),1976,20989136
+European Union (27) (FAO),1992,20997996
+High-income countries,2002,20999840
+High-income countries,1967,21003044
+European Union (27),1975,21050024
+European Union (27) (FAO),1975,21066532
+Europe (FAO),2004,21097872
+Europe,2004,21125110
+Europe (FAO),1972,21219180
+European Union (27),1970,21232488
+High-income countries,1965,21239266
+Europe,1972,21255662
+European Union (27) (FAO),1970,21257224
+Europe (FAO),1966,21355666
+Europe,1966,21377534
+High-income countries,2003,21442064
+European Union (27),1984,21470510
+European Union (27) (FAO),1984,21486156
+World,1961,21492186
+High-income countries,1998,21515962
+High-income countries,1997,21546788
+High-income countries,2001,21768530
+High-income countries,1964,21779384
+High-income countries,2014,21849430
+High-income countries,1962,21911796
+High-income countries,2016,21927716
+Europe (FAO),1969,21938544
+Europe,1969,21970038
+Europe (FAO),1989,21991628
+Europe (FAO),1965,22028800
+Europe,1965,22047728
+Europe,1989,22061582
+Europe (FAO),1967,22111264
+Europe,1967,22140052
+High-income countries,1989,22163392
+Europe (FAO),1977,22205564
+Europe,1977,22235380
+Europe (FAO),1971,22236888
+Europe (FAO),1962,22241384
+Europe,1962,22260396
+Europe,1971,22274900
+High-income countries,1996,22297856
+Europe (FAO),1968,22324036
+Europe,1968,22355208
+High-income countries,2015,22382312
+High-income countries,2006,22392596
+High-income countries,1978,22394960
+Europe (FAO),1990,22449676
+High-income countries,1985,22480640
+Europe,1990,22494200
+Europe (FAO),1964,22499456
+Europe,1964,22506074
+Europe (FAO),1992,22658338
+High-income countries,2005,22670288
+Europe,1992,22695060
+High-income countries,2013,22709780
+High-income countries,1970,22776076
+European Union (27),1987,22795896
+European Union (27) (FAO),1987,22810540
+High-income countries,2018,22887702
+High-income countries,1981,22892528
+High-income countries,1990,22921856
+High-income countries,1976,23065814
+Europe (FAO),1985,23133588
+Europe,1985,23161184
+European Union (27),1974,23221628
+European Union (27) (FAO),1974,23235928
+High-income countries,1975,23254188
+European Union (27),1986,23267094
+Europe (FAO),1978,23282348
+European Union (27) (FAO),1986,23283470
+High-income countries,1999,23312802
+Europe,1978,23331038
+High-income countries,1992,23391022
+European Union (27),1983,23435170
+High-income countries,2000,23448532
+European Union (27) (FAO),1983,23454096
+High-income countries,1984,23737288
+European Union (27),1980,23941236
+European Union (27) (FAO),1980,23946924
+High-income countries,2004,24632164
+Europe (FAO),1970,24675944
+Europe,1970,24691078
+Europe (FAO),1975,24737826
+Europe,1975,24770514
+Europe (FAO),1981,24795798
+Europe,1981,24827124
+European Union (27),1973,24944896
+European Union (27) (FAO),1973,24964496
+Europe (FAO),1976,24982652
+Europe,1976,25016794
+Europe (FAO),1987,25055380
+Europe,1987,25112736
+World,1963,25124306
+European Union (27),1982,25197256
+European Union (27) (FAO),1982,25223434
+High-income countries,1974,25266802
+World,1995,25359932
+World,2017,25410368
+High-income countries,1987,25478158
+World,1991,25590708
+Europe (FAO),1986,25658690
+World,1994,25686196
+High-income countries,1983,25699718
+World,2012,25706594
+Europe,1986,25708814
+Europe (FAO),1984,25763944
+Europe,1984,25792496
+High-income countries,1986,25879908
+World,1993,25895196
+World,2002,26007490
+World,1998,26470134
+World,2007,26472380
+World,2010,26614528
+High-income countries,1980,26625250
+Europe (FAO),1974,26639742
+World,1997,26670610
+Europe,1974,26682948
+European Union (27),1979,26699936
+European Union (27) (FAO),1979,26706704
+World,1966,26763116
+World,2009,26777436
+World,2021,26870502
+World,2003,26882914
+World,2019,26930850
+World,2001,27003812
+World,2011,27055450
+World,2020,27072672
+High-income countries,1973,27178770
+World,2008,27212958
+World,1996,27263042
+World,1972,27263336
+World,1988,27384990
+World,1969,27389126
+World,2016,27651858
+High-income countries,1982,28011064
+Europe (FAO),1983,28020132
+World,1964,28041040
+Europe,1983,28046208
+World,1968,28089518
+World,1965,28092486
+Europe (FAO),1980,28166272
+World,1967,28201932
+World,1962,28207476
+Europe,1980,28220584
+World,2014,28268180
+World,2000,28314758
+World,2006,28359522
+Europe (FAO),1973,28447698
+Europe,1973,28458914
+World,1990,28512570
+World,1999,28522990
+World,2005,28532150
+World,1977,28625834
+World,2015,28688984
+World,1989,28799390
+World,1971,28836422
+World,2013,28906744
+World,1992,29064224
+High-income countries,1979,29073464
+World,1985,29395878
+World,2018,29459960
+World,1978,29510142
+Europe (FAO),1982,29847260
+Europe,1982,29869380
+World,1970,30191194
+Europe (FAO),1979,30514074
+Europe,1979,30566708
+World,2004,30759976
+World,1975,31047810
+World,1981,31618736
+World,1976,31851434
+World,1984,32056434
+World,1986,32069938
+World,1987,32335134
+World,1974,33552974
+World,1983,34775284
+World,1973,35117132
+World,1980,35232750
+World,1982,37364470
+World,1979,37544616
+Low-income countries,2016,86.397.003
+Low-income countries,2014,91.273.004
+Ethiopia,2021,0.03
+Ethiopia (former),1968,10.24
+Montenegro,2021,10021.52
+Ethiopia (former),1990,1004.49
+Africa,2010,1004698.6
+Africa (FAO),2010,1004698.6
+Net Food Importing Developing Countries (FAO),1982,100483.25
+Low-income countries,2012,1005.87
+Eastern Africa (FAO),1988,10079.72
+Ethiopia (former),1991,1009.49
+Low-income countries,2009,10093.62
+Northern America (FAO),1970,1010687.8
+Mexico,2002,101225.63
+Central America (FAO),2002,101359.63
+Africa,2005,1014905.75
+Africa (FAO),2005,1014905.75
+Low Income Food Deficit Countries (FAO),1986,10152.25
+Low Income Food Deficit Countries (FAO),1987,10161.25
+Africa,1982,1016773.25
+Africa (FAO),1982,1016773.25
+Low Income Food Deficit Countries (FAO),1984,10170.25
+Low Income Food Deficit Countries (FAO),1985,10171.25
+Slovenia,2021,10192.2
+Mongolia,2017,102.6
+Ethiopia (former),1988,1026.72
+Net Food Importing Developing Countries (FAO),1986,103429.25
+Least Developed Countries (FAO),1977,10347.75
+Africa,1984,1035471.25
+Africa (FAO),1984,1035471.25
+Eastern Africa (FAO),1978,10403.99
+Mexico,2000,104123.88
+Low Income Food Deficit Countries (FAO),1988,10413.72
+Least Developed Countries (FAO),2007,10419.5
+Central America (FAO),2000,104258.88
+Ethiopia,1993,1043.21
+Low-income countries,2011,1045.61
+Ethiopia (former),1992,1048.95
+Africa,2018,1052361.1
+Africa (FAO),2018,1052361.1
+Net Food Importing Developing Countries (FAO),1987,105319.25
+Northern America (FAO),1969,1058738.2
+Low-income countries,2007,10629.5
+Low Income Food Deficit Countries (FAO),1978,10652.99
+Eastern Africa (FAO),2008,10658.59
+Africa,2019,1068264.5
+Africa (FAO),2019,1068264.5
+Low Income Food Deficit Countries (FAO),1995,106849.68
+Ethiopia,1995,1070.68
+Eastern Africa (FAO),1977,10728.75
+Eastern Africa (FAO),2004,10782.5
+North America,1970,1081251.6
+Africa,1979,1084089.2
+Africa (FAO),1979,1084089.2
+Africa,1981,1084371.2
+Africa (FAO),1981,1084371.2
+Africa,2011,1084566.6
+Africa (FAO),2011,1084566.6
+Africa,1983,1085677.2
+Africa (FAO),1983,1085677.2
+Eastern Africa (FAO),2021,10956.61
+Eastern Africa (FAO),2006,10959.25
+Mexico,2003,109633.05
+Central Asia (FAO),2016,109684.59
+Mexico,1976,109716.91
+Central America (FAO),2003,109772.05
+Low Income Food Deficit Countries (FAO),1977,10997.75
+Mongolia,2018,110.3
+Central America (FAO),1976,110021.91
+Africa,2004,1101341.5
+Africa (FAO),2004,1101341.5
+Low Income Food Deficit Countries (FAO),1992,110233.95
+Net Food Importing Developing Countries (FAO),1985,110239.25
+Northern Europe (FAO),2010,11033.5
+Ethiopia,1996,1104.89
+Africa,2007,1111513.5
+Africa (FAO),2007,1111513.5
+Central Asia (FAO),2017,111654.35
+Eastern Africa (FAO),2020,11194.42
+Africa,1976,1121539.5
+Africa (FAO),1976,1121539.5
+Africa,2020,1128460.2
+Africa (FAO),2020,1128460.2
+Africa,2016,1129384.2
+Africa (FAO),2016,1129384.2
+Eastern Africa (FAO),2005,11333.75
+Africa,2006,1133390.2
+Africa (FAO),2006,1133390.2
+Africa,2009,1134927.6
+Africa (FAO),2009,1134927.6
+Net Food Importing Developing Countries (FAO),2010,113597.35
+Net Food Importing Developing Countries (FAO),1983,113923.25
+Mexico,1977,114045.83
+Central America (FAO),1977,114336.83
+Montenegro,2020,11495.51
+Africa,1980,1153595.2
+Africa (FAO),1980,1153595.2
+Africa,2008,1155480.6
+Africa (FAO),2008,1155480.6
+Eastern Africa (FAO),2009,11658.62
+Argentina,2012,1166024.8
+Africa,2012,1176114.9
+Africa (FAO),2012,1176114.9
+Africa,2017,1180334.6
+Africa (FAO),2017,1180334.6
+Central Asia (FAO),2020,119864.24
+Net Food Importing Developing Countries (FAO),1984,120157.25
+Africa,2015,1210538.8
+Africa (FAO),2015,1210538.8
+Central Asia (FAO),2019,121525.66
+Eastern Africa (FAO),2007,12169.5
+Lebanon,2017,12182.4
+Africa,2021,1220114.2
+Africa (FAO),2021,1220114.2
+Africa,2013,1224940.9
+Africa (FAO),2013,1224940.9
+Africa,1975,1227090.5
+Africa (FAO),1975,1227090.5
+Net Food Importing Developing Countries (FAO),1978,124519.99
+Net Food Importing Developing Countries (FAO),2011,125560.61
+Algeria,2014,12597.07
+Lebanon,2013,12746.91
+Armenia,2019,12750.2
+Armenia,2021,12828.5
+Central Asia (FAO),2018,129105.02
+North America,1972,1320848.6
+Montenegro,2017,13289.32
+Mexico,1996,133195.12
+Central America (FAO),1996,133409.12
+Africa,1972,1335043.2
+Africa (FAO),1972,1335043.2
+Net Food Importing Developing Countries (FAO),2012,134054.88
+Luxembourg,2018,13590.7
+Mexico,1998,136103.97
+Central America (FAO),1998,136271.97
+Africa,1973,1367441.2
+Africa (FAO),1973,1367441.2
+Lebanon,2011,13726.44
+Africa,1974,1375559.5
+Africa (FAO),1974,1375559.5
+Net Food Importing Developing Countries (FAO),2009,138881.62
+Lebanon,2012,14056.69
+South-eastern Asia (FAO),2018,14085.14
+Vietnam,2018,14085.14
+Ethiopia,2008,1409.59
+Mexico,2001,141139.52
+Central America (FAO),2001,141238.52
+Northern America (FAO),1971,1425162.5
+China,2010,1435149.5
+China (FAO),2010,1435149.5
+Net Food Importing Developing Countries (FAO),2014,143729.95
+Montenegro,2018,14421.42
+Mexico,1999,144310.72
+Central America (FAO),1999,144503.72
+Net Food Importing Developing Countries (FAO),2016,145169.75
+Net Food Importing Developing Countries (FAO),2004,145204.5
+Net Food Importing Developing Countries (FAO),2013,145378.88
+China,2012,1455025.4
+China (FAO),2012,1455025.4
+Least Developed Countries (FAO),1967,1462.99
+Low Income Food Deficit Countries (FAO),1967,1462.99
+Northern America (FAO),1974,1462172.8
+Mexico,1995,146576.33
+Central America (FAO),1995,146752.33
+Africa,1970,1481259.5
+Africa (FAO),1970,1481259.5
+Northern America (FAO),1976,1485901.5
+North America,1971,1497141.6
+Northern America (FAO),1975,1500415.8
+Lebanon,2014,15041.7
+Montenegro,2015,15086.67
+Eastern Asia (FAO),2010,1510149.5
+China,2011,1514342.6
+China (FAO),2011,1514342.6
+Net Food Importing Developing Countries (FAO),2005,151900.75
+Eastern Africa (FAO),1967,1522.99
+Africa,1969,1523779.2
+Africa (FAO),1969,1523779.2
+Mexico,1997,152378.52
+Central America (FAO),1997,152531.52
+Net Food Importing Developing Countries (FAO),2017,152604.03
+Net Food Importing Developing Countries (FAO),2015,152766.73
+Albania,2018,15289.88
+Argentina,2011,1531790.9
+Mexico,1990,153328.58
+Net Food Importing Developing Countries (FAO),2007,153429.5
+Eastern Asia (FAO),2012,1535025.4
+Central America (FAO),1990,153508.58
+Net Food Importing Developing Countries (FAO),1976,153532.5
+North America,1974,1555194.1
+Western Asia (FAO),2017,155834.83
+Paraguay,2016,1563.66
+Slovenia,2020,15651.44
+Mexico,1979,157031.33
+Central America (FAO),1979,157277.33
+Kazakhstan,2011,15758.3
+Net Food Importing Developing Countries (FAO),2006,157828.25
+Net Food Importing Developing Countries (FAO),1981,158091.2
+China,2013,1584732.9
+China (FAO),2013,1584732.9
+Eastern Asia (FAO),2011,1593342.6
+North America,1976,1595923.4
+North America,1975,1596629.4
+Net Food Importing Developing Countries (FAO),2008,161261.6
+Lebanon,2010,16165.6
+Paraguay,2017,1624.68
+Ethiopia,2009,1627.62
+Net Food Importing Developing Countries (FAO),2018,165227.05
+Mexico,1978,165332.7
+Central America (FAO),1978,165641.7
+Least Developed Countries (FAO),1968,1663.24
+Eastern Asia (FAO),2013,1664732.9
+Mexico,1993,166853.22
+Central America (FAO),1993,167097.22
+Net Food Importing Developing Countries (FAO),1969,168181.25
+Albania,2017,16868.12
+Uzbekistan,2021,16898.61
+Bulgaria,2005,169445.5
+Paraguay,2020,1697.83
+Western Asia (FAO),2012,170089.98
+Eastern Europe (FAO),2021,1701410.6
+Africa,1971,1701812.2
+Africa (FAO),1971,1701812.2
+Mexico,1980,170309.06
+Central America (FAO),1980,170565.06
+Net Food Importing Developing Countries (FAO),1980,170899.25
+Eastern Africa (FAO),1968,1723.24
+Kazakhstan,2010,17231.6
+Montenegro,2016,17243.9
+Net Food Importing Developing Countries (FAO),2021,173241.06
+North America,1977,1734962.9
+Bulgaria,2006,173594.7
+North America,1992,1739208.2
+Net Food Importing Developing Countries (FAO),1977,174530.75
+Western Asia (FAO),2013,175263.9
+Net Food Importing Developing Countries (FAO),2020,175485.45
+Eastern Europe (FAO),2005,1755481.5
+Low Income Food Deficit Countries (FAO),1968,1758.24
+North America,1983,1758638.4
+Asia,2010,1764823.2
+Africa,1968,1766897.2
+Africa (FAO),1968,1766897.2
+Asia (FAO),2010,1775746.2
+Mexico,1989,179145.97
+Asia,2012,1791670.8
+Central America (FAO),1989,179262.97
+Mexico,1991,179617.64
+Western Asia (FAO),2016,179661.4
+Western Asia (FAO),2018,179738.73
+Central America (FAO),1991,179776.64
+Net Food Importing Developing Countries (FAO),2019,180123.05
+Asia (FAO),2012,1802422.8
+North America,1979,1806195.4
+Mexico,1987,181017.94
+Belgium,2018,18113.36
+Central America (FAO),1987,181173.94
+Western Asia (FAO),2010,181510.6
+Vietnam,2021,18153.06
+Tajikistan,2021,182.24
+Estonia,2020,1820.17
+Slovenia,2018,18276.33
+North America,1978,1833644.8
+Mexico,1992,183384.22
+Central America (FAO),1992,183561.22
+Asia,2009,1861257.2
+South-eastern Asia (FAO),2021,18613.95
+Asia,2011,1862869.4
+Western Asia (FAO),2011,186294.44
+Eastern Asia (FAO),2021,1864244.1
+Asia (FAO),2009,1873495.2
+Asia (FAO),2011,1876945.4
+Slovenia,2019,18821.71
+Ethiopia,1998,1897.13
+Lower-middle-income countries,2020,190569.31
+North America,1981,1908525.2
+Net Food Importing Developing Countries (FAO),1979,190908.25
+Lower-middle-income countries,2021,192137.52
+Algeria,2018,19251.34
+Estonia,2019,1926.99
+Mexico,1988,192701.89
+Central America (FAO),1988,192821.89
+North America,1984,1932655.4
+North America,1991,1939362.6
+Asia (FAO),2013,1940912.1
+Bulgaria,2004,194804.1
+Net Food Importing Developing Countries (FAO),1970,196410.5
+Serbia,2014,19818.3
+Eastern Europe (FAO),2006,1984390.8
+North America,1985,1987712.5
+North America,1994,1988725.9
+United States,2020,2005825.9
+Western Asia (FAO),2014,200803.34
+Tajikistan,2016,202.5
+Tajikistan,2017,202.5
+North America,1990,2031237.6
+Mexico,1994,203434.83
+Central America (FAO),1994,203632.83
+North America,1995,2049035.4
+North America,1996,2054394.1
+Mexico,1984,206221.33
+Central America (FAO),1984,206435.33
+Northern America (FAO),2020,2071771.1
+Eastern Asia (FAO),2020,2080791.5
+Israel,2019,2082.25
+Latvia,2015,2090.14
+Western Asia (FAO),2019,209216.6
+North America,2020,2115753.8
+Northern America (FAO),2021,2122378.2
+Net Food Importing Developing Countries (FAO),1975,213416.5
+North America,1993,2136145.2
+Eastern Asia (FAO),2019,2151980.2
+United States,2017,2170461.5
+Serbia,2012,21750.3
+Lebanon,2016,21780.9
+Tajikistan,2018,218.7
+Tajikistan,2019,218.7
+Canada,1961,21827.4
+Uzbekistan,2020,21829.03
+Mexico,1985,219352.56
+Central America (FAO),1985,219503.56
+Lower-middle-income countries,2016,220150.4
+Lower-middle-income countries,2014,220538.94
+Tajikistan,2020,221.31
+North America,1982,2226615.5
+North America,1986,2230691.2
+Northern America (FAO),2017,2240894.8
+Serbia,2011,22443.1
+South America,2016,2252236.8
+South America (FAO),2016,2252236.8
+Lower-middle-income countries,2019,227165.75
+Algeria,2017,22733.19
+North America,2017,2276530.8
+North America,1999,2285523.8
+Uzbekistan,2018,22887.2
+Mexico,1983,229596.34
+Central America (FAO),1983,229816.34
+Mexico,1982,230467.53
+Central America (FAO),1982,230744.53
+Lower-middle-income countries,2018,230930.34
+Net Food Importing Developing Countries (FAO),1971,232173.25
+Net Food Importing Developing Countries (FAO),1972,232459.25
+Mexico,1981,232850.31
+Central America (FAO),1981,233123.31
+Kazakhstan,2021,23342.5
+Least Developed Countries (FAO),1971,2349.25
+Turkey,2018,23618.62
+Serbia,2010,23823.3
+United States,2018,2384006.2
+Asia,2021,2390728.2
+Albania,2019,2396.37
+Asia (FAO),2021,2399628.2
+Serbia,2015,24087.9
+Canada,1965,24131.1
+Eastern Africa (FAO),1971,2429.25
+Asia,2016,2434619.5
+Low Income Food Deficit Countries (FAO),1971,2442.25
+Asia (FAO),2016,2442519.5
+North America,2002,2445045.8
+Least Developed Countries (FAO),1972,2449.25
+Least Developed Countries (FAO),1973,2449.25
+Northern America (FAO),2018,2454292.5
+Net Food Importing Developing Countries (FAO),1973,245662.25
+Mexico,1986,246433.22
+Central America (FAO),1986,246592.22
+Net Food Importing Developing Countries (FAO),1967,247189.98
+North America,2006,2478958.2
+Asia,2015,2482247.2
+Asia,2019,2484296.5
+Austria,2017,248570.88
+Turkey,2017,24861.79
+Asia (FAO),2015,2491192.2
+Eastern Africa (FAO),1973,2492.25
+North America,2018,2492865.5
+Asia (FAO),2019,2495196.5
+Lower-middle-income countries,2015,249867.66
+Net Food Importing Developing Countries (FAO),1974,250626.5
+Asia,2017,2507849.8
+Least Developed Countries (FAO),1969,2509.25
+Canada,1962,25107.6
+Asia (FAO),2017,2515949.8
+Eastern Africa (FAO),1972,2524.25
+Canada,1963,25632.6
+Latvia,2021,2569.48
+Colombia,2019,2571.51
+Slovenia,2017,25738.13
+Eastern Africa (FAO),1969,2574.25
+Lebanon,2018,2579.85
+Albania,2021,2586.65
+Low Income Food Deficit Countries (FAO),2010,25871.34
+North America,2001,2594852.5
+North America,2004,2601287.5
+Colombia,2021,2605.99
+North America,2007,2611448.5
+United States,2019,2630772.2
+Low Income Food Deficit Countries (FAO),1969,2634.25
+Ethiopia,2006,2636.25
+Asia,2020,2637444.2
+Asia (FAO),2020,2647444.2
+Low Income Food Deficit Countries (FAO),2019,26477.84
+North America,2008,2650704.2
+South America,2017,2658482.5
+South America (FAO),2017,2658482.5
+Canada,1964,26597.2
+Greece,2014,266182.47
+Eastern Africa (FAO),2010,2663.94
+Eastern Africa (FAO),2011,2666.61
+Turkey,2021,266961.8
+Eastern Africa (FAO),2012,2670.87
+Eastern Africa (FAO),2013,2670.87
+Israel,2015,2673.83
+Latvia,2018,2679.56
+Low Income Food Deficit Countries (FAO),1972,2684.25
+Low Income Food Deficit Countries (FAO),1973,2689.25
+Northern America (FAO),2019,2700432.2
+Low Income Food Deficit Countries (FAO),2021,27187.66
+United States,2016,2720878.8
+North America,2019,2737167.2
+Albania,2020,2750.14
+Northern America (FAO),2016,2784654.8
+Slovenia,2016,27894.72
+Israel,2018,2800.68
+North America,1997,2804578.5
+Low Income Food Deficit Countries (FAO),2014,28072.73
+Mongolia,2019,281.5
+Israel,2016,2818.76
+Mexico,1962,28237.93
+Central America (FAO),1962,28387.93
+Ethiopia,2020,285.63
+Net Food Importing Developing Countries (FAO),1968,288965.25
+Canada,1966,28956.9
+South America,2012,2903390.2
+South America (FAO),2012,2903390.2
+Mexico,1961,29261.75
+Central America (FAO),1961,29401.75
+Low Income Food Deficit Countries (FAO),2017,29488.68
+Low Income Food Deficit Countries (FAO),2018,29572.92
+North America,2005,2968241.5
+Kazakhstan,2016,29853.1
+Mongolia,2020,300.6
+South America,2019,3029899.2
+South America (FAO),2019,3029899.2
+South America,2015,3046211.2
+South America (FAO),2015,3046211.2
+Israel,2017,3058.56
+Low Income Food Deficit Countries (FAO),2016,30654.47
+Turkey,2020,307311.62
+South America,2011,3093577.2
+South America (FAO),2011,3093577.2
+Americas (FAO),1961,3098567.2
+Land Locked Developing Countries (FAO),2014,310586.5
+Land Locked Developing Countries (FAO),2011,314829.1
+Land Locked Developing Countries (FAO),2010,316822.3
+South America,2013,3212149.8
+South America (FAO),2013,3212149.8
+Ethiopia,2005,3213.75
+Low Income Food Deficit Countries (FAO),2020,32141.16
+Latvia,2017,3237.45
+Mexico,1963,32458.1
+Land Locked Developing Countries (FAO),1997,324710.06
+Greece,2013,325051.12
+Morocco,2016,32530.42
+Central America (FAO),1963,32598.1
+United States,2015,3266630.2
+Kazakhstan,2017,32696.6
+Greece,2011,327055.88
+Morocco,2014,32707.87
+Lithuania,2020,3288.47
+Land Locked Developing Countries (FAO),2009,329127.9
+South America,2018,3300353.8
+South America (FAO),2018,3300353.8
+Northern America (FAO),2015,3326420.5
+Northern America (FAO),2014,3358195.2
+Canada,1967,33656.7
+Slovenia,2015,33662.49
+North America,2015,3368959.5
+Morocco,2010,33695.41
+Greece,2012,337338.94
+Americas (FAO),1965,3383217.8
+Greece,2010,339073.34
+North America,2014,3397714.2
+Americas (FAO),1964,3422187.8
+Land Locked Developing Countries (FAO),2007,342274.5
+Canada,1968,34291.6
+Morocco,2017,34411.05
+Americas (FAO),1962,3444402.5
+Land Locked Developing Countries (FAO),2015,344992.7
+Uzbekistan,2015,34544.7
+Mexico,1964,34554.64
+Low Income Food Deficit Countries (FAO),2009,34603.92
+Land Locked Developing Countries (FAO),2012,346288.66
+Central America (FAO),1964,34694.64
+Land Locked Developing Countries (FAO),2017,351082.84
+South-eastern Asia (FAO),2014,3521.29
+Vietnam,2014,3521.29
+United Kingdom,2021,354.1
+Americas (FAO),1963,3546367.8
+Land Locked Developing Countries (FAO),2008,354712.6
+Land Locked Developing Countries (FAO),2016,357739.06
+Lower-middle-income countries,2013,358712.25
+Americas (FAO),1970,3613366.5
+Canada,1969,36196.3
+Low Income Food Deficit Countries (FAO),2006,36417.25
+Lower-middle-income countries,2012,364893.03
+Turkmenistan,2014,36597.42
+Turkmenistan,2013,36652.79
+Land Locked Developing Countries (FAO),2006,366750.25
+Low Income Food Deficit Countries (FAO),2008,36847.59
+Americas (FAO),1966,3697672.8
+Upper-middle-income countries,1961,3729633.8
+Turkmenistan,2015,37358.82
+Low Income Food Deficit Countries (FAO),2005,37386.75
+Turkmenistan,2012,37727.38
+Turkmenistan,2010,37737.04
+Spain,2015,3776916.5
+Turkmenistan,2011,37783.11
+Canada,1974,38101.7
+Low Income Food Deficit Countries (FAO),2015,38155.25
+Land Locked Developing Countries (FAO),2013,383878.53
+Morocco,2015,38619.36
+Low Income Food Deficit Countries (FAO),2007,38706.5
+Lower-middle-income countries,2011,388706.06
+Mexico,1965,38955.66
+Land Locked Developing Countries (FAO),2021,389634.56
+Central America (FAO),1965,39105.66
+Americas (FAO),1992,3945645.2
+Land Locked Developing Countries (FAO),1998,402485.12
+Mexico,1967,40287.03
+Land Locked Developing Countries (FAO),2020,403266.3
+Central America (FAO),1967,40407.03
+Low Income Food Deficit Countries (FAO),2011,40489.01
+Low Income Food Deficit Countries (FAO),2013,40496.87
+Morocco,2018,40808.03
+Americas (FAO),1991,4083341.8
+Morocco,2020,40919.89
+Lithuania,2021,4143.28
+Mexico,2005,41486.45
+Central America (FAO),2005,41607.45
+Low Income Food Deficit Countries (FAO),2012,41728.87
+Mexico,1966,41741.89
+Central America (FAO),1966,41881.89
+Canada,1970,41911.8
+Western Asia (FAO),2021,421932.2
+Lower-middle-income countries,2010,424433.8
+Americas (FAO),1990,4257062.5
+Americas (FAO),1972,4266657.5
+Land Locked Developing Countries (FAO),2019,427746.8
+Morocco,2021,43083.1
+Mexico,1968,43227.31
+Upper-middle-income countries,1997,4334324.5
+Central America (FAO),1968,43347.31
+Kazakhstan,2020,43783.3
+Germany,2019,437925.38
+United Kingdom,2015,440.35
+Upper-middle-income countries,2002,4418555.5
+Americas (FAO),1995,4429359.5
+Lower-middle-income countries,2009,443005.3
+Kazakhstan,2019,44479.3
+Land Locked Developing Countries (FAO),2018,445164.25
+Mexico,2009,44552.94
+Americas (FAO),1985,4456485.5
+Americas (FAO),1967,4458316.5
+Central America (FAO),2009,44667.94
+United Kingdom,2014,448.03
+Americas (FAO),1971,4497198.5
+Caribbean (FAO),2020,4498.55
+Caribbean (FAO),2021,4498.55
+Saint Lucia,2020,4498.55
+Saint Lucia,2021,4498.55
+Syria,2014,45.65
+Germany,2021,452693.12
+Americas (FAO),1984,4527439.5
+Bosnia and Herzegovina,2016,4579.21
+Americas (FAO),1975,4579643.5
+Bosnia and Herzegovina,2008,4590.52
+Thailand,2021,460.89
+Mexico,1969,46178.71
+Western Europe (FAO),2017,4617839.5
+Central America (FAO),1969,46328.71
+Croatia,2010,46346.3
+United Kingdom,2016,466.36
+United Kingdom,2017,467.47
+United Kingdom,2018,468.97
+Land Locked Developing Countries (FAO),1996,468213.88
+Upper-middle-income countries,1999,4694382.5
+Canada,1975,46958.8
+Upper-middle-income countries,1995,4700227.5
+Upper-middle-income countries,2001,4706052.5
+Americas (FAO),2002,4708604.5
+Americas (FAO),2020,4718466.5
+Germany,2020,472612.34
+Morocco,2019,47376.9
+Upper-middle-income countries,1964,4759692.5
+Americas (FAO),1978,4771093.5
+Egypt,2021,4774.51
+Americas (FAO),1999,4798070.5
+Syria,2018,48.58
+Upper-middle-income countries,1965,4901089.5
+Low Income Food Deficit Countries (FAO),2004,49271.5
+Canada,1976,49304.5
+Americas (FAO),2017,4935013.5
+Japan,2021,49473.1
+Western Europe (FAO),2019,4955893.5
+Eastern Africa (FAO),2019,4960.64
+Syria,2015,50.67
+Americas (FAO),1983,5002626.5
+Turkmenistan,2016,50040.99
+Americas (FAO),1997,5009565.5
+Kazakhstan,2018,50104.7
+Turkmenistan,2018,50254.02
+Turkmenistan,2017,50329.35
+Americas (FAO),2016,5081132.5
+Americas (FAO),1981,5086446.5
+Syria,2016,51.65
+South-eastern Asia (FAO),2012,5101.95
+Vietnam,2012,5101.95
+Turkmenistan,2019,51464.16
+Americas (FAO),2001,5172960.5
+Turkmenistan,2020,52018.2
+Turkmenistan,2021,52098.39
+Western Europe (FAO),2020,5212303.5
+Americas (FAO),1976,5247470.5
+Americas (FAO),2004,5339899.5
+Americas (FAO),1979,5391984.5
+Western Europe (FAO),2016,5412788.5
+Americas (FAO),2007,5422033.5
+Upper-middle-income countries,1990,5443668.5
+United Kingdom,2020,545.18
+Bosnia and Herzegovina,2018,5503.14
+Upper-middle-income countries,1991,5505007.5
+Americas (FAO),2008,5505993.5
+Upper-middle-income countries,2004,5517503.5
+Canada,1971,55247.5
+Bosnia and Herzegovina,2017,5545.67
+Bosnia and Herzegovina,2019,5558.87
+Croatia,2009,55613.5
+Mexico,2008,55668.33
+Jordan,2021,557.3
+Central America (FAO),2008,55734.33
+Syria,2017,56.58
+South-eastern Asia (FAO),2013,5604.48
+Vietnam,2013,5604.48
+Thailand,2020,567.81
+Egypt,2018,5675.68
+Mexico,2006,56764.19
+Land Locked Developing Countries (FAO),2004,567690.5
+Bosnia and Herzegovina,2021,5677.29
+Central America (FAO),2006,56900.19
+Upper-middle-income countries,2007,5700663.5
+Upper-middle-income countries,2010,5732242.5
+Americas (FAO),2005,5755926.5
+Land Locked Developing Countries (FAO),2005,576111.75
+Americas (FAO),2019,5767066.5
+Upper-middle-income countries,2011,5781081.5
+Americas (FAO),1982,5786723.5
+Americas (FAO),2018,5793219.5
+Canada,2014,58195.33
+Americas (FAO),2011,5831325.5
+Upper-middle-income countries,2013,5837262.5
+Egypt,2016,5847.51
+Upper-middle-income countries,1968,5853897.5
+Upper-middle-income countries,1972,5920592.5
+Egypt,2015,5930.62
+Bosnia and Herzegovina,2020,5969.86
+Canada,2015,59790.31
+Egypt,2017,6005.78
+Land Locked Developing Countries (FAO),1995,601249.7
+South-eastern Asia (FAO),2011,6073.54
+Vietnam,2011,6073.54
+Upper-middle-income countries,2014,6197297.5
+Upper-middle-income countries,1969,6258809.5
+Mexico,2007,62994.44
+Central America (FAO),2007,63143.44
+Americas (FAO),2014,6327724.5
+Canada,2016,63776.14
+Canada,2021,65357.33
+Net Food Importing Developing Countries (FAO),1995,65633.68
+Canada,2020,65945.32
+Northern America (FAO),1961,663459.4
+Least Developed Countries (FAO),1979,6649.25
+Upper-middle-income countries,1985,6699256.5
+Least Developed Countries (FAO),1981,6704.19
+Upper-middle-income countries,1978,6800627.5
+Lebanon,2019,6897.15
+Northern Europe (FAO),2015,6907.49
+North America,1961,692861.1
+Northern Africa (FAO),2010,69339.71
+Ethiopia (former),1967,7.99
+Least Developed Countries (FAO),1990,7004.49
+Least Developed Countries (FAO),1991,7009.49
+Canada,2018,70286.32
+Mexico,1970,70347.82
+South-eastern Asia (FAO),2015,7042.57
+South-eastern Asia (FAO),2016,7042.57
+South-eastern Asia (FAO),2017,7042.57
+Vietnam,2015,7042.57
+Vietnam,2016,7042.57
+Vietnam,2017,7042.57
+Least Developed Countries (FAO),1993,7043.21
+Canada,2017,70433.22
+Least Developed Countries (FAO),1982,7049.25
+Central America (FAO),1970,70563.82
+Least Developed Countries (FAO),1995,7070.68
+Least Developed Countries (FAO),1996,7104.89
+Upper-middle-income countries,1975,7133647.5
+Net Food Importing Developing Countries (FAO),1996,71357.89
+Least Developed Countries (FAO),1992,7148.95
+Mexico,1971,71713.09
+Central America (FAO),1971,71979.09
+Northern America (FAO),1962,720222.6
+Mexico,2004,73010.52
+Central America (FAO),2004,73167.52
+Low-income countries,1995,7319.68
+Low-income countries,1993,7343.21
+Least Developed Countries (FAO),1980,7349.25
+Low-income countries,1996,7380.89
+Upper-middle-income countries,1974,7395071.5
+Bolivia,2011,7418.67
+Mexico,1972,74594.61
+Colombia,2011,7481.73
+Central America (FAO),1972,74848.61
+North America,1962,748610.5
+Ethiopia (former),1969,749.25
+Ethiopia (former),1971,749.25
+Ethiopia (former),1972,749.25
+Ethiopia (former),1973,749.25
+Ethiopia (former),1979,749.25
+Ethiopia (former),1980,749.25
+Ethiopia (former),1982,749.25
+Ethiopia (former),1983,749.25
+Ethiopia (former),1984,749.25
+Ethiopia (former),1985,749.25
+Ethiopia (former),1986,749.25
+Ethiopia (former),1987,749.25
+Ethiopia (former),1974,749.5
+Ethiopia (former),1975,749.5
+Ethiopia (former),1976,749.5
+Eastern Africa (FAO),1979,7502.25
+Ethiopia (former),1970,751.5
+Net Food Importing Developing Countries (FAO),1990,75124.49
+Ethiopia (former),1977,753.75
+Northern Africa (FAO),2016,75471.94
+Georgia,2015,75538.5
+Northern America (FAO),1964,756988.2
+Ethiopia (former),1978,757.99
+Northern Africa (FAO),2021,75857.61
+Japan,2015,75869.05
+Northern America (FAO),1963,760508.6
+Northern America (FAO),1966,762950.9
+Least Developed Countries (FAO),1983,7649.25
+Small Island Developing States (FAO),2020,7664.55
+Small Island Developing States (FAO),2021,7664.55
+Northern Europe (FAO),2020,7672.89
+Net Food Importing Developing Countries (FAO),1988,76909.72
+Africa,1993,770208.2
+Africa (FAO),1993,770208.2
+Slovakia,2021,7710.57
+North Macedonia,2010,77209.3
+Northern Africa (FAO),2020,77265.89
+Madagascar,2020,7742.79
+Low Income Food Deficit Countries (FAO),1979,7749.25
+Ethiopia,2018,778.04
+Least Developed Countries (FAO),2018,778.04
+Madagascar,2021,7790.58
+Least Developed Countries (FAO),2021,7790.61
+Low-income countries,2021,7790.61
+Northern Europe (FAO),2017,7795.42
+Central Asia (FAO),2010,78104.04
+Northern Europe (FAO),2016,7812.36
+Northern Europe (FAO),2018,7843.53
+Japan,2017,78615.48
+Land Locked Developing Countries (FAO),1993,787317.2
+Mongolia,2016,79.5
+North America,1964,791682.8
+Low Income Food Deficit Countries (FAO),1996,79291.89
+North America,1963,793106.7
+Japan,2018,79806.76
+Upper-middle-income countries,1979,8004063.5
+Central Asia (FAO),2009,80153.3
+Least Developed Countries (FAO),2020,8028.42
+Ethiopia,2017,803.7
+Least Developed Countries (FAO),2017,803.7
+Ethiopia (former),1981,804.2
+Low Income Food Deficit Countries (FAO),1998,80425.13
+Upper-middle-income countries,1984,8043454.5
+North America,1966,804832.8
+Japan,2020,80490.85
+Eastern Africa (FAO),1990,8052.49
+Japan,2016,80551.51
+Eastern Africa (FAO),1991,8076.49
+Low-income countries,2020,8078.42
+Least Developed Countries (FAO),1998,8097.13
+Eastern Africa (FAO),2016,812.32
+Ethiopia,2016,812.32
+Least Developed Countries (FAO),2016,812.32
+Eastern Africa (FAO),1992,8121.95
+Northern America (FAO),1967,813669.7
+Colombia,2010,8229.88
+Northern Africa (FAO),2014,82304.94
+Least Developed Countries (FAO),1984,8249.25
+Eastern Africa (FAO),2015,825.76
+Ethiopia,2015,825.76
+Least Developed Countries (FAO),2015,825.76
+Eastern Africa (FAO),1993,8254.21
+Low-income countries,2018,826.62
+Net Food Importing Developing Countries (FAO),1993,82608.21
+Bolivia,2015,8262.28
+Upper-middle-income countries,1981,8291556.5
+Low-income countries,1998,8315.13
+Africa,1986,832087.25
+Africa (FAO),1986,832087.25
+Bolivia,2016,8334.99
+Low Income Food Deficit Countries (FAO),1991,8339.49
+Bolivia,2013,8346.86
+Eastern Africa (FAO),1981,8384.19
+Low Income Food Deficit Countries (FAO),1990,8393.49
+Eastern Africa (FAO),1980,8422.25
+Least Developed Countries (FAO),1985,8449.25
+Ethiopia,2019,845.64
+Least Developed Countries (FAO),2019,845.64
+Low Income Food Deficit Countries (FAO),1997,84518.07
+Northern America (FAO),1968,846188.6
+Mexico,1973,84834.04
+Central America (FAO),1973,85124.04
+North America,1967,854076.75
+Low Income Food Deficit Countries (FAO),1981,8549.19
+Least Developed Countries (FAO),1986,8549.25
+Northern America (FAO),1965,855030.1
+Central Asia (FAO),2014,85750.42
+Eastern Africa (FAO),1996,8581.89
+Eastern Africa (FAO),1995,8584.68
+Low-income countries,2017,860.28
+Eastern Africa (FAO),1982,8607.25
+Japan,2019,86137.83
+Low Income Food Deficit Countries (FAO),1980,8644.25
+Least Developed Countries (FAO),1987,8649.25
+Net Food Importing Developing Countries (FAO),1998,86537.13
+Northern Africa (FAO),2015,86612.99
+Africa,1995,866331.7
+Africa (FAO),1995,866331.7
+Eastern Africa (FAO),2014,867.08
+Ethiopia,2014,867.08
+Least Developed Countries (FAO),2014,867.08
+Low-income countries,2015,876.43
+Africa,1998,882404.1
+Africa (FAO),1998,882404.1
+Africa,1990,886010.5
+Africa (FAO),1990,886010.5
+North America,1968,889535.94
+Northern Europe (FAO),2014,8902.73
+Least Developed Countries (FAO),2008,8908.59
+North America,1965,894135.75
+Low-income countries,2019,895.64
+Low Income Food Deficit Countries (FAO),1982,8951.25
+Africa,1992,897967.94
+Africa (FAO),1992,897967.94
+Northern Africa (FAO),2019,89803.9
+Low Income Food Deficit Countries (FAO),1993,89843.21
+Northern Europe (FAO),2019,8991.29
+Georgia,2016,90005.1
+Least Developed Countries (FAO),1988,9026.72
+Africa,1977,903127.75
+Africa (FAO),1977,903127.75
+Low-income countries,2008,9087.59
+Eastern Africa (FAO),1983,9113.25
+Central Asia (FAO),2011,91234.81
+Ethiopia,2010,913.94
+Least Developed Countries (FAO),2010,913.94
+Africa,1988,914236.75
+Africa (FAO),1988,914236.75
+Northern Europe (FAO),2021,9154.93
+Ethiopia,2011,916.61
+Least Developed Countries (FAO),2011,916.61
+Georgia,2012,91797.3
+Ethiopia,2012,920.87
+Ethiopia,2013,920.87
+Least Developed Countries (FAO),2012,920.87
+Least Developed Countries (FAO),2013,920.87
+Central Asia (FAO),2012,92205.38
+Vietnam,2020,9253.78
+Mexico,1974,92721.41
+Net Food Importing Developing Countries (FAO),1992,92728.95
+Africa,1985,928887.25
+Africa (FAO),1985,928887.25
+Central America (FAO),1974,93021.41
+Lebanon,2021,931.5
+Least Developed Countries (FAO),2006,9336.25
+Africa,1997,933601.06
+Africa (FAO),1997,933601.06
+Northern Africa (FAO),2017,93650.02
+Low Income Food Deficit Countries (FAO),1983,9382.25
+Africa,1991,938394.5
+Africa (FAO),1991,938394.5
+Africa,1987,942984.25
+Africa (FAO),1987,942984.25
+Africa,1996,945988.9
+Africa (FAO),1996,945988.9
+Central Asia (FAO),2021,94837.94
+Chile,2017,949205.8
+Central Asia (FAO),2013,95310.79
+Low-income countries,2006,9549.25
+Mexico,1975,95902.62
+Central America (FAO),1975,96213.62
+Net Food Importing Developing Countries (FAO),1997,96779.07
+Eastern Africa (FAO),1998,9713.13
+Least Developed Countries (FAO),2005,9713.75
+Eastern Africa (FAO),1986,9745.25
+Least Developed Countries (FAO),1978,9757.99
+Northern Africa (FAO),2018,97735.05
+South-eastern Asia (FAO),2020,9821.59
+Eastern Africa (FAO),1985,9827.25
+Eastern Africa (FAO),1987,9848.25
+Low-income countries,2010,985.94
+Eastern Africa (FAO),1984,9868.25
+Central Asia (FAO),2015,98842.64
+Low-income countries,2013,990.87
+Least Developed Countries (FAO),2009,9908.62
+Low-income countries,2005,9938.75
+Net Food Importing Developing Countries (FAO),1991,99659.49
