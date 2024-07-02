@@ -336,41 +336,41 @@ def many_models(x,y,xt,yt):
     
     
        # Test for max_leaf_nodes
-    max_leaf = range(2,40)
-    max_leaves = {'train_score':[],'test_score':[],'max_leaf': []}
-    
-    # Loop through leaf values
-    for m in max_leaf:
-        
-        # Create Random Forest Classifier instance with depth
-        model = RandomForestClassifier(max_leaf_nodes=m,random_state=13)
-        
-        # Fit model
-        model.fit(x,y)
-        
-        # Predict
-        X_test_pred = model.predict(xt)
-        y_train_pred = model.predict(x)
-        
-        # Store scores and best amounts in leaves dictionary
-        max_leaves['train_score'].append(balanced_accuracy_score(y,y_train_pred))
-        max_leaves['test_score'].append(balanced_accuracy_score(yt,X_test_pred))
-        max_leaves['max_leaf'].append(m)
-        
-    # Store dictionary in a dataframe
-    max_leaf_df = pd.DataFrame(max_leaves)
-    
-     # Plot best min_split on graph
-    max_leaf_df.plot(title='Random Forest Best max leaf',x='max_leaf')
-    
-    # Set split_df index to 'min_split'
-    max_leaf_df_tolist = max_leaf_df.set_index('max_leaf').sort_values(by='test_score',ascending=False)
-    max_leaf_df = max_leaf_df.sort_values(by='test_score',ascending=False)
-    print(f'best max_leaf balanced test score: \n{max_leaf_df.head()}')
-    
-    # Save to list
-    best_max_leaf = max_leaf_df_tolist.head().index.tolist()
-    print(f'best max leaf \n{best_max_leaf}\n')
+    #max_leaf = range(2,40)
+    #max_leaves = {'train_score':[],'test_score':[],'max_leaf': []}
+    #
+    ## Loop through leaf values
+    #for m in max_leaf:
+    #    
+    #    # Create Random Forest Classifier instance with depth
+    #    model = RandomForestClassifier(max_leaf_nodes=m,random_state=13)
+    #    
+    #    # Fit model
+    #    model.fit(x,y)
+    #    
+    #    # Predict
+    #    X_test_pred = model.predict(xt)
+    #    y_train_pred = model.predict(x)
+    #    
+    #    # Store scores and best amounts in leaves dictionary
+    #    max_leaves['train_score'].append(balanced_accuracy_score(y,y_train_pred))
+    #    max_leaves['test_score'].append(balanced_accuracy_score(yt,X_test_pred))
+    #    max_leaves['max_leaf'].append(m)
+    #    
+    ## Store dictionary in a dataframe
+    #max_leaf_df = pd.DataFrame(max_leaves)
+    #
+    # # Plot best min_split on graph
+    #max_leaf_df.plot(title='Random Forest Best max leaf',x='max_leaf')
+    #
+    ## Set split_df index to 'min_split'
+    #max_leaf_df_tolist = max_leaf_df.set_index('max_leaf').sort_values(by='test_score',ascending=False)
+    #max_leaf_df = max_leaf_df.sort_values(by='test_score',ascending=False)
+    #print(f'best max_leaf balanced test score: \n{max_leaf_df.head()}')
+    #
+    ## Save to list
+    #best_max_leaf = max_leaf_df_tolist.head().index.tolist()
+    #print(f'best max leaf \n{best_max_leaf}\n')
     
     
    
@@ -383,36 +383,35 @@ def many_models(x,y,xt,yt):
         'max_depth': best_rf,
         'min_samples_leaf': best_split,
         'min_split': best_split,
-        'max_leaf': best_max_leaf
+        #'max_leaf': best_max_leaf
     }
 
     # Create dictionary to store results
-    best_results = {'n_estimators':[],'max_depth':[],'min_samples_leaf':[],'min_split':[],'max_leaf':[],'train_score':[],'test_score':[]}
+    #,'max_leaf':[]
+    best_results = {'n_estimators':[],'max_depth':[],'min_samples_leaf':[],'min_split':[],'train_score':[],'test_score':[]}
     
     # Loop through combinations(refactor in future for efficiency)
     for e in best_params['n_estimators']:
         for m in best_params['max_depth']:
             for l in best_params['min_samples_leaf']:
                 for s in best_params['min_split']:
-                    for a in best_params['max_leaf']:
+                    #for a in best_params['max_leaf']:
                 # Create random forest model with best parameters
-                        rf_model = RandomForestClassifier(n_estimators=e,max_depth=m,min_samples_leaf=l,min_samples_split=s,max_leaf_nodes=a,random_state=13)
-
-                        # Fit data
-                        rf_model.fit(x,y)
-
-                        # Predictions
-                        test_pred = rf_model.predict(xt)
-                        train_pred = rf_model.predict(x)
-
-                        # Append balanced scores
-                        best_results['train_score'].append(balanced_accuracy_score(y,train_pred))
-                        best_results['test_score'].append(balanced_accuracy_score(yt,test_pred))
-                        best_results['n_estimators'].append(e)
-                        best_results['max_depth'].append(m)
-                        best_results['min_samples_leaf'].append(l)
-                        best_results['min_split'].append(s)
-                        best_results['max_leaf'].append(a)
+                # ,max_leaf_nodes=a
+                    rf_model = RandomForestClassifier(n_estimators=e,max_depth=m,min_samples_leaf=l,min_samples_split=s,random_state=13)#
+                    # Fit data
+                    rf_model.fit(x,y)#
+                    # Predictions
+                    test_pred = rf_model.predict(xt)
+                    train_pred = rf_model.predict(x)#
+                    # Append balanced scores
+                    best_results['train_score'].append(balanced_accuracy_score(y,train_pred))
+                    best_results['test_score'].append(balanced_accuracy_score(yt,test_pred))
+                    best_results['n_estimators'].append(e)
+                    best_results['max_depth'].append(m)
+                    best_results['min_samples_leaf'].append(l)
+                    best_results['min_split'].append(s)
+                    ##best_results['max_leaf'].append(a)
                 
     # Save best results to dataframe
     best_results_df = pd.DataFrame(best_results).sort_values(by='test_score',ascending=False)
@@ -424,11 +423,13 @@ def many_models(x,y,xt,yt):
     best_d = best_results_df['max_depth'].iloc[0]
     best_l = best_results_df['min_samples_leaf'].iloc[0]
     best_s = best_results_df['min_split'].iloc[0]
-    best_a = best_results_df['max_leaf'].iloc[0]
-    print(f'best n_estimators: {best_n} \nbest max_depth: {best_d} \nbest leaves: {best_l} \nBest min_split: {best_s} \nbest max_leaf: {best_a}')
+    #best_a = best_results_df['max_leaf'].iloc[0]
+    #best max_leaf: {best_a}
+    print(f'best n_estimators: {best_n} \nbest max_depth: {best_d} \nbest leaves: {best_l} \nBest min_split: {best_s} \n')
     
     # Create random forest instance with best parameters
-    tuned_rf = RandomForestClassifier(n_estimators=best_results_df['n_estimators'].iloc[0], max_depth=best_results_df['max_depth'].iloc[0], min_samples_leaf=best_results_df['min_samples_leaf'].iloc[0],min_samples_split=best_results_df['min_split'].iloc[0],max_leaf_nodes=best_results_df['max_leaf'].iloc[0],random_state=13)    
+    #,max_leaf_nodes=best_results_df['max_leaf'].iloc[0]
+    tuned_rf = RandomForestClassifier(n_estimators=best_results_df['n_estimators'].iloc[0], max_depth=best_results_df['max_depth'].iloc[0], min_samples_leaf=best_results_df['min_samples_leaf'].iloc[0],min_samples_split=best_results_df['min_split'].iloc[0],random_state=13)    
     
     # Train the tuned model
     tuned_rf.fit(x,y)
