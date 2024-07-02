@@ -1,14 +1,17 @@
 # group-project-2
 
+# Objective:
 
-# Description
+# Resources-Data set summary
+
+# Project Overview:
 
 
-# Requirements
+# Target variable
 
-# Instructions
 
-# Summary
+# Other high-level details around your approach
 
-#
+
+# Conclusion
 
