@@ -416,7 +416,7 @@ def many_models(x,y,xt,yt):
     # Save best results to dataframe
     best_results_df = pd.DataFrame(best_results).sort_values(by='test_score',ascending=False)
     best_results_df = best_results_df.set_index('test_score')
-    print(f'\nbest results:\n{best_results_df.head()}')
+    print(f'\nbest results:\n{best_results_df}')
     
     # Save best parameters to print
     best_n = best_results_df['n_estimators'].iloc[0]
