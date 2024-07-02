@@ -219,7 +219,7 @@ def many_models(x,y,xt,yt):
     for i in leaf:
         
         # Create Random Forest Classifier instance with depth
-        model = RandomForestClassifier(min_samples_leaf=i,random_state=13)
+        model = RandomForestClassifier(max_depth=models_df['max_depth'].iloc[0],min_samples_leaf=i,random_state=13)
         
         # Fit model
         model.fit(x,y)
@@ -265,7 +265,7 @@ def many_models(x,y,xt,yt):
     for e in est:
         
         # Create random forest model
-        est_model = RandomForestClassifier(n_estimators=e,random_state=13)
+        est_model = RandomForestClassifier(max_depth=models_df['max_depth'].iloc[0],min_samples_leaf=leaves_df['min_leaf'].iloc[0],n_estimators=e,random_state=13)
         
         # Fit model 
         est_model.fit(x,y)
@@ -303,7 +303,7 @@ def many_models(x,y,xt,yt):
     for s in split:
         
         # Create Random Forest Classifier instance with depth
-        model = RandomForestClassifier(min_samples_split=s,random_state=13)
+        model = RandomForestClassifier(max_depth=models_df['max_depth'].iloc[0],min_samples_leaf=leaves_df['min_leaf'].iloc[0],n_estimators=estimators_df['n_estimators'].iloc[0],min_samples_split=s,random_state=13)
         
         # Fit model
         model.fit(x,y)
