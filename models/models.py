@@ -219,7 +219,7 @@ def many_models(x,y,xt,yt):
     for i in leaf:
         
         # Create Random Forest Classifier instance with depth
-        model = RandomForestClassifier(min_samples_leaf=i,random_state=13)
+        model = RandomForestClassifier(max_depth=models_df['max_depth'].iloc[0],min_samples_leaf=i,random_state=13)
         
         # Fit model
         model.fit(x,y)
@@ -265,7 +265,7 @@ def many_models(x,y,xt,yt):
     for e in est:
         
         # Create random forest model
-        est_model = RandomForestClassifier(n_estimators=e,random_state=13)
+        est_model = RandomForestClassifier(max_depth=models_df['max_depth'].iloc[0],min_samples_leaf=leaves_df['min_leaf'].iloc[0],n_estimators=e,random_state=13)
         
         # Fit model 
         est_model.fit(x,y)
@@ -274,7 +274,7 @@ def many_models(x,y,xt,yt):
         X_test_pred = est_model.predict(xt)
         y_train_pred = est_model.predict(x)
         
-        # Store results in dictionairy
+        # Store results in dictionary
         est_models['train_score'].append(balanced_accuracy_score(y,y_train_pred))
         est_models['test_score'].append(balanced_accuracy_score(yt,X_test_pred))
         est_models['n_estimators'].append(e)
@@ -303,7 +303,7 @@ def many_models(x,y,xt,yt):
     for s in split:
         
         # Create Random Forest Classifier instance with depth
-        model = RandomForestClassifier(min_samples_split=s,random_state=13)
+        model = RandomForestClassifier(max_depth=models_df['max_depth'].iloc[0],min_samples_leaf=leaves_df['min_leaf'].iloc[0],n_estimators=estimators_df['n_estimators'].iloc[0],min_samples_split=s,random_state=13)
         
         # Fit model
         model.fit(x,y)
@@ -398,7 +398,7 @@ def many_models(x,y,xt,yt):
                     #for a in best_params['max_leaf']:
                 # Create random forest model with best parameters
                 # ,max_leaf_nodes=a
-                    rf_model = RandomForestClassifier(n_estimators=e,max_depth=m,min_samples_leaf=l,min_samples_split=s,random_state=13)#
+                    rf_model = RandomForestClassifier(n_estimators=e,max_depth=m,min_samples_leaf=l,min_samples_split=s,random_state=13)
                     # Fit data
                     rf_model.fit(x,y)#
                     # Predictions
@@ -451,7 +451,17 @@ def many_models(x,y,xt,yt):
             columns=['Model Name','Trained Score', 'Test Score','Balanced Trained Score','Balanced Test Score']
     ).set_index('Model Name')
     best_df['Balanced Difference'] = (best_df['Balanced Trained Score'] - best_df['Balanced Test Score'])
+    
+    # Print tuned 'Balance Trained Score' and 'Balance Test Score' to show Difference column 
+    print('Balanced Trained Score')
+    print(best_df['Balanced Trained Score'])
+    print('Balanced Test Score')
+    print(best_df['Balanced Test Score'])
+    
+    # Drop Balanced Trained Score for easier readability
     best_df = best_df[['Trained Score','Test Score','Balanced Test Score','Balanced Difference']]
+    
+    # Add tuned parameters to initial comparison dataframe
     comparison_df = pd.concat([comparison,best_df]).sort_values(by='Balanced Test Score',ascending=False)
     print(f'updated comparison DataFrame \n{comparison_df.head(8)}')
     
