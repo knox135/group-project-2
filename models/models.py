@@ -680,10 +680,10 @@ def many_models_full(x,y,xt,yt):
     # Store dictionary in a dataframe
     max_leaf_df = pd.DataFrame(max_leaves)
     
-    # Plot best min_split on graph
+    # Plot best max_leaf on graph
     max_leaf_df.plot(title='Random Forest Best max leaf',x='max_leaf')
     
-    # Set split_df index to 'min_split'
+    # Set max_leaf_df index to 'max_leaf'
     max_leaf_df_tolist = max_leaf_df.set_index('max_leaf').sort_values(by='test_score',ascending=False)
     max_leaf_df = max_leaf_df.sort_values(by='test_score',ascending=False)
     print(f'best max_leaf balanced test score: \n{max_leaf_df.head()}')
@@ -1328,7 +1328,7 @@ def many_models_no_leaf(x,y,xt,yt):
     tuned_test = test_tuned_rf.predict(xt)
     
     # view tuned Random Forest Model scores and classification report
-    print(f'\nTest best Random Forest Tuned Parameters scores "max leaf" \n')
+    print(f'\nTest best Random Forest Tuned Parameters scores "no leaf" \n')
     print(f'\nTest Best Random Forest Tuned Parameters Scores \nTest Accuracy: {test_tuned_rf.score(xt,yt)}\nbalanced test score: {balanced_accuracy_score(yt,tuned_test)}')
     print(f'classification report: \n {classification_report(yt,tuned_test)}')
     
@@ -1408,7 +1408,7 @@ def many_models_no_leaf(x,y,xt,yt):
     best_test = tuned_rf.predict(xt)
     
     # View tuned Random Forest Model scores and classification report
-    print(f'best Random Forest Tuned Parameters scores "max leaf" \n')
+    print(f'best Random Forest Tuned Parameters scores "no leaf" \n')
     print(f'\nBest Random Forest Tuned Parameters Scores \nTest Accuracy: {tuned_rf.score(xt,yt)}\nbalanced test score: {balanced_accuracy_score(yt,best_test)}')
     print(f'classification report: \n {classification_report(yt,best_test)}')
     
