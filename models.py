@@ -11,6 +11,7 @@ from sklearn.metrics import classification_report
 
 
 """ Format is: 'model = models.many_models(X_train, y_train, X_test, y_test)'
+
  if you get zero division errors and/or y_pred has values not in y_true,
  check and make sure your test values are expected.
  EX: 'arr([3,4,5,6,7,8,9])'
