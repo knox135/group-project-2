@@ -20,8 +20,9 @@ Our goal target variable is "quality" to determine if a wine will be rated good 
 
 
 # Requirements:
-pandas
-sklearn
+python  
+pandas  
+sklearn  
 	-metrics  
 		- accuracy_score  
 		- balanced_accuracy_score  
