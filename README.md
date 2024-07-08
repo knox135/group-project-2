@@ -20,10 +20,10 @@ Our goal target variable is "quality" to determine if a wine will be rated good 
 
 
 # Requirements:
-python  
-pandas  
-sklearn  
-	-metrics  
+- python  
+- pandas  
+- sklearn  
+	- metrics  
 		- accuracy_score  
 		- balanced_accuracy_score  
 		- classification_report  
@@ -39,8 +39,8 @@ sklearn
 		- SVC  
 		- GradientBoostingClassifier  
 		- AdaBoostClassifier  
-matplotlib  
-seaborn  
+- matplotlib  
+- seaborn  
 
 
 License: UC Irvine Machine Learning Repository  
