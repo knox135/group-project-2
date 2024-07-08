@@ -67,5 +67,23 @@ Baseline and best score summary visualilaztion.
 Baseline Results Graph  
 ![alt text](./presentation/baseline.png)  
 
-Final Results Graph  
-![alt text](./presentation/final_results.png)
+max depth  
+
+![alt text](./presentation/max_depth.png)  
+
+Best min_leaf  
+
+![alt text](./presentation/min_leaf.png)  
+
+Best n_estimators  
+
+![alt text](./presentation/n_estimators.png)  
+
+Best min_split  
+
+![alt text](./presentation/min_split.png)  
+
+Final Results Graph    
+
+![alt text](./presentation/final_results.png)  
+
