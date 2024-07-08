@@ -22,34 +22,34 @@ Our goal target variable is "quality" to determine if a wine will be rated good 
 # Requirements:
 pandas
 sklearn
-	-metrics
-		- accuracy_score
-		- balanced_accuracy_score
-		- classification_report
-	- model_selection
-		- train_test_split
-	- utils
-		- resample
-	- preprocessing
-		- StandardScaler
-	- ensemble
-		- RandomForestClassifier
-		- LogisticRegression
-		- SVC
-		- GradientBoostingClassifier
-		- AdaBoostClassifier
-matplotlib
-seaborn
+	-metrics  
+		- accuracy_score  
+		- balanced_accuracy_score  
+		- classification_report  
+	- model_selection  
+		- train_test_split  
+	- utils  
+		- resample  
+	- preprocessing  
+		- StandardScaler  
+	- ensemble  
+		- RandomForestClassifier  
+		- LogisticRegression  
+		- SVC  
+		- GradientBoostingClassifier  
+		- AdaBoostClassifier  
+matplotlib  
+seaborn  
 
 
-License: UC Irvine Machine Learning Repository
-This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
-This allows for the sharing and adaptation of the datasets for any purpose, provided that the appropriate credit is given.
-DOI: 10.24432/C56S3T
-https://archive.ics.uci.edu/dataset/186/wine+quality
-archive.ics.uci.eduarchive.ics.uci.edu
-UCI Machine Learning Repository
-Discover datasets around the world!
+License: UC Irvine Machine Learning Repository  
+This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.  
+This allows for the sharing and adaptation of the datasets for any purpose, provided that the appropriate credit is given.  
+DOI: 10.24432/C56S3T  
+https://archive.ics.uci.edu/dataset/186/wine+quality  
+archive.ics.uci.eduarchive.ics.uci.edu  
+UCI Machine Learning Repository  
+Discover datasets around the world!  
 
 # Instructions- 
 1. Install the requirements
