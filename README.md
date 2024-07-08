@@ -58,9 +58,14 @@ Discover datasets around the world!
 2. Run main.ipynb file
 
 # Conclusion
-We were sucessful in predicting to a 93.2% balanced accuracy score for our RandomForestClassifier tuned model.
+We were sucessful in predicting to a 93.6% balanced accuracy score for our RandomForestClassifier tuned model.
 Baseline and best score summary visualilaztion.
 
 
 
-#Add images to reflest Baseline and Best Score summary. 
+
+Baseline Results Graph  
+![alt text](./presentation/baseline.png)  
+
+Final Results Graph  
+![alt text](./presentation/final_results.png)
