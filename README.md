@@ -63,8 +63,9 @@ Baseline and best score summary visualilaztion.
 
 
 
-#Add images to reflect Baseline and Best Score summary. 
-Baseline Results Graph
-![alt text](./presentation/baseline.png)
-Final Results Graph
+
+Baseline Results Graph  
+![alt text](./presentation/baseline.png)  
+
+Final Results Graph  
 ![alt text](./presentation/final_results.png)
