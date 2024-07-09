@@ -65,12 +65,15 @@ Baseline and best score summary visualilaztion.
 
 
 
-![alt text](./presentation/baseline.png) 
-  
-    
+![alt text](./presentation/baseline.png)  
+
+
+![alt text](./presentation/importance.png)  
+
+
 ![alt text](./presentation/max_depth.png)  
-  
-  
+
+
 ![alt text](./presentation/min_leaf.png)  
   
   
