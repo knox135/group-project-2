@@ -16,6 +16,10 @@ The goal is to build a robust predictive model to classify wine quality ratings 
 ### Target variable:
 Our goal target variable is "quality" to determine if a wine will be rated good or bad. Thresholds were assigned by choice based on a 3 to 9 scale, we decided to use 6 to 7 to error on ratings being higher based on 5 and 6 having the highest data counts.  We wanted the mediocre wines to be qualified as "bad".
 
+# Other Version?
+# Target Variable:
+Our target variable is 'quality', which aims to determine if a wine will be rated good or bad. The quality ratings in our data set range from 3 to 9. To classify the wines, we chose a threshold where wines rate 6 and above are considered 'good', while those rated below 6 are considered 'bad'. This decision was based on the distribution of the ratings where, 5 and 6 had the highest counts. By setting this threshold, we ensure that wines rated as mediocre are classified as 'bad', allowing us to focus on distinguishing the higher quality wines frome the rest.
+
 
 
 ### Requirements:
