@@ -64,7 +64,7 @@ Baseline and best score summary visualilaztion.
 
 
 
-Baseline Results Graph  
+
 ![alt text](./presentation/baseline.png) 
   
     
