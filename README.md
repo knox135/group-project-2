@@ -52,7 +52,7 @@ archive.ics.uci.eduarchive.ics.uci.edu
 UCI Machine Learning Repository  
 Discover datasets around the world!  
 
-# Instructions- 
+# Instructions 
 1. Install the requirements
 
 2. Run main.ipynb file
@@ -65,25 +65,23 @@ Baseline and best score summary visualilaztion.
 
 
 Baseline Results Graph  
-![alt text](./presentation/baseline.png)  
-
-max depth  
-
+![alt text](./presentation/baseline.png) 
+  
+    
 ![alt text](./presentation/max_depth.png)  
-
-Best min_leaf  
-
+  
+  
 ![alt text](./presentation/min_leaf.png)  
-
-Best n_estimators  
-
+  
+  
 ![alt text](./presentation/n_estimators.png)  
-
-Best min_split  
-
+  
+  
 ![alt text](./presentation/min_split.png)  
+  
+  
+![alt text](./presentation/max_leaf.png)  
+  
 
-Final Results Graph    
-
-![alt text](./presentation/final_results.png)  
+![alt text](./presentation/final_results.png) 
 
