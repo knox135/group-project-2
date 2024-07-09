@@ -24,7 +24,7 @@ The methods we used for our collection, steps to clean and prepprocess data. How
 Our initial explorations in addition to any key insights or patterns that we found.
 
 ## Model Implementation
-Overview of the machine learning models used, how we implemented them. Could add code snppets her for example of the model training
+Overview of the machine learning models used, how we implemented them. Could add code snippets here for example of the model training
 
 ## Evaluation Metrics
 Explain what were using like accuracy, balanced accuracy and other metrics.
