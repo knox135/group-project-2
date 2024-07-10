@@ -3,7 +3,17 @@
 
 We are predicting the quality of red and white wines from the north of portugal, using machine learning techniques.  We will use the UCI data sets to improve our model, and our ability to predict the quality of the wines. We are analysing the data looking for a specific outcome of good or bad quality.  (Based on expert reveiws) 
 
-# Resources-Data set summary.  
+## Executive Summary
+Our goal is to predict wine quality based on chemical properties using machine learning techniques. We implemented and optimized models to achieve high accuracy and provide insights into feature importance.
+
+## Table of Contents
+
+## Intrduction
+We all liked to have a good glass of wine and noticed that there was a great deal of data out their having to do with wine quality. Once we looked more into the project we realized that there was plenty of room to expand it using region, grape type and even weather if time permitted.
+
+Wine quality prediction is an important task in the wine industry, as it directly impacts consumer satisfaction and market success. By accurately predicting wine quality, producers and maintain high standards and consistency in their products.Our project aims to leverage machine learning techniques to predict wine quality based on various chemical properties of the wine.
+
+## Resources-Data set summary.  
 The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult: http://www.vinhoverde.pt/en/ or the reference [Cortez et al., 2009].  Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
 
@@ -11,13 +21,41 @@ The two datasets are related to red and white variants of the Portuguese "Vinho 
 The methods we used for our collection, steps to clean and prepprocess data. How did we hadle the missing values and outliers?
 
 ## Exploratory Data Analysis
-Our initial explorations in addition to any key insights or patterns that we found.
+Our approach was to build multiple models to take the base data and optimize it to predict the best scores using Random Forest Classifier, Gradient Boosting, Adaptive Boosting, Low/High Estimators, Logistic Regression, SVC Poly, and SVC Sigmoid 
+
+Once we got the baseline scores Random Forest Classifier was the highest balanced test score.  So we decided to use that and built a function that searches through different Random Forest Classifier parameters to get the highest balance test score for the purpose of data optimization.
+
 
 ## Model Implementation
-Overview of the machine learning models used, how we implemented them. Could add code snippets here for example of the model training
+Our Jupyter notebook details the data extraction, cleaning, transformation, and exporting of the cleaned data as CSV files. A Python script effectively initializes, trains, and evaluates models, achieving ≥75% classification accuracy or 0.80 R-squared as required.
+
 
 ## Evaluation Metrics
-Explain what were using like accuracy, balanced accuracy and other metrics.
+
+
+Our approach was to build multiple models to take the base data and optimize it to predict the best scores using Random Forest Classifier, Gradient Boosting, Adaptive Boosting, Low/High Estimators, Logistic Regression, SVC Poly, and SVC Sigmoid.
+
+Random Forest Classifier was the highest balanced test score.  So we decided to use that and built a function that searches through different Random Forest Classifier parameters to get the highest balance test score for the purpose of data optimization.
+
+Random Forest 
+Test Accuracy: 0.6726153846153846
+balanced test score: 0.3510074145712444
+classification report: 
+               precision    recall  f1-score   support
+
+           3           0.00      0.00      0.00                 7
+           4           0.64      0.15      0.24               48
+           5           0.70      0.74      0.72             528
+           6           0.64      0.77      0.70             705
+           7           0.71      0.46      0.56             282
+           8           0.95      0.33      0.49               54
+           9           0.00      0.00      0.00                 1
+
+ accuracy                                       0.67      1625
+ macro avg          0.52      0.35      0.39      1625
+ weighted avg     0.68      0.67      0.66      1625
+
+
 
 ## Feature importance 
 ![Feature importance](./presentation/importance.png)  
@@ -31,6 +69,8 @@ Explain what were using like accuracy, balanced accuracy and other metrics.
 
 
 ## Conclusion
+![Final Result Table](./presentation/final_scores.png)
+
 - The Initial model shows overfitting and poor handling of class imbalance.
 
 - The Binned model shows significant improvement in generalization and handling of class imbalance.
@@ -42,6 +82,30 @@ Explain what were using like accuracy, balanced accuracy and other metrics.
 - The Sampled and Binned model is the most robust and well-performing approach based on these metrics
 
 
+
+
+![alt text](./presentation/baseline.png)  
+
+
+![alt text](./presentation/importance.png)  
+
+
+![alt text](./presentation/max_depth.png)  
+
+
+![alt text](./presentation/min_leaf.png)  
+  
+  
+![alt text](./presentation/n_estimators.png)  
+  
+  
+![alt text](./presentation/min_split.png)  
+  
+  
+![alt text](./presentation/max_leaf.png)  
+  
+
+![alt text](./presentation/final_results.png) 
 ## References
 Data sets,tools used, any writings we might have
 
@@ -101,6 +165,7 @@ Discover datasets around the world!
 
 2. Run main.ipynb file
 
+<<<<<<< HEAD
 
 
 # Conclusion
@@ -145,3 +210,5 @@ Baseline and best score summary visualilaztion.
 
 ![alt text](./presentation/final_results.png) 
 
+=======
+>>>>>>> 2c22b3804031a69a46f349a15b576345494183b6
