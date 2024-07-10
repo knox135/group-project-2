@@ -1,22 +1,10 @@
-# Project Title
+# group-project-2
 
 
-## Executive Summary: 
-We are predicting the quality of red and white wines from the north of portugal, using machine learning techniques.  We will use the UCI data sets to improve our model, and our ability to predict the quality of the wines. We are analysing the data looking for a specific outcome of good or bad quality.  (Based on expert reveiws) (Move UCI data down to resource section?)
-
-## Table of Contents
-
-## Introduction
-Everyone in the group enjoyed a good wine. We noticed that there was a lot of data floating around that related to the quality as well. In addition to the amount of data at our desposal, we could possibly scale up our project to include region, grape type and weather.
-
-Wine quality prediction is important in the wine industry, as it directly impacts consumer satisfaction and market success. By accurately predicting wine quality, producers can maintain higher standards and consistency in their products. Our project aims to leverage machine learning techniques to predict wine quality based on various chemical properties of the wine.
-
-### Objective: 
 We are predicting the quality of red and white wines from the north of portugal, using machine learning techniques.  We will use the UCI data sets to improve our model, and our ability to predict the quality of the wines. We are analysing the data looking for a specific outcome of good or bad quality.  (Based on expert reveiws) 
 
-
-### Resources-Data set summary:  
-The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult: [www.vinhoverde.pt](http://www.vinhoverde.pt/en/en/homepage) or the reference [Cortez et al., 2009].  Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
+# Resources-Data set summary.  
+The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult: http://www.vinhoverde.pt/en/ or the reference [Cortez et al., 2009].  Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
 
 ## Data Collection and Cleaning
@@ -94,12 +82,12 @@ UCI Machine Learning Repository
 
 Discover datasets around the world!  
 
-### Instructions 
+# Instructions 
 1. Install the requirements
 
 2. Run main.ipynb file
 
-### Conclusion
+# Conclusion
 We were sucessful in predicting to a 93.6% balanced accuracy score for our RandomForestClassifier tuned model.
 Baseline and best score summary visualilaztion.
 
