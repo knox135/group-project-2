@@ -21,13 +21,41 @@ The two datasets are related to red and white variants of the Portuguese "Vinho 
 The methods we used for our collection, steps to clean and prepprocess data. How did we hadle the missing values and outliers?
 
 ## Exploratory Data Analysis
-Our initial explorations in addition to any key insights or patterns that we found.
+Our approach was to build multiple models to take the base data and optimize it to predict the best scores using Random Forest Classifier, Gradient Boosting, Adaptive Boosting, Low/High Estimators, Logistic Regression, SVC Poly, and SVC Sigmoid 
+
+Once we got the baseline scores Random Forest Classifier was the highest balanced test score.  So we decided to use that and built a function that searches through different Random Forest Classifier parameters to get the highest balance test score for the purpose of data optimization.
+
 
 ## Model Implementation
-Overview of the machine learning models used, how we implemented them. Could add code snippets here for example of the model training
+Our Jupyter notebook details the data extraction, cleaning, transformation, and exporting of the cleaned data as CSV files. A Python script effectively initializes, trains, and evaluates models, achieving ≥75% classification accuracy or 0.80 R-squared as required.
+
 
 ## Evaluation Metrics
-Explain what were using like accuracy, balanced accuracy and other metrics.
+
+
+Our approach was to build multiple models to take the base data and optimize it to predict the best scores using Random Forest Classifier, Gradient Boosting, Adaptive Boosting, Low/High Estimators, Logistic Regression, SVC Poly, and SVC Sigmoid.
+
+Random Forest Classifier was the highest balanced test score.  So we decided to use that and built a function that searches through different Random Forest Classifier parameters to get the highest balance test score for the purpose of data optimization.
+
+Random Forest 
+Test Accuracy: 0.6726153846153846
+balanced test score: 0.3510074145712444
+classification report: 
+               precision    recall  f1-score   support
+
+           3           0.00      0.00      0.00                 7
+           4           0.64      0.15      0.24               48
+           5           0.70      0.74      0.72             528
+           6           0.64      0.77      0.70             705
+           7           0.71      0.46      0.56             282
+           8           0.95      0.33      0.49               54
+           9           0.00      0.00      0.00                 1
+
+ accuracy                                       0.67      1625
+ macro avg          0.52      0.35      0.39      1625
+ weighted avg     0.68      0.67      0.66      1625
+
+
 
 ## Feature importance 
 Analysis of feature importance, this is where the visualization of the top features should go
