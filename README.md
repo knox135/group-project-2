@@ -104,6 +104,9 @@ Baseline and best score summary visualilaztion.
 
 
 ## Conclusion
+
+![Final Result Table](./presentation/final_scores.png)
+
 - The Initial model shows overfitting and poor handling of class imbalance.
 
 - The Binned model shows significant improvement in generalization and handling of class imbalance.
