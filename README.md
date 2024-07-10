@@ -6,22 +6,20 @@ We are predicting the quality of red and white wines from the north of portugal,
 ## Executive Summary
 Our goal is to predict wine quality based on chemical properties using machine learning techniques. We implemented and optimized models to achieve high accuracy and provide insights into feature importance.
 
-## Table of Contents
-
 ## Intrduction
 We all liked to have a good glass of wine and noticed that there was a great deal of data out their having to do with wine quality. Once we looked more into the project we realized that there was plenty of room to expand it using region, grape type and even weather if time permitted.
 
-Wine quality prediction is an important task in the wine industry, as it directly impacts consumer satisfaction and market success. By accurately predicting wine quality, producers and maintain high standards and consistency in their products.Our project aims to leverage machine learning techniques to predict wine quality based on various chemical properties of the wine.
+Wine quality prediction is an important task in the wine industry, as it directly impacts consumer satisfaction and market success. By accurately predicting wine quality, producers and maintain high standards and consistency in their products. Our project aims to leverage machine learning techniques to predict wine quality based on various chemical properties of the wine.
 
 ## Resources-Data set summary.  
-The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult: http://www.vinhoverde.pt/en/ or the reference [Cortez et al., 2009].  Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
+The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult: http://www.vinhoverde.pt or the reference [Cortez et al., 2009].  Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
 
 ## Data Collection and Cleaning
-We used the 'dropna' method to remove any recrds with missing values to ensure our dataset was complete for analysis. To handle outliers that might affect the performance of the models we seperated our wines into bins. Categorizing them as either 'good' or 'bad' based on their quality ratings. This helped in standardizing the target variable and reducing the influence of extreme values.
+We used the 'dropna' method to remove any records with missing values to ensure our dataset was complete for analysis. To handle outliers that might affect the performance of the models we seperated our wines into bins. Categorizing them as either 'good' or 'bad' based on their quality ratings. This helped in standardizing the target variable and reducing the influence of extreme values.
 
 ## Exploratory Data Analysis
-Our approach was to build multiple models to take the base data and optimize it to predict the best scores using Random Forest Classifier, Gradient Boosting, Adaptive Boosting, Low/High Estimators, Logistic Regression, SVC Poly, and SVC Sigmoid 
+Our approach was to build multiple models to take the base data and optimize it to predict the best scores using Random Forest Classifier, Gradient Boosting, Adaptive Boosting, Low/High Estimators, Logistic Regression, SVC Poly, and SVC Sigmoid.
 
 Once we got the baseline scores Random Forest Classifier was the highest balanced test score.  So we decided to use that and built a function that searches through different Random Forest Classifier parameters to get the highest balance test score for the purpose of data optimization.
 
