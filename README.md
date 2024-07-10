@@ -4,13 +4,14 @@
 We are predicting the quality of red and white wines from the north of portugal, using machine learning techniques.  We will use the UCI data sets to improve our model, and our ability to predict the quality of the wines. We are analysing the data looking for a specific outcome of good or bad quality.  (Based on expert reveiws) 
 
 ## Executive Summary
-Brief overview of the project and its goals.
+Our goal is to predict wine quality based on chemical properties using machine learning techniques. We implemented and optimized models to achieve high accuracy and provide insights into feature importance.
 
 ## Table of Contents
 
 ## Intrduction
-Background information on the project.
-Importance of wine quality prediction.
+We all liked to have a good glass of wine and noticed that there was a great deal of data out their having to do with wine quality. Once we looked more into the project we realized that there was plenty of room to expand it using region, grape type and even weather if time permitted.
+
+Wine quality prediction is an important task in the wine industry, as it directly impacts consumer satisfaction and market success. By accurately predicting wine quality, producers and maintain high standards and consistency in their products.Our project aims to leverage machine learning techniques to predict wine quality based on various chemical properties of the wine.
 
 ## Resources-Data set summary.  
 The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult: http://www.vinhoverde.pt/en/ or the reference [Cortez et al., 2009].  Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
