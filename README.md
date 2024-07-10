@@ -1,6 +1,6 @@
 # group-project-2
 
-# Objective: 
+
 We are predicting the quality of red and white wines from the north of portugal, using machine learning techniques.  We will use the UCI data sets to improve our model, and our ability to predict the quality of the wines. We are analysing the data looking for a specific outcome of good or bad quality.  (Based on expert reveiws) 
 
 # Resources-Data set summary.  
