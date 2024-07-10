@@ -7,7 +7,9 @@ We are predicting the quality of red and white wines from the north of portugal,
 ## Table of Contents
 
 ## Introduction
-Any background info on the project. What is the imporrtance of wine quality prediction?
+Everyone in the group enjoyed a good wine. We noticed that there was a lot of data floating around that related to the quality as well. In addition to the amount of data at our desposal, we could possibly scale up our project to include region, grape type and weather.
+
+Wine quality prediction is important in the wine industry, as it directly impacts consumer satisfaction and market success. By accurately predicting wine quality, producers can maintain higher standards and consistency in their products. Our project aims to leverage machine learning techniques to predict wine quality based on various chemical properties of the wine.
 
 ### Objective: 
 We are predicting the quality of red and white wines from the north of portugal, using machine learning techniques.  We will use the UCI data sets to improve our model, and our ability to predict the quality of the wines. We are analysing the data looking for a specific outcome of good or bad quality.  (Based on expert reveiws) 
