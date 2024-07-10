@@ -20,10 +20,15 @@ Overview of the machine learning models used, how we implemented them. Could add
 Explain what were using like accuracy, balanced accuracy and other metrics.
 
 ## Feature importance 
-Analysis of feature importance, this is where the visualization of the top features should go
+![Feature importance](./presentation/importance.png)  
 
 ## Future Work
-Potential improvements or any next steps. I think this is where adding our weather data and region can go. Any other questions we might have.
+- How will climate change affect wine quality?
+	- No linking data available to add temperature and weather
+
+- What regions have the best wine quality?
+	- Data not available to create correlation between wine and region
+
 
 ## Conclusion
 - The Initial model shows overfitting and poor handling of class imbalance.
@@ -121,9 +126,6 @@ Baseline and best score summary visualilaztion.
 
 
 ![alt text](./presentation/baseline.png)  
-
-
-![alt text](./presentation/importance.png)  
 
 
 ![alt text](./presentation/max_depth.png)  
