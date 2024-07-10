@@ -26,6 +26,8 @@ Analysis of feature importance, this is where the visualization of the top featu
 Potential improvements or any next steps. I think this is where adding our weather data and region can go. Any other questions we might have.
 
 ## Conclusion
+![Final Result Table](./presentation/final_scores.png)
+
 - The Initial model shows overfitting and poor handling of class imbalance.
 
 - The Binned model shows significant improvement in generalization and handling of class imbalance.
@@ -37,6 +39,30 @@ Potential improvements or any next steps. I think this is where adding our weath
 - The Sampled and Binned model is the most robust and well-performing approach based on these metrics
 
 
+
+
+![alt text](./presentation/baseline.png)  
+
+
+![alt text](./presentation/importance.png)  
+
+
+![alt text](./presentation/max_depth.png)  
+
+
+![alt text](./presentation/min_leaf.png)  
+  
+  
+![alt text](./presentation/n_estimators.png)  
+  
+  
+![alt text](./presentation/min_split.png)  
+  
+  
+![alt text](./presentation/max_leaf.png)  
+  
+
+![alt text](./presentation/final_results.png) 
 ## References
 Data sets,tools used, any writings we might have
 
