@@ -26,7 +26,16 @@ Analysis of feature importance, this is where the visualization of the top featu
 Potential improvements or any next steps. I think this is where adding our weather data and region can go. Any other questions we might have.
 
 ## Conclusion
-This should probably match with the presentation, not sure exactly what we have found here. Maybe add something on how we think this data might impact the wine industry
+- The Initial model shows overfitting and poor handling of class imbalance.
+
+- The Binned model shows significant improvement in generalization and handling of class imbalance.
+
+- The Sampled model shows good performance and handles class imbalance well, with a very small balanced difference.
+
+- The Sampled and Binned model shows the best overall performance, generalizing well to the test data and handling class imbalance effectively, with the smallest balanced difference.
+
+- The Sampled and Binned model is the most robust and well-performing approach based on these metrics
+
 
 ## References
 Data sets,tools used, any writings we might have
@@ -87,10 +96,23 @@ Discover datasets around the world!
 
 2. Run main.ipynb file
 
+
+
 # Conclusion
 We were sucessful in predicting to a 93.6% balanced accuracy score for our RandomForestClassifier tuned model.
 Baseline and best score summary visualilaztion.
 
+
+## Conclusion
+- The Initial model shows overfitting and poor handling of class imbalance.
+
+- The Binned model shows significant improvement in generalization and handling of class imbalance.
+
+- The Sampled model shows good performance and handles class imbalance well, with a very small balanced difference.
+
+- The Sampled and Binned model shows the best overall performance, generalizing well to the test data and handling class imbalance effectively, with the smallest balanced difference.
+
+- The Sampled and Binned model is the most robust and well-performing approach based on these metrics
 
 
 
