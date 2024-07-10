@@ -1,20 +1,10 @@
-# Project Title
+# group-project-2
 
 
-## Executive Summary: 
-We are predicting the quality of red and white wines from the north of portugal, using machine learning techniques.  We will use the UCI data sets to improve our model, and our ability to predict the quality of the wines. We are analysing the data looking for a specific outcome of good or bad quality.  (Based on expert reveiws) (Move UCI data down to resource section?)
-
-## Table of Contents
-
-## Introduction
-Any background info on the project. What is the imporrtance of wine quality prediction?
-
-### Objective: 
 We are predicting the quality of red and white wines from the north of portugal, using machine learning techniques.  We will use the UCI data sets to improve our model, and our ability to predict the quality of the wines. We are analysing the data looking for a specific outcome of good or bad quality.  (Based on expert reveiws) 
 
-
-### Resources-Data set summary:  
-The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult: [www.vinhoverde.pt](http://www.vinhoverde.pt/en/en/homepage) or the reference [Cortez et al., 2009].  Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
+# Resources-Data set summary.  
+The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult: http://www.vinhoverde.pt/en/ or the reference [Cortez et al., 2009].  Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
 
 ## Data Collection and Cleaning
@@ -101,10 +91,16 @@ UCI Machine Learning Repository
 
 Discover datasets around the world!  
 
-### Instructions 
+# Instructions 
 1. Install the requirements
 
 2. Run main.ipynb file
+
+
+
+# Conclusion
+We were sucessful in predicting to a 93.6% balanced accuracy score for our RandomForestClassifier tuned model.
+Baseline and best score summary visualilaztion.
 
 
 ## Conclusion
