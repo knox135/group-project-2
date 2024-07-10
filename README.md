@@ -18,7 +18,7 @@ The two datasets are related to red and white variants of the Portuguese "Vinho 
 
 
 ## Data Collection and Cleaning
-The methods we used for our collection, steps to clean and prepprocess data. How did we hadle the missing values and outliers?
+We used the 'dropna' method to remove any recrds with missing values to ensure our dataset was complete for analysis. To handle outliers that might affect the performance of the models we seperated our wines into bins. Categorizing them as either 'good' or 'bad' based on their quality ratings. This helped in standardizing the target variable and reducing the influence of extreme values.
 
 ## Exploratory Data Analysis
 Our initial explorations in addition to any key insights or patterns that we found.
